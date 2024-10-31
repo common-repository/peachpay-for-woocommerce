@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"title": "PeachPay Express Checkout",
+	"name": "peachpay/express-checkout",
+	"keywords": [ "PeachPay", "Express", "Checkout" ],
+	"description": "A custom checkout button from PeachPay to delight and convert customers. This will be styled to match your PeachPay Express Checkout button settings.",
+	"textdomain": "peachpay-for-woocommerce",
+	"example": {},
+	"attributes": {},
+	"supports": {
+		"interactivity": true,
+		"html": false
+	},
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"render": "file:./render.php"
+}

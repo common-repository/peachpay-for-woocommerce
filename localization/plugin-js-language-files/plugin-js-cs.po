@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+
+msgid "+ Add new option"
+msgstr "+ Přidat novou možnost"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Opravdu chcete přidat všechny podporované měny? Tím se nahradí aktuální tabulka."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Opravdu chcete vymazat všechny měny?"
+
+msgid "Cancel"
+msgstr "zrušení"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Vyberte typ pole, které chcete přidat. „Vybrat“ je rozbalovací nabídka a „Rádio“ je sada bublin, ze kterých si můžete vybrat jednu možnost."
+
+msgid "Default value:"
+msgstr "Výchozí hodnota:"
+
+msgid "Display in Order Detail"
+msgstr "Zobrazit v detailu objednávky"
+
+msgid "Display in email"
+msgstr "Zobrazit v e-mailu"
+
+msgid "Enable"
+msgstr "Umožnit"
+
+msgid "Feedback"
+msgstr "Zpětná vazba"
+
+msgid "Field details"
+msgstr "Podrobnosti pole"
+
+msgid "I couldn't get the plugin to work"
+msgstr "Nemohl jsem zprovoznit plugin"
+
+msgid "I found a better plugin"
+msgstr "Našel jsem lepší plugin"
+
+msgid "I no longer need the plugin"
+msgstr "Plugin již nepotřebuji"
+
+msgid "Label:"
+msgstr "Označení:"
+
+msgid "Name:"
+msgstr "Název:"
+
+msgid "Other"
+msgstr "jiný"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Pomozte nám prosím pochopit, že PeachPay pro vás nefungoval"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Před přidáním tohoto balíčku do košíku vyberte zbývající možnosti produktu."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Před přidáním tohoto produktu do košíku vyberte zbývající možnosti produktu."
+
+msgid "Please share which plugin"
+msgstr "Podělte se prosím o jaký plugin"
+
+msgid "Please share your reason"
+msgstr "Podělte se prosím o svůj důvod"
+
+msgid "Required"
+msgstr "Požadované"
+
+msgid "Skip & deactivate"
+msgstr "Přeskočit a deaktivovat"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Promiň, něco se pokazilo. Obnovte stránku a zkuste to znovu."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Omlouváme se, tento produkt není skladem."
+
+msgid "Submit"
+msgstr "Předložit"
+
+msgid "Submit & deactivate"
+msgstr "Odeslat a deaktivovat"
+
+msgid "Temporary deactivation"
+msgstr "Dočasná deaktivace"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "Šířka zohledňuje pole vedle ní v editoru polí. Pokud jsou například tato dvě pole v editoru polí vedle sebe a obě jsou nastavena na 50 %, v pokladně se zobrazí vedle sebe."
+
+msgid "This gift card has no money left."
+msgstr "Na této dárkové kartě nezbývají žádné peníze."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "To se zobrazí v okně pokladny a na stránce pokladny."
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Můžete kontaktovat support@peachpay.app nebo použít"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Pro toto pole můžete nastavit hodnotu, která by měla být již předvyplněná, když nakupující otevře pokladnu."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Můžete použít cokoliv, ale musí se to lišit od ostatních polí. Pokud se nesnažíte být kompatibilní s jiným pluginem, můžete štítek jednoduše napsat."
+
+msgid "support chat"
+msgstr "podpora chatu"

@@ -1,0 +1,255 @@
+#pp-related-products-section {
+	position: relative;
+	display: flex;
+	gap: 4px;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+#pp-related-products-container {
+	display: flex;
+	position: relative;
+	flex-direction: row;
+	width: 100%;
+	align-items: center;
+	gap: 1rem;
+	transform-origin: top;
+	transition: all .25s ease;
+}
+
+.pp-rp-close {
+	transform: scale(0);
+	visibility: hidden;
+	opacity: 0;
+}
+
+.pp-rp-open {
+	transform: scaleY(1);
+	visibility: visible;
+	opacity: 1;
+}
+
+#pp-products-list-related-main {
+	display: flex;
+	gap: 12px;
+	padding: 4px 0px 12px 0px;
+}
+
+#pp-products-list-related {
+	display: -webkit-inline-box;
+	overflow-x: scroll;
+	scroll-snap-type: x mandatory;
+	scroll-behavior: smooth;
+}
+
+.pp-rp-fade-left {
+	pointer-events: none;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 10%;
+	height: 100%;
+	background-image: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+	transition: all .2s;
+}
+
+.pp-rp-fade-right {
+	pointer-events: none;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 10%;
+	height: 100%;
+	background-image: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+	transition: all .2s;
+}
+
+.pp-rp-fade-left-hide {
+	opacity: 0;
+	transition: all .2s;
+}
+
+.pp-rp-fade-right-hide {
+	opacity: 0;
+	transition: all .2s;
+}
+
+.pp-rp-scroll-btn {
+	width: 16px;
+	height: 32px;
+	cursor: pointer;
+}
+
+.pp-next-btn-related {
+	transform: rotate(180deg);
+}
+
+.pp-related-product-body {
+	background-color: white;
+	width: 240px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	padding: 8px 16px;
+	position: relative;
+	box-sizing: border-box;
+	border-radius: 8px;
+	border: 1px solid #bdbdbd;
+}
+
+.pp-rp-body-small {
+	width: 206px;
+}
+
+.pp-related-product-img {
+	width: 50px;
+	height: 62px;
+	object-fit: cover;
+}
+
+.pp-rp-content {
+	display: flex;
+	flex-direction: row;
+	font-size: 12px;
+	line-height: 16px;
+	color: black;
+	gap: 8px;
+	width: 100%;
+}
+
+.pp-rp-title {
+	width: 100%;
+	margin-bottom: 4px;
+	color: #212121;
+}
+
+.pp-rp-sale {
+	width: 24px;
+	height: 24px;
+	margin-right: 10px;
+}
+
+.pp-rp-price {
+	color: #212121;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	display: flex;
+	flex-direction: row;
+	gap: 2px;
+	align-items: center;
+}
+
+.pp-rp-price-sale {
+	flex-direction: row-reverse;
+	gap: 10px;
+}
+
+.pp-rp-bv-sale {
+	font-size: 12px;
+	font-weight: 600;
+	margin-left: -2px;
+}
+
+.pp-rp-price ins{
+	text-decoration: none;
+}
+
+.pp-rp-price del {
+	color: #757575;
+	font-size: 10px;
+}
+
+.pp-rp-add-btn {
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+	background-color: transparent;
+	color: var(--peachpay-theme-color);
+	border: 1px solid var(--peachpay-theme-color);
+	border-radius: 8px;
+	cursor: pointer;
+	font-size: 12px;
+	line-height: 16px;
+	width: 100%;
+	padding: 8px 12px;
+	gap: 12px;
+}
+
+#pp-rp-dropdown-btn {
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.pp-rp-dropdown {
+	width: 42px;
+	height: 18px;
+}
+
+.pp-rp-dropdown-down {
+	background-color: rgb(196, 196, 196, 0.37);
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.pp-rp-dropdown-up {
+	transform: rotate(180deg);
+	background-color: rgb(196, 196, 196, 0.37);
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.pp-variable-button {
+	color: white;
+	background-color: var(--peachpay-theme-color);
+	font-size: 14px;
+	padding: 2px;
+	border-radius: 5px;
+	font-size: 12px;
+}
+
+#pp-related-products-section-mobile-existing {
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	gap: 4px;
+	margin-bottom: 5px;
+	justify-items: center;
+}
+
+.pp-products-list-related-mobile, .pp-products-list-related-mobile-existing {
+	display: flex;
+	gap: 12px;
+	padding-bottom: 12px;
+	width: 100%;
+	overflow-x: auto;
+}
+
+@media only screen and (max-width: 900px) {
+
+	.pp-related-product-body {
+		width: 220px;
+	}
+
+	.pp-rp-body-small {
+		width: 220px;
+	}
+
+	.pp-rp-price {
+		font-size: 12px;
+	}
+
+	.pp-rp-price-sale {
+		gap: 6px;
+	}
+
+	.pp-rp-sale {
+		margin-right: 6px;
+	}
+
+	.pp-rp-add-btn {
+		padding: 4px 8px;
+		gap: 4px;
+	}
+}

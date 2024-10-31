@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ ДОДАТИ КОД КУПОНА"
+
+msgid "+ COUPON"
+msgstr "+ КУПОН"
+
+msgid "+ NEW CARD"
+msgstr "+ НОВА КАРТКА"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ ВИКЛЮЧИТИ ПОДАРУНКУ КАРТКУ/КРЕДИТ МАГАЗИНУ"
+
+msgid "ADD"
+msgstr "ДОДАТИ"
+
+msgid "Accept"
+msgstr "прийняти"
+
+msgid "Account"
+msgstr "Обліковий запис"
+
+msgid "Account login"
+msgstr "Вхід в обліковий запис"
+
+msgid "Account name"
+msgstr "Ім'я облікового запису"
+
+msgid "Account registration"
+msgstr "Реєстрація облікового запису"
+
+msgid "Add"
+msgstr "додати"
+
+msgid "Additional information"
+msgstr "Додаткова інформація"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Після натискання <b>Оплатити</b> з'явиться вікно, де ви зможете ввести дані своєї картки."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Після вибору <b>Оплатити</b> з’явиться запит на вибір банківського рахунку."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Після вибору <b>Оплатити</b> ви будете перенаправлені для завершення платежу."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Після вибору оплати вас буде переспрямовано для завершення оплати."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Після вибору оплати з’явиться вікно, де можна завершити оплату."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Після надсилання замовлення з’явиться ще один крок для завершення деталей покупки."
+
+msgid "Apartment"
+msgstr "Квартира"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay вибрано для оплати."
+
+msgid "BILLING"
+msgstr "БІЛІНГ"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Bill to"
+msgstr "Виставити рахунок"
+
+msgid "Billing"
+msgstr "Виставлення рахунків"
+
+msgid "Billing method"
+msgstr "Спосіб виставлення рахунків"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Натискаючи <b>Прийняти</b>, ви авторизуєтесь"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Натискаючи кнопку вище, ви погоджуєтеся"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Card"
+msgstr "Картка"
+
+msgid "Cart is empty"
+msgstr "Кошик порожній"
+
+msgid "Cheque"
+msgstr "Перевірте"
+
+msgid "City"
+msgstr "Місто"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Continue"
+msgstr "Продовжуйте"
+
+msgid "Country"
+msgstr "Країна"
+
+msgid "County"
+msgstr "повіт"
+
+msgid "Coupon"
+msgstr "Купон"
+
+msgid "Coupon code"
+msgstr "Код купона"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Customize"
+msgstr "Налаштувати"
+
+msgid "Delivery date"
+msgstr "Дата доставки"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Email"
+msgstr "Електронна пошта"
+
+msgid "Email or Username"
+msgstr "Електронна пошта або ім'я користувача"
+
+msgid "Exit checkout"
+msgstr "Вийти з каси"
+
+msgid "First name"
+msgstr "Ім'я"
+
+msgid "First renewal"
+msgstr "Перше оновлення"
+
+msgid "Gift card number"
+msgstr "Номер подарункової картки"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Для оплати вибрано Google Pay."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Я підтверджую, що країна, в яку я ввійшов, є тією, в якій я проживаю"
+
+msgid "Initial Shipment"
+msgstr "Початкове відправлення"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Зберігайте мою інформацію для швидшої оплати"
+
+msgid "Last name"
+msgstr "Прізвище"
+
+msgid "Login"
+msgstr "Логін"
+
+msgid "My cart"
+msgstr "Мій візок"
+
+msgid "No thanks"
+msgstr "Ні, дякую"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Примітка. Платежі можуть тривати до 5 днів."
+
+msgid "Order notes"
+msgstr "Примітки до замовлення"
+
+msgid "Order summary"
+msgstr "Підсумок Замовлення"
+
+msgid "PAYMENT"
+msgstr "ОПЛАТА"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Pay"
+msgstr "Платити"
+
+msgid "Pay with a cheque"
+msgstr "Оплата чеком"
+
+msgid "Payment"
+msgstr "оплата"
+
+msgid "Payment method"
+msgstr "Спосіб оплати"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Оплата банківським переказом"
+
+msgid "Personal"
+msgstr "Особистий"
+
+msgid "Phone number"
+msgstr "Номер телефону"
+
+msgid "Place order"
+msgstr "Зробити замовлення"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Будь ласка, поверніться та спробуйте ще раз. Відсутнє обов’язкове поле"
+
+msgid "Postal code"
+msgstr "Поштовий індекс"
+
+msgid "Powered by"
+msgstr "Працює на"
+
+msgid "Privacy Policy"
+msgstr "Політика конфіденційності"
+
+msgid "Processing"
+msgstr "Обробка"
+
+msgid "Province"
+msgstr "провінція"
+
+msgid "Purchase order"
+msgstr "Замовлення на придбання"
+
+msgid "Recommended for you"
+msgstr "рекомендовано для вас"
+
+msgid "Recurring total"
+msgstr "Повторюваний підсумок"
+
+msgid "Register"
+msgstr "зареєструватися"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Return"
+msgstr "Повернення"
+
+msgid "Review your information"
+msgstr "Перегляньте свою інформацію"
+
+msgid "SHIPPING"
+msgstr "ДОСТАВКА"
+
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+msgid "Select a country"
+msgstr "Виберіть країну"
+
+msgid "Select a province"
+msgstr "Виберіть провінцію"
+
+msgid "Select a state"
+msgstr "Виберіть стан"
+
+msgid "Ship to"
+msgstr "Відправити до"
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Shipping method"
+msgstr "Метод доставки"
+
+msgid "State"
+msgstr "держава"
+
+msgid "Street address"
+msgstr "Адреса вулиці"
+
+msgid "Subtotal"
+msgstr "Проміжний підсумок"
+
+msgid "Tax"
+msgstr "податок"
+
+msgid "Terms of Service"
+msgstr "Умови обслуговування"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Тестовий режим: клієнти не бачать PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Необхідний мандат не був прийнятий. Платіж скасовано."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Для цього замовлення немає доступних або активних способів оплати."
+
+msgid "There are no payment methods available"
+msgstr "Немає доступних способів оплати"
+
+msgid "There are no shipping methods available"
+msgstr "Немає доступних способів доставки"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Цей спосіб оплати не підтримує вибрану валюту, після натискання на це повідомлення валюта перейде"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Цей спосіб оплати не підтримує вибрану валюту. Після вибору цього параметра валюта перейде на"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Цей спосіб оплати не підтримує вибрану валюту. Будь ласка, змініть валюту."
+
+msgid "Total"
+msgstr "Всього"
+
+msgid "US bank account"
+msgstr "банківський рахунок США"
+
+msgid "Unknown order error occurred"
+msgstr "Сталася невідома помилка замовлення"
+
+msgid "Use different shipping address"
+msgstr "Використовуйте іншу адресу доставки"
+
+msgid "VIEW SAVED CARDS"
+msgstr "ПЕРЕГЛЯНУТИ ЗБЕРЕЖЕНІ КАРТКИ"
+
+msgid "Verified"
+msgstr "Перевірено"
+
+msgid "View options"
+msgstr "Переглянути параметри"
+
+msgid "Wire/Bank Transfer"
+msgstr "Банківський переказ"
+
+msgid "You entered an invalid coupon code"
+msgstr "Ви ввели недійсний код купона"
+
+msgid "You entered an invalid gift card"
+msgstr "Ви ввели недійсну подарункову картку"
+
+msgid "additional"
+msgstr "додатковий"
+
+msgid "and"
+msgstr "і"
+
+msgid "apply"
+msgstr "застосувати"
+
+msgid "each"
+msgstr "кожен"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Банк"
+
+msgid "privacy policy"
+msgstr "політика конфіденційності"
+
+msgid "pursuant to"
+msgstr "відповідно до"
+
+msgid "services and/or purchase of products from "
+msgstr "послуги та/або придбання продуктів у"
+
+msgid "terms"
+msgstr "терміни"
+
+msgid "terms and conditions"
+msgstr "правила та умови"
+
+msgid "the"
+msgstr "в"
+
+msgid "the store's"
+msgstr "магазину"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "для списання з банківського рахунку, зазначеного вище, на будь-яку суму заборгованості за витрати, пов’язані з використанням вами"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "веб-сайт і умови, доки цей дозвіл не буде відкликано. Ви можете змінити або скасувати цей дозвіл у будь-який час, повідомивши про це"
+
+msgid "with 30 (thirty) days notice."
+msgstr "з повідомленням за 30 (тридцять) днів."

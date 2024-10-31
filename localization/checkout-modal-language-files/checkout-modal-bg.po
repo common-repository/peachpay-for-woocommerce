@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ ДОБАВЯНЕ НА КОД НА КУПОН"
+
+msgid "+ COUPON"
+msgstr "+ КУПОН"
+
+msgid "+ NEW CARD"
+msgstr "+ НОВА КАРТА"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ ИЗКУПЕТЕ КАРТА ЗА ПОДАРЪК/КРЕДИТ ЗА МАГАЗИН"
+
+msgid "ADD"
+msgstr "ДОБАВЯНЕ"
+
+msgid "Accept"
+msgstr "Приеми"
+
+msgid "Account"
+msgstr "Сметка"
+
+msgid "Account login"
+msgstr "Влизане в акаунта"
+
+msgid "Account name"
+msgstr "Име на акаунта"
+
+msgid "Account registration"
+msgstr "Регистрация на акаунт"
+
+msgid "Add"
+msgstr "Добавете"
+
+msgid "Additional information"
+msgstr "Допълнителна информация"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "След като щракнете върху <b>Плащане</b>, ще се появи прозорец, където можете да въведете информацията за вашата карта."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "След като изберете <b>Плащане</b>, ще се появи подкана за избор на банкова сметка."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "След като изберете <b>Плащане</b>, ще бъдете пренасочени, за да завършите плащането си."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "След като изберете плащане, ще бъдете пренасочени да завършите плащането си."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "След като изберете плащане, ще се появи прозорец, където можете да завършите плащането си."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "След като изпратите поръчката си, ще се появи друга стъпка, за да завършите подробностите за покупката."
+
+msgid "Apartment"
+msgstr "Апартамент"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay избран за плащане."
+
+msgid "BILLING"
+msgstr "ТАКСУВАНЕ"
+
+msgid "Back"
+msgstr "обратно"
+
+msgid "Bill to"
+msgstr "Сметка на"
+
+msgid "Billing"
+msgstr "Таксуване"
+
+msgid "Billing method"
+msgstr "Метод на таксуване"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Като щракнете върху <b>Приемам</b>, вие упълномощавате"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Като щракнете върху бутона по-горе, вие се съгласявате"
+
+msgid "Cancel"
+msgstr "Отмяна"
+
+msgid "Card"
+msgstr "карта"
+
+msgid "Cart is empty"
+msgstr "Количката е празна"
+
+msgid "Cheque"
+msgstr "Проверете"
+
+msgid "City"
+msgstr "град"
+
+msgid "Close"
+msgstr "Близо"
+
+msgid "Continue"
+msgstr "продължи"
+
+msgid "Country"
+msgstr "Държава"
+
+msgid "County"
+msgstr "окръг"
+
+msgid "Coupon"
+msgstr "Купон"
+
+msgid "Coupon code"
+msgstr "Код на купон"
+
+msgid "Currency"
+msgstr "Валута"
+
+msgid "Customize"
+msgstr "Персонализиране"
+
+msgid "Delivery date"
+msgstr "Дата на доставка"
+
+msgid "Done"
+msgstr "Свършен"
+
+msgid "Edit"
+msgstr "редактиране"
+
+msgid "Email"
+msgstr "електронна поща"
+
+msgid "Email or Username"
+msgstr "Имейл или потребителско име"
+
+msgid "Exit checkout"
+msgstr "Изход от касата"
+
+msgid "First name"
+msgstr "Първо име"
+
+msgid "First renewal"
+msgstr "Първо подновяване"
+
+msgid "Gift card number"
+msgstr "Номер на карта за подарък"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay е избран за плащане."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Потвърждавам, че държавата, в която съм влязъл, е тази, в която пребивавам"
+
+msgid "Initial Shipment"
+msgstr "Първоначално изпращане"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Запазете информацията ми за по-бързо плащане"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "Login"
+msgstr "Влизам"
+
+msgid "My cart"
+msgstr "Моята количка"
+
+msgid "No thanks"
+msgstr "Не благодаря"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Забележка: Завършването на плащанията може да отнеме до 5 дни."
+
+msgid "Order notes"
+msgstr "Бележки за поръчката"
+
+msgid "Order summary"
+msgstr "Резюме на поръчката"
+
+msgid "PAYMENT"
+msgstr "ПЛАЩАНЕ"
+
+msgid "Password"
+msgstr "парола"
+
+msgid "Pay"
+msgstr "Плати"
+
+msgid "Pay with a cheque"
+msgstr "Платете с чек"
+
+msgid "Payment"
+msgstr "Плащане"
+
+msgid "Payment method"
+msgstr "Начин на плащане"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Плащане чрез банков превод"
+
+msgid "Personal"
+msgstr "Лични"
+
+msgid "Phone number"
+msgstr "Телефонен номер"
+
+msgid "Place order"
+msgstr "Поръчай"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Моля, върнете се и опитайте отново. Липсва задължително поле"
+
+msgid "Postal code"
+msgstr "Пощенски код"
+
+msgid "Powered by"
+msgstr "Задвижвани от"
+
+msgid "Privacy Policy"
+msgstr "Политика за поверителност"
+
+msgid "Processing"
+msgstr "Обработка"
+
+msgid "Province"
+msgstr "провинция"
+
+msgid "Purchase order"
+msgstr "Поръчка"
+
+msgid "Recommended for you"
+msgstr "препоръчително за теб"
+
+msgid "Recurring total"
+msgstr "Повтарящо се общо"
+
+msgid "Register"
+msgstr "Регистрирам"
+
+msgid "Remove"
+msgstr "Премахване"
+
+msgid "Return"
+msgstr "Връщане"
+
+msgid "Review your information"
+msgstr "Прегледайте информацията си"
+
+msgid "SHIPPING"
+msgstr "ДОСТАВКА"
+
+msgid "Save changes"
+msgstr "Запазите промените"
+
+msgid "Select a country"
+msgstr "Изберете държава"
+
+msgid "Select a province"
+msgstr "Изберете провинция"
+
+msgid "Select a state"
+msgstr "Изберете състояние"
+
+msgid "Ship to"
+msgstr "Изпратете до"
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Shipping method"
+msgstr "Начин на доставка"
+
+msgid "State"
+msgstr "състояние"
+
+msgid "Street address"
+msgstr "Адрес на улица"
+
+msgid "Subtotal"
+msgstr "Междинна сума"
+
+msgid "Tax"
+msgstr "данък"
+
+msgid "Terms of Service"
+msgstr "Условия за ползване"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Тестов режим: клиентите не могат да виждат PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Необходимият мандат не беше приет. Плащането е отменено."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Няма налични подходящи или активни методи на плащане за тази поръчка."
+
+msgid "There are no payment methods available"
+msgstr "Няма налични методи за плащане"
+
+msgid "There are no shipping methods available"
+msgstr "Няма налични методи за доставка"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Този начин на плащане не поддържа избраната валута, при щракване върху това съобщение валутата ще премине към"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Този начин на плащане не поддържа избраната валута. При избор на това валутата ще премине към"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Този начин на плащане не поддържа избраната валута. Моля, сменете валутите."
+
+msgid "Total"
+msgstr "Обща сума"
+
+msgid "US bank account"
+msgstr "банкова сметка в САЩ"
+
+msgid "Unknown order error occurred"
+msgstr "Възникна грешка при неизвестна поръчка"
+
+msgid "Use different shipping address"
+msgstr "Използвайте различен адрес за доставка"
+
+msgid "VIEW SAVED CARDS"
+msgstr "ВИЖТЕ ЗАПАЗЕНИ КАРТИ"
+
+msgid "Verified"
+msgstr "Потвърдено"
+
+msgid "View options"
+msgstr "Вижте опциите"
+
+msgid "Wire/Bank Transfer"
+msgstr "Банков превод"
+
+msgid "You entered an invalid coupon code"
+msgstr "Въведохте невалиден код на талон"
+
+msgid "You entered an invalid gift card"
+msgstr "Въведохте невалидна карта за подарък"
+
+msgid "additional"
+msgstr "допълнителен"
+
+msgid "and"
+msgstr "и"
+
+msgid "apply"
+msgstr "Приложи"
+
+msgid "each"
+msgstr "всеки"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "политика за поверителност"
+
+msgid "pursuant to"
+msgstr "в съответствие с"
+
+msgid "services and/or purchase of products from "
+msgstr "услуги и/или покупка на продукти от"
+
+msgid "terms"
+msgstr "термини"
+
+msgid "terms and conditions"
+msgstr "правила и условия"
+
+msgid "the"
+msgstr "на"
+
+msgid "the store's"
+msgstr "на магазина"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "за дебитиране на посочената по-горе банкова сметка за всяка дължима сума за такси, произтичащи от използването на"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "уебсайт и условия, докато това разрешение не бъде отменено. Можете да промените или отмените това разрешение по всяко време, като изпратите уведомление до"
+
+msgid "with 30 (thirty) days notice."
+msgstr "с 30 (тридесет) дневно предизвестие."

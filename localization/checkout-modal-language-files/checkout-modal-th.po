@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ เพิ่มรหัสคูปอง"
+
+msgid "+ COUPON"
+msgstr "+ คูปอง"
+
+msgid "+ NEW CARD"
+msgstr "+ การ์ดใหม่"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ แลกบัตรของขวัญ/เครดิตร้านค้า"
+
+msgid "ADD"
+msgstr "เพิ่ม"
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+msgid "Account"
+msgstr "บัญชี"
+
+msgid "Account login"
+msgstr "เข้าสู้ระบบบัญชี"
+
+msgid "Account name"
+msgstr "ชื่อบัญชี"
+
+msgid "Account registration"
+msgstr "การลงทะเบียนบัญชี"
+
+msgid "Add"
+msgstr "เพิ่ม"
+
+msgid "Additional information"
+msgstr "ข้อมูลเพิ่มเติม"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "หลังจากคลิก <b>ชำระเงิน</b> หน้าต่างจะปรากฏขึ้นเพื่อให้คุณป้อนข้อมูลบัตรของคุณ"
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "หลังจากเลือก <b>ชำระเงิน</b> จะปรากฏข้อความให้เลือกบัญชีธนาคาร"
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "หลังจากเลือก <b>ชำระเงิน</b> คุณจะถูกเปลี่ยนเส้นทางเพื่อชำระเงินให้เสร็จสิ้น"
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "หลังจากเลือกชำระเงินแล้ว ระบบจะเปลี่ยนเส้นทางเพื่อชำระเงินให้เสร็จสิ้น"
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "หลังจากเลือกการชำระเงิน หน้าต่างจะปรากฏขึ้นเพื่อให้คุณชำระเงินได้สำเร็จ"
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "ขั้นตอนอื่นจะปรากฏขึ้นหลังจากส่งคำสั่งซื้อของคุณเพื่อกรอกรายละเอียดการซื้อของคุณ"
+
+msgid "Apartment"
+msgstr "อพาร์ทเม้น"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "เลือก Apple Pay สำหรับการชำระเงิน"
+
+msgid "BILLING"
+msgstr "การเรียกเก็บเงิน"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "Bill to"
+msgstr "ส่งเบิกไปที่"
+
+msgid "Billing"
+msgstr "การเรียกเก็บเงิน"
+
+msgid "Billing method"
+msgstr "วิธีการเรียกเก็บเงิน"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "การคลิก <b>ยอมรับ</b> แสดงว่าคุณอนุญาต"
+
+msgid "By clicking the button above, you agree to"
+msgstr "การคลิกปุ่มด้านบนแสดงว่าคุณยอมรับ"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Card"
+msgstr "การ์ด"
+
+msgid "Cart is empty"
+msgstr "รถเข็นว่างเปล่า"
+
+msgid "Cheque"
+msgstr "ตรวจสอบ"
+
+msgid "City"
+msgstr "เมือง"
+
+msgid "Close"
+msgstr "ปิด I"
+
+msgid "Continue"
+msgstr "ดำเนินการต่อ"
+
+msgid "Country"
+msgstr "ประเทศ"
+
+msgid "County"
+msgstr "เขต"
+
+msgid "Coupon"
+msgstr "คูปอง"
+
+msgid "Coupon code"
+msgstr "รหัสคูปอง"
+
+msgid "Currency"
+msgstr "สกุลเงิน"
+
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+msgid "Delivery date"
+msgstr "วันที่จัดส่ง"
+
+msgid "Done"
+msgstr "เสร็จแล้ว"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "Email or Username"
+msgstr "อีเมล์หรือชื่อผู้ใช้"
+
+msgid "Exit checkout"
+msgstr "ออกจากการชำระเงิน"
+
+msgid "First name"
+msgstr "ชื่อจริง"
+
+msgid "First renewal"
+msgstr "ต่ออายุครั้งแรก"
+
+msgid "Gift card number"
+msgstr "หมายเลขบัตรของขวัญ"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "เลือก Google Pay สำหรับการชำระเงิน"
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "ฉันยืนยันว่าประเทศที่ฉันเข้ามาเป็นประเทศที่ฉันอาศัยอยู่"
+
+msgid "Initial Shipment"
+msgstr "การจัดส่งครั้งแรก"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "เก็บข้อมูลของฉันไว้เพื่อการชำระเงินที่รวดเร็วยิ่งขึ้น"
+
+msgid "Last name"
+msgstr "นามสกุล"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "My cart"
+msgstr "รถเข็นของฉัน"
+
+msgid "No thanks"
+msgstr "ไม่เป็นไรขอบคุณ"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "หมายเหตุ: การชำระเงินอาจใช้เวลาถึง 5 วันจึงจะเสร็จสมบูรณ์"
+
+msgid "Order notes"
+msgstr "หมายเหตุการสั่งซื้อ"
+
+msgid "Order summary"
+msgstr "สรุปคำสั่งซื้อ"
+
+msgid "PAYMENT"
+msgstr "การชำระเงิน"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgid "Pay"
+msgstr "จ่าย"
+
+msgid "Pay with a cheque"
+msgstr "จ่ายด้วยเช็ค"
+
+msgid "Payment"
+msgstr "การชำระเงิน"
+
+msgid "Payment method"
+msgstr "วิธีการชำระเงิน"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "ชำระเงินด้วยการโอนเงินผ่านธนาคาร/โอนเงินผ่านธนาคาร"
+
+msgid "Personal"
+msgstr "ส่วนตัว"
+
+msgid "Phone number"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "Place order"
+msgstr "สถานที่การสั่งซื้อ"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "โปรดกลับไปและลองอีกครั้ง ไม่มีช่องที่ต้องกรอก"
+
+msgid "Postal code"
+msgstr "รหัสไปรษณีย์"
+
+msgid "Powered by"
+msgstr "ขับเคลื่อนโดย"
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "Processing"
+msgstr "กำลังประมวลผล"
+
+msgid "Province"
+msgstr "จังหวัด"
+
+msgid "Purchase order"
+msgstr "ใบสั่งซื้อ"
+
+msgid "Recommended for you"
+msgstr "แนะนำสำหรับคุณ"
+
+msgid "Recurring total"
+msgstr "ยอดรวมที่เกิดซ้ำ"
+
+msgid "Register"
+msgstr "ลงทะเบียน"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Return"
+msgstr "กลับ"
+
+msgid "Review your information"
+msgstr "ตรวจสอบข้อมูลของคุณ"
+
+msgid "SHIPPING"
+msgstr "การส่งสินค้า"
+
+msgid "Save changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "Select a country"
+msgstr "เลือกประเทศ"
+
+msgid "Select a province"
+msgstr "เลือกจังหวัด"
+
+msgid "Select a state"
+msgstr "เลือกรัฐ"
+
+msgid "Ship to"
+msgstr "ส่งไปที่"
+
+msgid "Shipping"
+msgstr "การส่งสินค้า"
+
+msgid "Shipping method"
+msgstr "วิธีจัดส่ง"
+
+msgid "State"
+msgstr "สถานะ"
+
+msgid "Street address"
+msgstr "ที่อยู่ถนน"
+
+msgid "Subtotal"
+msgstr "ยอดรวม"
+
+msgid "Tax"
+msgstr "ภาษี"
+
+msgid "Terms of Service"
+msgstr "เงื่อนไขการให้บริการ"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "โหมดทดสอบ: ลูกค้าไม่สามารถเห็น PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "ไม่ยอมรับอาณัติที่จำเป็น การชำระเงินถูกยกเลิก"
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "ไม่มีวิธีการชำระเงินที่มีสิทธิ์หรือใช้งานได้สำหรับคำสั่งซื้อนี้"
+
+msgid "There are no payment methods available"
+msgstr "ไม่มีวิธีการชำระเงินที่ใช้ได้"
+
+msgid "There are no shipping methods available"
+msgstr "ไม่มีวิธีจัดส่ง"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "วิธีการชำระเงินนี้ไม่รองรับสกุลเงินที่เลือก เมื่อคลิกข้อความนี้ สกุลเงินจะเปลี่ยนเป็น"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "วิธีการชำระเงินนี้ไม่รองรับสกุลเงินที่เลือก เมื่อเลือกตัวเลือกนี้ สกุลเงินจะเปลี่ยนเป็น"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "วิธีการชำระเงินนี้ไม่รองรับสกุลเงินที่เลือก กรุณาเปลี่ยนสกุลเงิน"
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+msgid "US bank account"
+msgstr "บัญชีธนาคารของสหรัฐอเมริกา"
+
+msgid "Unknown order error occurred"
+msgstr "เกิดข้อผิดพลาดในการสั่งซื้อที่ไม่รู้จัก"
+
+msgid "Use different shipping address"
+msgstr "ใช้ที่อยู่จัดส่งอื่น"
+
+msgid "VIEW SAVED CARDS"
+msgstr "ดูการ์ดที่บันทึกไว้"
+
+msgid "Verified"
+msgstr "ตรวจสอบแล้ว"
+
+msgid "View options"
+msgstr "ดูตัวเลือก"
+
+msgid "Wire/Bank Transfer"
+msgstr "โอนเงิน/โอนเงินผ่านธนาคาร"
+
+msgid "You entered an invalid coupon code"
+msgstr "คุณป้อนรหัสคูปองไม่ถูกต้อง"
+
+msgid "You entered an invalid gift card"
+msgstr "คุณป้อนบัตรของขวัญที่ไม่ถูกต้อง"
+
+msgid "additional"
+msgstr "เพิ่มเติม"
+
+msgid "and"
+msgstr "และ"
+
+msgid "apply"
+msgstr "นำมาใช้"
+
+msgid "each"
+msgstr "แต่ละ"
+
+msgid "iDEAL Bank"
+msgstr "ธนาคาร iDEAL"
+
+msgid "privacy policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "pursuant to"
+msgstr "ตาม"
+
+msgid "services and/or purchase of products from "
+msgstr "บริการและ/หรือซื้อสินค้าจาก"
+
+msgid "terms"
+msgstr "เงื่อนไข"
+
+msgid "terms and conditions"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgid "the"
+msgstr "ที่"
+
+msgid "the store's"
+msgstr "ของร้าน"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "เพื่อหักบัญชีธนาคารที่ระบุไว้ข้างต้นสำหรับจำนวนเงินที่ค้างชำระสำหรับค่าใช้จ่ายที่เกิดขึ้นจากการใช้งานของคุณ"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "เว็บไซต์และข้อกำหนด จนกว่าการอนุญาตนี้จะถูกยกเลิก คุณสามารถแก้ไขหรือยกเลิกการอนุญาตนี้ได้ตลอดเวลาโดยแจ้งไปยัง"
+
+msgid "with 30 (thirty) days notice."
+msgstr "โดยแจ้งล่วงหน้า 30 (สามสิบ) วัน"

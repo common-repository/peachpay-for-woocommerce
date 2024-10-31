@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ ΠΡΟΣΘΗΚΗ ΚΩΔΙΚΟΥ ΚΟΥΠΟΝΙΟΥ"
+
+msgid "+ COUPON"
+msgstr "+ ΚΟΥΠΟΝΙ"
+
+msgid "+ NEW CARD"
+msgstr "+ ΝΕΑ ΚΑΡΤΑ"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ ΕΞΑΡΓΥΡΩΣΤΕ ΔΩΡΟΚΑΡΤΑ/ΠΙΣΤΩΣΗ ΚΑΤΑΣΤΗΜΑΤΟΣ"
+
+msgid "ADD"
+msgstr "ΠΡΟΣΘΗΚΗ"
+
+msgid "Accept"
+msgstr "Αποδέχομαι"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Account login"
+msgstr "Είσοδος σε λογαριασμό"
+
+msgid "Account name"
+msgstr "Όνομα λογαριασμού"
+
+msgid "Account registration"
+msgstr "Εγγραφή λογαριασμού"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Additional information"
+msgstr "Επιπλέον πληροφορίες"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Αφού κάνετε κλικ στο <b>Πληρωμή</b>, θα εμφανιστεί ένα παράθυρο όπου μπορείτε να εισαγάγετε τα στοιχεία της κάρτας σας."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Αφού επιλέξετε <b>Πληρωμή</b> θα εμφανιστεί ένα μήνυμα για να επιλέξετε έναν τραπεζικό λογαριασμό."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Αφού επιλέξετε <b>Πληρωμή</b> θα ανακατευθυνθείτε για να ολοκληρώσετε την πληρωμή σας."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Αφού επιλέξετε την πληρωμή, θα ανακατευθυνθείτε για να ολοκληρώσετε την πληρωμή σας."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Αφού επιλέξετε πληρωμή, θα εμφανιστεί ένα παράθυρο όπου μπορείτε να ολοκληρώσετε την πληρωμή σας."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Ένα άλλο βήμα θα εμφανιστεί μετά την υποβολή της παραγγελίας σας για να ολοκληρώσετε τα στοιχεία αγοράς σας."
+
+msgid "Apartment"
+msgstr "Διαμέρισμα"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Επιλέχθηκε το Apple Pay για ολοκλήρωση αγοράς."
+
+msgid "BILLING"
+msgstr "ΧΡΕΩΣΗ"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Bill to"
+msgstr "Bill to"
+
+msgid "Billing"
+msgstr "Χρεωση"
+
+msgid "Billing method"
+msgstr "Μέθοδος χρέωσης"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Κάνοντας κλικ στην επιλογή <b>Αποδοχή</b>, εξουσιοδοτείτε"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Κάνοντας κλικ στο παραπάνω κουμπί, συμφωνείτε με"
+
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+msgid "Card"
+msgstr "Κάρτα"
+
+msgid "Cart is empty"
+msgstr "Το καλάθι είναι άδειο"
+
+msgid "Cheque"
+msgstr "Έλεγχος"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "Close"
+msgstr "Κλείσε"
+
+msgid "Continue"
+msgstr "Συνέχισε"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "County"
+msgstr "Κομητεία"
+
+msgid "Coupon"
+msgstr "Κουπόνι"
+
+msgid "Coupon code"
+msgstr "Κωδικός κουπονιού"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Customize"
+msgstr "Προσαρμογή"
+
+msgid "Delivery date"
+msgstr "Ημερομηνία παράδοσης"
+
+msgid "Done"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email or Username"
+msgstr "E-mail ή το όνομα χρήστη"
+
+msgid "Exit checkout"
+msgstr "Έξοδος από το ταμείο"
+
+msgid "First name"
+msgstr "Ονομα"
+
+msgid "First renewal"
+msgstr "Πρώτη ανανέωση"
+
+msgid "Gift card number"
+msgstr "Αριθμός δωροκάρτας"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Επιλέχθηκε το Google Pay για ολοκλήρωση αγοράς."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Επαληθεύω ότι η χώρα την οποία έχω εισάγει είναι αυτή στην οποία διαμένω"
+
+msgid "Initial Shipment"
+msgstr "Αρχική Αποστολή"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Διατηρήστε τις πληροφορίες μου αποθηκευμένες για ταχύτερη ολοκλήρωση αγοράς"
+
+msgid "Last name"
+msgstr "Επίθετο"
+
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgid "My cart"
+msgstr "Το καλάθι μου"
+
+msgid "No thanks"
+msgstr "Όχι ευχαριστώ"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Σημείωση: Οι πληρωμές ενδέχεται να χρειαστούν έως και 5 ημέρες για να ολοκληρωθούν."
+
+msgid "Order notes"
+msgstr "Σημειώσεις παραγγελίας"
+
+msgid "Order summary"
+msgstr "Περίληψη παραγγελίας"
+
+msgid "PAYMENT"
+msgstr "ΠΛΗΡΩΜΗ"
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Pay"
+msgstr "Πληρωμή"
+
+msgid "Pay with a cheque"
+msgstr "Πληρώστε με επιταγή"
+
+msgid "Payment"
+msgstr "Πληρωμή"
+
+msgid "Payment method"
+msgstr "Μέθοδος πληρωμής"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Πληρωμή μέσω τραπεζικού εμβάσματος"
+
+msgid "Personal"
+msgstr "Προσωπικός"
+
+msgid "Phone number"
+msgstr "Τηλέφωνο"
+
+msgid "Place order"
+msgstr "Παραγγέλνω"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Επιστρέψτε και δοκιμάστε ξανά. Λείπει υποχρεωτικό πεδίο"
+
+msgid "Postal code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+msgid "Processing"
+msgstr "Επεξεργασία"
+
+msgid "Province"
+msgstr "Επαρχία"
+
+msgid "Purchase order"
+msgstr "Εντολή αγοράς"
+
+msgid "Recommended for you"
+msgstr "Συνιστάται για εσένα"
+
+msgid "Recurring total"
+msgstr "Επαναλαμβανόμενο σύνολο"
+
+msgid "Register"
+msgstr "Κανω ΕΓΓΡΑΦΗ"
+
+msgid "Remove"
+msgstr "Αφαιρώ"
+
+msgid "Return"
+msgstr "Επιστροφή"
+
+msgid "Review your information"
+msgstr "Ελέγξτε τις πληροφορίες σας"
+
+msgid "SHIPPING"
+msgstr "ΑΠΟΣΤΟΛΗ"
+
+msgid "Save changes"
+msgstr "Αποθήκευσε τις αλλαγές"
+
+msgid "Select a country"
+msgstr "Επιλέξτε χώρα"
+
+msgid "Select a province"
+msgstr "Επιλέξτε επαρχία"
+
+msgid "Select a state"
+msgstr "Επιλέξτε πολιτεία"
+
+msgid "Ship to"
+msgstr "Αποστολή προς"
+
+msgid "Shipping"
+msgstr "Αποστολη"
+
+msgid "Shipping method"
+msgstr "Μέθοδος αποστολής"
+
+msgid "State"
+msgstr "Πολιτεία"
+
+msgid "Street address"
+msgstr "Διεύθυνση"
+
+msgid "Subtotal"
+msgstr "Μερικό σύνολο"
+
+msgid "Tax"
+msgstr "Φόρος"
+
+msgid "Terms of Service"
+msgstr "Όροι χρήσης"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Δοκιμαστική λειτουργία: οι πελάτες δεν μπορούν να δουν το PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Η απαιτούμενη εντολή δεν έγινε αποδεκτή. Η πληρωμή ακυρώθηκε."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Δεν υπάρχουν διαθέσιμες ή ενεργές μέθοδοι πληρωμής για αυτήν την παραγγελία."
+
+msgid "There are no payment methods available"
+msgstr "Δεν υπάρχουν διαθέσιμοι τρόποι πληρωμής"
+
+msgid "There are no shipping methods available"
+msgstr "Δεν υπάρχουν διαθέσιμες μέθοδοι αποστολής"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Αυτός ο τρόπος πληρωμής δεν υποστηρίζει το επιλεγμένο νόμισμα, κάνοντας κλικ σε αυτό το μήνυμα το νόμισμα θα αλλάξει σε"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Αυτός ο τρόπος πληρωμής δεν υποστηρίζει το επιλεγμένο νόμισμα. Με την επιλογή αυτού, το νόμισμα θα αλλάξει σε"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Αυτός ο τρόπος πληρωμής δεν υποστηρίζει το επιλεγμένο νόμισμα. Αλλάξτε νόμισμα."
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "US bank account"
+msgstr "Τραπεζικός λογαριασμός των ΗΠΑ"
+
+msgid "Unknown order error occurred"
+msgstr "Παρουσιάστηκε άγνωστο σφάλμα παραγγελίας"
+
+msgid "Use different shipping address"
+msgstr "Χρησιμοποιήστε διαφορετική διεύθυνση αποστολής"
+
+msgid "VIEW SAVED CARDS"
+msgstr "ΠΡΟΒΟΛΗ ΑΠΟΘΗΚΕΥΜΕΝΩΝ ΚΑΡΤΩΝ"
+
+msgid "Verified"
+msgstr "Επαληθεύτηκε"
+
+msgid "View options"
+msgstr "Προβολή επιλογών"
+
+msgid "Wire/Bank Transfer"
+msgstr "Τραπεζικό έμβασμα"
+
+msgid "You entered an invalid coupon code"
+msgstr "Εισαγάγατε έναν μη έγκυρο κωδικό κουπονιού"
+
+msgid "You entered an invalid gift card"
+msgstr "Εισαγάγατε μια μη έγκυρη δωροκάρτα"
+
+msgid "additional"
+msgstr "πρόσθετος"
+
+msgid "and"
+msgstr "και"
+
+msgid "apply"
+msgstr "ισχύουν"
+
+msgid "each"
+msgstr "καθε"
+
+msgid "iDEAL Bank"
+msgstr "Τράπεζα IDEAL"
+
+msgid "privacy policy"
+msgstr "πολιτική απορρήτου"
+
+msgid "pursuant to"
+msgstr "σύμφωνα με"
+
+msgid "services and/or purchase of products from "
+msgstr "υπηρεσίες ή/και αγορά προϊόντων από"
+
+msgid "terms"
+msgstr "όροι"
+
+msgid "terms and conditions"
+msgstr "όροι και προϋποθέσεις"
+
+msgid "the"
+msgstr "την"
+
+msgid "the store's"
+msgstr "τα μαγαζιά"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "να χρεώσετε τον τραπεζικό λογαριασμό που καθορίζεται παραπάνω για οποιοδήποτε ποσό οφείλετε για χρεώσεις που προκύπτουν από τη χρήση του"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "τον ιστότοπο και τους όρους, έως ότου ανακληθεί αυτή η εξουσιοδότηση. Μπορείτε να τροποποιήσετε ή να ακυρώσετε αυτήν την εξουσιοδότηση ανά πάσα στιγμή παρέχοντας ειδοποίηση στο"
+
+msgid "with 30 (thirty) days notice."
+msgstr "με προειδοποίηση 30 (τριάντα) ημερών."

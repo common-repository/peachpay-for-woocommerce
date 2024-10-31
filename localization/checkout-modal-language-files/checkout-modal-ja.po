@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+クーポンコードを追加する"
+
+msgid "+ COUPON"
+msgstr "+ クーポン"
+
+msgid "+ NEW CARD"
+msgstr "+新しいカード"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ギフトカード/ストアクレジットを利用する"
+
+msgid "ADD"
+msgstr "追加"
+
+msgid "Accept"
+msgstr "承認"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Account login"
+msgstr "アカウントログイン"
+
+msgid "Account name"
+msgstr "アカウント名"
+
+msgid "Account registration"
+msgstr "アカウントの登録"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Additional information"
+msgstr "追加情報"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "<b>Pay</b> をクリックすると、カード情報を入力するウィンドウが表示されます。"
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "<b>Pay</b> を選択すると、銀行口座を選択するプロンプトが表示されます。"
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "<b>Pay</b> を選択すると、支払いを完了するためにリダイレクトされます。"
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "支払いを選択すると、支払いを完了するためにリダイレクトされます。"
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "支払いを選択すると、支払いを完了するためのウィンドウが表示されます。"
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "注文を送信した後、購入の詳細を完了するための別のステップが表示されます。"
+
+msgid "Apartment"
+msgstr "アパート"
+
+msgid "Apple Pay"
+msgstr "アップルペイ"
+
+msgid "Apple Pay selected for checkout."
+msgstr "チェックアウトに Apple Pay が選択されました。"
+
+msgid "BILLING"
+msgstr "請求する"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Bill to"
+msgstr "請求書送付先"
+
+msgid "Billing"
+msgstr "請求する"
+
+msgid "Billing method"
+msgstr "請求方法"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "<b>同意</b>をクリックすると、承認されます"
+
+msgid "By clicking the button above, you agree to"
+msgstr "上のボタンをクリックすると、同意したことになります"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Card"
+msgstr "カード"
+
+msgid "Cart is empty"
+msgstr "カートは空です"
+
+msgid "Cheque"
+msgstr "小切手"
+
+msgid "City"
+msgstr "街"
+
+msgid "Close"
+msgstr "近い"
+
+msgid "Continue"
+msgstr "継続する"
+
+msgid "Country"
+msgstr "国"
+
+msgid "County"
+msgstr "郡"
+
+msgid "Coupon"
+msgstr "クーポン"
+
+msgid "Coupon code"
+msgstr "クーポンコード"
+
+msgid "Currency"
+msgstr "通貨"
+
+msgid "Customize"
+msgstr "カスタマイズ"
+
+msgid "Delivery date"
+msgstr "配送日"
+
+msgid "Done"
+msgstr "終わり"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Email"
+msgstr "Eメール"
+
+msgid "Email or Username"
+msgstr "メールアドレスまたはユーザ名"
+
+msgid "Exit checkout"
+msgstr "チェックアウトを終了"
+
+msgid "First name"
+msgstr "ファーストネーム"
+
+msgid "First renewal"
+msgstr "最初の更新"
+
+msgid "Gift card number"
+msgstr "ギフトカード番号"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "チェックアウトに Google Pay が選択されました。"
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "私が入国した国が私が居住している国であることを確認します"
+
+msgid "Initial Shipment"
+msgstr "最初の出荷"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "情報を保存してチェックアウトを高速化する"
+
+msgid "Last name"
+msgstr "苗字"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "My cart"
+msgstr "私のカート"
+
+msgid "No thanks"
+msgstr "結構です"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "注: 支払いが完了するまでに最大 5 日かかる場合があります。"
+
+msgid "Order notes"
+msgstr "注文メモ"
+
+msgid "Order summary"
+msgstr "注文の概要"
+
+msgid "PAYMENT"
+msgstr "支払い"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Pay"
+msgstr "支払い"
+
+msgid "Pay with a cheque"
+msgstr "小切手で支払う"
+
+msgid "Payment"
+msgstr "支払い"
+
+msgid "Payment method"
+msgstr "支払方法"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "電信送金/銀行振込によるお支払い"
+
+msgid "Personal"
+msgstr "個人的"
+
+msgid "Phone number"
+msgstr "電話番号"
+
+msgid "Place order"
+msgstr "注文する"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "戻ってもう一度やり直してください。必須フィールドがありません"
+
+msgid "Postal code"
+msgstr "郵便番号"
+
+msgid "Powered by"
+msgstr "搭載"
+
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+msgid "Processing"
+msgstr "処理"
+
+msgid "Province"
+msgstr "州"
+
+msgid "Purchase order"
+msgstr "注文書"
+
+msgid "Recommended for you"
+msgstr "あなたへのおすすめ"
+
+msgid "Recurring total"
+msgstr "経常合計"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Remove"
+msgstr "削除する"
+
+msgid "Return"
+msgstr "戻る"
+
+msgid "Review your information"
+msgstr "情報を確認する"
+
+msgid "SHIPPING"
+msgstr "運送"
+
+msgid "Save changes"
+msgstr "変更内容を保存"
+
+msgid "Select a country"
+msgstr "国を選択"
+
+msgid "Select a province"
+msgstr "都道府県を選択"
+
+msgid "Select a state"
+msgstr "州を選択"
+
+msgid "Ship to"
+msgstr "送り先"
+
+msgid "Shipping"
+msgstr "運送"
+
+msgid "Shipping method"
+msgstr "配送方法"
+
+msgid "State"
+msgstr "州"
+
+msgid "Street address"
+msgstr "住所"
+
+msgid "Subtotal"
+msgstr "小計"
+
+msgid "Tax"
+msgstr "税"
+
+msgid "Terms of Service"
+msgstr "利用規約"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "テストモード：顧客はPeachPayを見ることができません"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "必要な委任は受け入れられませんでした。支払いがキャンセルされました。"
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "この注文に利用できる適格または有効な支払い方法はありません。"
+
+msgid "There are no payment methods available"
+msgstr "利用可能な支払い方法がありません"
+
+msgid "There are no shipping methods available"
+msgstr "利用可能な配送方法はありません"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "この支払い方法は選択した通貨をサポートしていません。このメッセージをクリックすると、通貨がに切り替わります"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "この支払い方法は、選択した通貨をサポートしていません。これを選択すると、通貨はに切り替わります"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "この支払い方法は、選択した通貨をサポートしていません。通貨を切り替えてください。"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "US bank account"
+msgstr "米国の銀行口座"
+
+msgid "Unknown order error occurred"
+msgstr "不明な注文エラーが発生しました"
+
+msgid "Use different shipping address"
+msgstr "別の配送先住所を使用する"
+
+msgid "VIEW SAVED CARDS"
+msgstr "保存されたカードを表示する"
+
+msgid "Verified"
+msgstr "確認済み"
+
+msgid "View options"
+msgstr "オプションを表示"
+
+msgid "Wire/Bank Transfer"
+msgstr "電信送金/銀行振込"
+
+msgid "You entered an invalid coupon code"
+msgstr "無効なクーポンコードを入力しました"
+
+msgid "You entered an invalid gift card"
+msgstr "無効なギフトカードを入力しました"
+
+msgid "additional"
+msgstr "追加"
+
+msgid "and"
+msgstr "と"
+
+msgid "apply"
+msgstr "申し込み"
+
+msgid "each"
+msgstr "各"
+
+msgid "iDEAL Bank"
+msgstr "理想の銀行"
+
+msgid "privacy policy"
+msgstr "プライバシーポリシー"
+
+msgid "pursuant to"
+msgstr "に従って"
+
+msgid "services and/or purchase of products from "
+msgstr "からのサービスおよび/または製品の購入"
+
+msgid "terms"
+msgstr "条項"
+
+msgid "terms and conditions"
+msgstr "規約と条件"
+
+msgid "the"
+msgstr "the"
+
+msgid "the store's"
+msgstr "店舗"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "上記の銀行口座から、お客様による"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "この許可が取り消されるまで、ウェブサイトと条件。に通知することにより、いつでもこの承認を修正または取り消すことができます。"
+
+msgid "with 30 (thirty) days notice."
+msgstr "30 日前に通知します。"

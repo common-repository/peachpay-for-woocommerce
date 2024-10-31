@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ PŘIDEJTE KÓD KUPÓNU"
+
+msgid "+ COUPON"
+msgstr "+ KUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ NOVÁ KARTA"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ UPLATNĚTE DÁRKOVOU KARTU/KREDIT OBCHOD"
+
+msgid "ADD"
+msgstr "PŘIDAT"
+
+msgid "Accept"
+msgstr "Akceptovat"
+
+msgid "Account"
+msgstr "Účet"
+
+msgid "Account login"
+msgstr "Přihlášení k účtu"
+
+msgid "Account name"
+msgstr "Jméno účtu"
+
+msgid "Account registration"
+msgstr "Registrace účtu"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Additional information"
+msgstr "Dodatečné informace"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Po kliknutí na <b>Zaplatit</b> se zobrazí okno, kde můžete zadat informace o své kartě."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Po výběru <b>Zaplatit</b> se zobrazí výzva k výběru bankovního účtu."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Po výběru možnosti <b>Zaplatit</b> budete přesměrováni k dokončení platby."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Po výběru platby budete přesměrováni k dokončení platby."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Po výběru platby se zobrazí okno, kde můžete dokončit platbu."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Po odeslání objednávky se objeví další krok k doplnění údajů o nákupu."
+
+msgid "Apartment"
+msgstr "Byt"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay vybrán pro placení."
+
+msgid "BILLING"
+msgstr "ÚČTOVÁNÍ"
+
+msgid "Back"
+msgstr "Zadní"
+
+msgid "Bill to"
+msgstr "Účtovat"
+
+msgid "Billing"
+msgstr "Fakturace"
+
+msgid "Billing method"
+msgstr "Způsob účtování"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Kliknutím na <b>Přijmout</b> povolujete"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Kliknutím na tlačítko výše souhlasíte"
+
+msgid "Cancel"
+msgstr "zrušení"
+
+msgid "Card"
+msgstr "Kartu"
+
+msgid "Cart is empty"
+msgstr "Košík je prázdný"
+
+msgid "Cheque"
+msgstr "Šek"
+
+msgid "City"
+msgstr "Město"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Continue"
+msgstr "Pokračovat"
+
+msgid "Country"
+msgstr "Země"
+
+msgid "County"
+msgstr "okres"
+
+msgid "Coupon"
+msgstr "Kupón"
+
+msgid "Coupon code"
+msgstr "Kód kupónu"
+
+msgid "Currency"
+msgstr "Měna"
+
+msgid "Customize"
+msgstr "Přizpůsobit"
+
+msgid "Delivery date"
+msgstr "Datum doručení"
+
+msgid "Done"
+msgstr "Hotovo"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Email"
+msgstr "E-mailem"
+
+msgid "Email or Username"
+msgstr "E-mail nebo uživatelské jméno"
+
+msgid "Exit checkout"
+msgstr "Odejít z pokladny"
+
+msgid "First name"
+msgstr "Jméno"
+
+msgid "First renewal"
+msgstr "První obnovení"
+
+msgid "Gift card number"
+msgstr "Číslo dárkové karty"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "K placení vybrána služba Google Pay."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Ověřuji, že země, do které jsem zadal, je zemí, ve které bydlím"
+
+msgid "Initial Shipment"
+msgstr "Počáteční zásilka"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Uchovávejte moje údaje pro rychlejší placení"
+
+msgid "Last name"
+msgstr "Příjmení"
+
+msgid "Login"
+msgstr "Přihlásit se"
+
+msgid "My cart"
+msgstr "Můj vozík"
+
+msgid "No thanks"
+msgstr "Ne, díky"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Poznámka: Dokončení plateb může trvat až 5 dní."
+
+msgid "Order notes"
+msgstr "Poznámky k objednávce"
+
+msgid "Order summary"
+msgstr "Přehled objednávky"
+
+msgid "PAYMENT"
+msgstr "ZPŮSOB PLATBY"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Pay"
+msgstr "Platit"
+
+msgid "Pay with a cheque"
+msgstr "Zaplaťte šekem"
+
+msgid "Payment"
+msgstr "Způsob platby"
+
+msgid "Payment method"
+msgstr "Způsob platby"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Platba převodem/bankovním převodem"
+
+msgid "Personal"
+msgstr "Osobní"
+
+msgid "Phone number"
+msgstr "Telefonní číslo"
+
+msgid "Place order"
+msgstr "Objednejte si"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Vraťte se prosím zpět a zkuste to znovu. chybí povinné pole"
+
+msgid "Postal code"
+msgstr "Poštovní směrovací číslo"
+
+msgid "Powered by"
+msgstr "Poháněno"
+
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgid "Processing"
+msgstr "zpracovává se"
+
+msgid "Province"
+msgstr "Provincie"
+
+msgid "Purchase order"
+msgstr "Nákupní objednávka"
+
+msgid "Recommended for you"
+msgstr "doporučeno pro tebe"
+
+msgid "Recurring total"
+msgstr "Opakující se celkem"
+
+msgid "Register"
+msgstr "Registrovat"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Return"
+msgstr "Vrátit se"
+
+msgid "Review your information"
+msgstr "zkontrolujte si své informace"
+
+msgid "SHIPPING"
+msgstr "LODNÍ DOPRAVA"
+
+msgid "Save changes"
+msgstr "Uložit změny"
+
+msgid "Select a country"
+msgstr "Vyber zemi"
+
+msgid "Select a province"
+msgstr "Vyberte provincii"
+
+msgid "Select a state"
+msgstr "Vyberte stát"
+
+msgid "Ship to"
+msgstr "Dopravit do"
+
+msgid "Shipping"
+msgstr "Lodní doprava"
+
+msgid "Shipping method"
+msgstr "Způsob dopravy"
+
+msgid "State"
+msgstr "Stát"
+
+msgid "Street address"
+msgstr "adresa ulice"
+
+msgid "Subtotal"
+msgstr "Mezisoučet"
+
+msgid "Tax"
+msgstr "Daň"
+
+msgid "Terms of Service"
+msgstr "Podmínky služby"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Testovací režim: zákazníci nevidí PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Požadovaný mandát nebyl přijat. Platba zrušena."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Pro tuto objednávku nejsou k dispozici žádné způsobilé ani aktivní platební metody."
+
+msgid "There are no payment methods available"
+msgstr "Nejsou k dispozici žádné platební metody"
+
+msgid "There are no shipping methods available"
+msgstr "Nejsou k dispozici žádné způsoby dopravy"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Tato platební metoda nepodporuje vybranou měnu, po kliknutí na tuto zprávu se měna přepne"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Tato platební metoda nepodporuje vybranou měnu. Při výběru této měny se přepne na"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Tato platební metoda nepodporuje vybranou měnu. Změňte měny."
+
+msgid "Total"
+msgstr "Celkový"
+
+msgid "US bank account"
+msgstr "americký bankovní účet"
+
+msgid "Unknown order error occurred"
+msgstr "Došlo k neznámé chybě objednávky"
+
+msgid "Use different shipping address"
+msgstr "Použijte jinou dodací adresu"
+
+msgid "VIEW SAVED CARDS"
+msgstr "ZOBRAZIT ULOŽENÉ KARTY"
+
+msgid "Verified"
+msgstr "Ověřeno"
+
+msgid "View options"
+msgstr "Zobrazit možnosti"
+
+msgid "Wire/Bank Transfer"
+msgstr "Bankovním převodem"
+
+msgid "You entered an invalid coupon code"
+msgstr "Zadali jste neplatný kód kupónu"
+
+msgid "You entered an invalid gift card"
+msgstr "Zadali jste neplatnou dárkovou kartu"
+
+msgid "additional"
+msgstr "další"
+
+msgid "and"
+msgstr "a"
+
+msgid "apply"
+msgstr "aplikovat"
+
+msgid "each"
+msgstr "každý"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL banka"
+
+msgid "privacy policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgid "pursuant to"
+msgstr "podle"
+
+msgid "services and/or purchase of products from "
+msgstr "služby a/nebo nákup produktů od"
+
+msgid "terms"
+msgstr "podmínky"
+
+msgid "terms and conditions"
+msgstr "pravidla a podmínky"
+
+msgid "the"
+msgstr "a"
+
+msgid "the store's"
+msgstr "obchody"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "odepsat z výše uvedeného bankovního účtu jakoukoli částku dlužnou za poplatky vyplývající z vašeho používání"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "webové stránky a podmínky, dokud nebude toto oprávnění zrušeno. Toto oprávnění můžete kdykoli změnit nebo zrušit zasláním upozornění"
+
+msgid "with 30 (thirty) days notice."
+msgstr "s výpovědní lhůtou 30 (třiceti) dnů."

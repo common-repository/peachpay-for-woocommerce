@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ DODAJ KODO KUPON"
+
+msgid "+ COUPON"
+msgstr "+ KUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ NOVA KARTICA"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ IZKLJUČITE DARILNO KARTICO/KREDIT TRGOVINE"
+
+msgid "ADD"
+msgstr "DODAJ"
+
+msgid "Accept"
+msgstr "Sprejmi"
+
+msgid "Account"
+msgstr "račun"
+
+msgid "Account login"
+msgstr "Prijava v račun"
+
+msgid "Account name"
+msgstr "Ime računa"
+
+msgid "Account registration"
+msgstr "Registracija računa"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Additional information"
+msgstr "Dodatne informacije"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Ko kliknete <b>Plačaj</b>, se prikaže okno, kjer lahko vnesete podatke o kartici."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Ko izberete <b>Plačaj</b>, se prikaže poziv za izbiro bančnega računa."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Ko izberete <b>Plačaj</b>, boste preusmerjeni na dokončanje plačila."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Po izbiri plačila boste preusmerjeni na dokončanje plačila."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Po izbiri plačila se prikaže okno, kjer lahko zaključite plačilo."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Po oddaji naročila se prikaže še en korak za dokončanje podrobnosti nakupa."
+
+msgid "Apartment"
+msgstr "Apartma"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay izbran za blagajno."
+
+msgid "BILLING"
+msgstr "OBRAČUNAVANJE"
+
+msgid "Back"
+msgstr "Nazaj"
+
+msgid "Bill to"
+msgstr "Račun za"
+
+msgid "Billing"
+msgstr "Zaračunavanje"
+
+msgid "Billing method"
+msgstr "Način obračunavanja"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Če kliknete <b>Sprejmi</b>, pooblastite"
+
+msgid "By clicking the button above, you agree to"
+msgstr "S klikom na zgornji gumb se strinjate"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Card"
+msgstr "Kartica"
+
+msgid "Cart is empty"
+msgstr "Košarica je prazna"
+
+msgid "Cheque"
+msgstr "Preverite"
+
+msgid "City"
+msgstr "mesto"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "Continue"
+msgstr "Nadaljuj"
+
+msgid "Country"
+msgstr "Država"
+
+msgid "County"
+msgstr "okrožje"
+
+msgid "Coupon"
+msgstr "kupon"
+
+msgid "Coupon code"
+msgstr "Koda kupona"
+
+msgid "Currency"
+msgstr "valuta"
+
+msgid "Customize"
+msgstr "Prilagoditi"
+
+msgid "Delivery date"
+msgstr "Datum dostave"
+
+msgid "Done"
+msgstr "Končano"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Email"
+msgstr "E-naslov"
+
+msgid "Email or Username"
+msgstr "E-poštni naslov ali uporabniško ime"
+
+msgid "Exit checkout"
+msgstr "Izhod iz blagajne"
+
+msgid "First name"
+msgstr "Ime"
+
+msgid "First renewal"
+msgstr "Prva obnova"
+
+msgid "Gift card number"
+msgstr "Številka darilne kartice"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay izbran za blagajno."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Potrjujem, da je država, v katero sem vstopil, tista, v kateri prebivam"
+
+msgid "Initial Shipment"
+msgstr "Začetna pošiljka"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Shranite moje podatke za hitrejše dokončanje nakupa"
+
+msgid "Last name"
+msgstr "Priimek"
+
+msgid "Login"
+msgstr "Vpiši se"
+
+msgid "My cart"
+msgstr "Moj voziček"
+
+msgid "No thanks"
+msgstr "Ne hvala"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Opomba: dokončanje plačil lahko traja do 5 dni."
+
+msgid "Order notes"
+msgstr "Opombe naročila"
+
+msgid "Order summary"
+msgstr "Povzetek naročila"
+
+msgid "PAYMENT"
+msgstr "PLAČILO"
+
+msgid "Password"
+msgstr "Geslo"
+
+msgid "Pay"
+msgstr "plačati"
+
+msgid "Pay with a cheque"
+msgstr "Plačajte s čekom"
+
+msgid "Payment"
+msgstr "Plačilo"
+
+msgid "Payment method"
+msgstr "Način plačila"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Plačilo z bančnim nakazilom"
+
+msgid "Personal"
+msgstr "Osebno"
+
+msgid "Phone number"
+msgstr "Telefonska številka"
+
+msgid "Place order"
+msgstr "Naročiti"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Prosimo, vrnite se in poskusite znova. Manjka obvezno polje"
+
+msgid "Postal code"
+msgstr "Poštna številka"
+
+msgid "Powered by"
+msgstr "Poganja ga"
+
+msgid "Privacy Policy"
+msgstr "Politika zasebnosti"
+
+msgid "Processing"
+msgstr "Obravnavati"
+
+msgid "Province"
+msgstr "provinca"
+
+msgid "Purchase order"
+msgstr "Naročilnica"
+
+msgid "Recommended for you"
+msgstr "Priporočeno za vas"
+
+msgid "Recurring total"
+msgstr "Ponavljajoče se skupno"
+
+msgid "Register"
+msgstr "Registrirajte se"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Return"
+msgstr "Vrnitev"
+
+msgid "Review your information"
+msgstr "Preglejte svoje podatke"
+
+msgid "SHIPPING"
+msgstr "DOSTAVA"
+
+msgid "Save changes"
+msgstr "Shrani spremembe"
+
+msgid "Select a country"
+msgstr "Izberite državo"
+
+msgid "Select a province"
+msgstr "Izberite provinco"
+
+msgid "Select a state"
+msgstr "Izberite državo"
+
+msgid "Ship to"
+msgstr "Poslati v"
+
+msgid "Shipping"
+msgstr "Dostava"
+
+msgid "Shipping method"
+msgstr "Način pošiljanja"
+
+msgid "State"
+msgstr "Država"
+
+msgid "Street address"
+msgstr "naslov ceste"
+
+msgid "Subtotal"
+msgstr "Vmesni seštevek"
+
+msgid "Tax"
+msgstr "davek"
+
+msgid "Terms of Service"
+msgstr "Pogoji storitve"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Testni način: stranke ne vidijo PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Zahtevani mandat ni bil sprejet. Plačilo preklicano."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Za to naročilo ni na voljo nobenih ustreznih ali aktivnih plačilnih sredstev."
+
+msgid "There are no payment methods available"
+msgstr "Na voljo ni nobenega načina plačila"
+
+msgid "There are no shipping methods available"
+msgstr "Na voljo ni nobenega načina pošiljanja"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "To plačilno sredstvo ne podpira izbrane valute, s klikom na to sporočilo se bo valuta preklopila"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "To plačilno sredstvo ne podpira izbrane valute. Ko izberete to, se valuta preklopi na"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "To plačilno sredstvo ne podpira izbrane valute. Prosimo, zamenjajte valuto."
+
+msgid "Total"
+msgstr "Skupaj"
+
+msgid "US bank account"
+msgstr "bančni račun v ZDA"
+
+msgid "Unknown order error occurred"
+msgstr "Prišlo je do neznane napake pri naročilu"
+
+msgid "Use different shipping address"
+msgstr "Uporabite drug naslov za dostavo"
+
+msgid "VIEW SAVED CARDS"
+msgstr "OGLED SHRANJENIH KARTIC"
+
+msgid "Verified"
+msgstr "Preverjeno"
+
+msgid "View options"
+msgstr "Ogled možnosti"
+
+msgid "Wire/Bank Transfer"
+msgstr "Bančno nakazilo"
+
+msgid "You entered an invalid coupon code"
+msgstr "Vnesli ste neveljavno kodo kupona"
+
+msgid "You entered an invalid gift card"
+msgstr "Vnesli ste neveljavno darilno kartico"
+
+msgid "additional"
+msgstr "dodatno"
+
+msgid "and"
+msgstr "in"
+
+msgid "apply"
+msgstr "uporabiti"
+
+msgid "each"
+msgstr "vsak"
+
+msgid "iDEAL Bank"
+msgstr "Banka iDEAL"
+
+msgid "privacy policy"
+msgstr "politika zasebnosti"
+
+msgid "pursuant to"
+msgstr "v skladu z"
+
+msgid "services and/or purchase of products from "
+msgstr "storitev in/ali nakup izdelkov pri"
+
+msgid "terms"
+msgstr "pogojev"
+
+msgid "terms and conditions"
+msgstr "pogoji"
+
+msgid "the"
+msgstr "the"
+
+msgid "the store's"
+msgstr "v trgovini"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "za bremenitev zgoraj navedenega bančnega računa za morebitne dolgovane zneske za stroške, ki izhajajo iz vaše uporabe"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "spletne strani in pogojev, dokler to pooblastilo ni preklicano. To pooblastilo lahko kadar koli spremenite ali prekličete z obvestilom na"
+
+msgid "with 30 (thirty) days notice."
+msgstr "z odpovednim rokom 30 (trideset) dni."

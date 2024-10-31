@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+
+msgid "+ Add new option"
+msgstr "+ Dodaj novo možnost"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Ali ste prepričani, da želite dodati vse podprte valute? To bo nadomestilo trenutno tabelo."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Ali ste prepričani, da želite počistiti vse valute?"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Izberite vrsto polja, ki ga želite dodati. »Izberi« je spustni meni, »Radio« pa niz oblačkov, med katerimi lahko izberete eno možnost."
+
+msgid "Default value:"
+msgstr "Privzeta vrednost:"
+
+msgid "Display in Order Detail"
+msgstr "Prikaži v podrobnostih naročila"
+
+msgid "Display in email"
+msgstr "Prikaži v e-pošti"
+
+msgid "Enable"
+msgstr "Omogoči"
+
+msgid "Feedback"
+msgstr "Povratne informacije"
+
+msgid "Field details"
+msgstr "Podrobnosti polja"
+
+msgid "I couldn't get the plugin to work"
+msgstr "Vtičnika nisem mogel zagnati"
+
+msgid "I found a better plugin"
+msgstr "Našel sem boljši vtičnik"
+
+msgid "I no longer need the plugin"
+msgstr "Vtičnika ne potrebujem več"
+
+msgid "Label:"
+msgstr "Oznaka:"
+
+msgid "Name:"
+msgstr "ime:"
+
+msgid "Other"
+msgstr "Drugo"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Pomagajte nam razumeti, da PeachPay za vas ni deloval"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Prosimo, izberite preostale možnosti izdelka, preden dodate ta paket v košarico."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Prosimo, izberite preostale možnosti izdelka, preden dodate ta izdelek v košarico."
+
+msgid "Please share which plugin"
+msgstr "Prosim delite kateri vtičnik"
+
+msgid "Please share your reason"
+msgstr "Prosimo, delite svoj razlog"
+
+msgid "Required"
+msgstr "Obvezno"
+
+msgid "Skip & deactivate"
+msgstr "Preskoči in deaktiviraj"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Oprostite, nekaj je šlo narobe. Osvežite stran in poskusite znova."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Oprostite, tega izdelka ni na zalogi."
+
+msgid "Submit"
+msgstr "Pošlji"
+
+msgid "Submit & deactivate"
+msgstr "Oddaj in deaktiviraj"
+
+msgid "Temporary deactivation"
+msgstr "Začasna deaktivacija"
+
+msgid "Text"
+msgstr "Besedilo"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "Širina upošteva polja zraven v urejevalniku polj. Na primer, če sta dve polji eno poleg drugega v urejevalniku polj in sta obe nastavljeni na 50 %, bosta na blagajni prikazani drugo ob drugem."
+
+msgid "This gift card has no money left."
+msgstr "Na tej darilni kartici ni več denarja."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "To je tisto, kar bo prikazano v oknu za odjavo in na strani za odjavo."
+
+msgid "Type:"
+msgstr "Vrsta:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Lahko se obrnete na support@peachpay.app ali uporabite"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Za to polje lahko nastavite vrednost, ki mora biti že vnaprej izpolnjena, ko kupec odpre blagajno."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Uporabite lahko karkoli, vendar se mora razlikovati od drugih polj. Če ne poskušate biti združljivi z drugim vtičnikom, lahko preprosto vnesete oznako."
+
+msgid "support chat"
+msgstr "klepet s podporo"

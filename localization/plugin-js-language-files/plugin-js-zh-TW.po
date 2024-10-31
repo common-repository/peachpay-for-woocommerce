@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh-TW\n"
+
+msgid "+ Add new option"
+msgstr "+ 添加新選項"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "您確定要添加所有支持的貨幣嗎？這將替換當前表。"
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "您確定要清除所有貨幣嗎？"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "選擇要添加的字段類型。 “選擇”是一個下拉菜單，“單選”是一組氣泡，您可以從中選擇一個選項。"
+
+msgid "Default value:"
+msgstr "默認值："
+
+msgid "Display in Order Detail"
+msgstr "在訂單詳情中顯示"
+
+msgid "Display in email"
+msgstr "在電子郵件中顯示"
+
+msgid "Enable"
+msgstr "使能夠"
+
+msgid "Feedback"
+msgstr "反饋"
+
+msgid "Field details"
+msgstr "字段詳細信息"
+
+msgid "I couldn't get the plugin to work"
+msgstr "我無法讓插件工作"
+
+msgid "I found a better plugin"
+msgstr "我找到了一個更好的插件"
+
+msgid "I no longer need the plugin"
+msgstr "我不再需要插件"
+
+msgid "Label:"
+msgstr "標籤："
+
+msgid "Name:"
+msgstr "姓名："
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "請幫助我們了解 PeachPay 不適合您"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "在將此捆綁包添加到您的購物車之前，請選擇剩餘的產品選項。"
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "在將此產品添加到您的購物車之前，請選擇剩餘的產品選項。"
+
+msgid "Please share which plugin"
+msgstr "請分享哪個插件"
+
+msgid "Please share your reason"
+msgstr "請分享你的理由"
+
+msgid "Required"
+msgstr "必需的"
+
+msgid "Skip & deactivate"
+msgstr "跳過並停用"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "抱歉，出了一些問題。請刷新頁面並重試。"
+
+msgid "Sorry, this product is out of stock."
+msgstr "抱歉，此產品缺貨。"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Submit & deactivate"
+msgstr "提交並停用"
+
+msgid "Temporary deactivation"
+msgstr "暫時停用"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "寬度考慮了字段編輯器中它旁邊的字段。例如，如果兩個字段在字段編輯器中彼此相鄰，並且它們都設置為 50%，在結賬時它們將並排顯示。"
+
+msgid "This gift card has no money left."
+msgstr "這張禮品卡沒有錢了。"
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "這是將在結帳窗口和結帳頁面上顯示的內容。"
+
+msgid "Type:"
+msgstr "類型："
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "您可以聯繫 support@peachpay.app 或使用"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "您可以為此字段設置一個值，當購物者打開結賬時，該值應該已經預填。"
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "你可以使用任何東西，但它必須與其他字段不同。如果您不想與其他插件兼容，則只需鍵入標籤即可。"
+
+msgid "support chat"
+msgstr "支持聊天"

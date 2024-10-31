@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ EEN COUPONCODE TOEVOEGEN"
+
+msgid "+ COUPON"
+msgstr "+ COUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ NIEUWE KAART"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ VERWISSEL CADEAUBON/STORE CREDIT"
+
+msgid "ADD"
+msgstr "TOEVOEGEN"
+
+msgid "Accept"
+msgstr "Aanvaarden"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Account login"
+msgstr "Account login"
+
+msgid "Account name"
+msgstr "Accountnaam"
+
+msgid "Account registration"
+msgstr "Accountregistratie"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Additional information"
+msgstr "Extra informatie"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Nadat u op <b>Betalen</b> heeft geklikt, verschijnt er een venster waarin u uw kaartgegevens kunt invoeren."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Na het selecteren van <b>Betalen</b> verschijnt er een prompt om een bankrekening te selecteren."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Nadat u <b>Betalen</b> heeft geselecteerd, wordt u doorgestuurd om uw betaling te voltooien."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Na het selecteren van betalen wordt u doorgestuurd om uw betaling af te ronden."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Nadat u betalen heeft geselecteerd, verschijnt er een venster waarin u uw betaling kunt voltooien."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Na het verzenden van uw bestelling verschijnt er nog een stap om uw aankoopgegevens te voltooien."
+
+msgid "Apartment"
+msgstr "Appartement"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay geselecteerd om af te rekenen."
+
+msgid "BILLING"
+msgstr "FACTURATIE"
+
+msgid "Back"
+msgstr "Rug"
+
+msgid "Bill to"
+msgstr "Rekening naar"
+
+msgid "Billing"
+msgstr "Facturering"
+
+msgid "Billing method"
+msgstr "Factureringsmethode:"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Door op <b>Accepteren</b> te klikken, machtigt u"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Door op de bovenstaande knop te klikken, gaat u akkoord met:"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Card"
+msgstr "Kaart"
+
+msgid "Cart is empty"
+msgstr "Winkelwagen is leeg"
+
+msgid "Cheque"
+msgstr "Controleren"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Close"
+msgstr "Dichtbij"
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "County"
+msgstr "District"
+
+msgid "Coupon"
+msgstr "Coupon"
+
+msgid "Coupon code"
+msgstr "Coupon code"
+
+msgid "Currency"
+msgstr "Munteenheid"
+
+msgid "Customize"
+msgstr "Aanpassen"
+
+msgid "Delivery date"
+msgstr "Bezorgdatum"
+
+msgid "Done"
+msgstr "Gedaan"
+
+msgid "Edit"
+msgstr "Bewerk"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email or Username"
+msgstr "E-mail of gebruikersnaam"
+
+msgid "Exit checkout"
+msgstr "Afrekenen afsluiten"
+
+msgid "First name"
+msgstr "Voornaam"
+
+msgid "First renewal"
+msgstr "Eerste verlenging"
+
+msgid "Gift card number"
+msgstr "Cadeaukaartnummer"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay geselecteerd om af te rekenen."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Ik verifieer dat het land dat ik heb ingevoerd het land is waarin ik woon"
+
+msgid "Initial Shipment"
+msgstr "Eerste zending:"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Bewaar mijn gegevens voor een snellere afhandeling"
+
+msgid "Last name"
+msgstr "Achternaam"
+
+msgid "Login"
+msgstr "Log in"
+
+msgid "My cart"
+msgstr "Mijn wagen"
+
+msgid "No thanks"
+msgstr "Nee, dank u wel"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Opmerking: het kan tot 5 dagen duren voordat betalingen zijn voltooid."
+
+msgid "Order notes"
+msgstr "Bestel notities"
+
+msgid "Order summary"
+msgstr "Overzicht van de bestelling"
+
+msgid "PAYMENT"
+msgstr "BETALING"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Pay"
+msgstr "Betalen"
+
+msgid "Pay with a cheque"
+msgstr "Betaal met een cheque"
+
+msgid "Payment"
+msgstr "Betaling"
+
+msgid "Payment method"
+msgstr "Betalingswijze"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Betaling via overschrijving/bankoverschrijving"
+
+msgid "Personal"
+msgstr "persoonlijk"
+
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+msgid "Place order"
+msgstr "Plaats bestelling"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Ga terug en probeer het opnieuw. ontbrekende vereiste veld"
+
+msgid "Postal code"
+msgstr "Postcode"
+
+msgid "Powered by"
+msgstr "Aangedreven door"
+
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+msgid "Processing"
+msgstr "Verwerken"
+
+msgid "Province"
+msgstr "Provincie"
+
+msgid "Purchase order"
+msgstr "Bestelling"
+
+msgid "Recommended for you"
+msgstr "aanbevolen voor jou"
+
+msgid "Recurring total"
+msgstr "Terugkerend totaal"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Return"
+msgstr "Opbrengst"
+
+msgid "Review your information"
+msgstr "Herzie je informatie"
+
+msgid "SHIPPING"
+msgstr "VERZENDEN"
+
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+msgid "Select a country"
+msgstr "Selecteer een land"
+
+msgid "Select a province"
+msgstr "Selecteer een provincie"
+
+msgid "Select a state"
+msgstr "Selecteer een staat"
+
+msgid "Ship to"
+msgstr "Verzend naar"
+
+msgid "Shipping"
+msgstr "Verzending"
+
+msgid "Shipping method"
+msgstr "Verzendmethode:"
+
+msgid "State"
+msgstr "Staat"
+
+msgid "Street address"
+msgstr "Adres"
+
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+msgid "Tax"
+msgstr "Belasting"
+
+msgid "Terms of Service"
+msgstr "Servicevoorwaarden"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Testmodus: klanten kunnen PeachPay niet zien"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Het vereiste mandaat werd niet aanvaard. Betaling geannuleerd."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Er zijn geen geschikte of actieve betaalmethoden beschikbaar voor deze bestelling."
+
+msgid "There are no payment methods available"
+msgstr "Er zijn geen betaalmethoden beschikbaar"
+
+msgid "There are no shipping methods available"
+msgstr "Er zijn geen verzendmethoden beschikbaar"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Deze betaalmethode ondersteunt de geselecteerde valuta niet, bij het klikken op dit bericht zal de valuta overschakelen naar"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Deze betaalmethode ondersteunt de geselecteerde valuta niet. Als u dit selecteert, schakelt de valuta over naar"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Deze betaalmethode ondersteunt de geselecteerde valuta niet. Wissel alstublieft van valuta."
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "US bank account"
+msgstr "Amerikaanse bankrekening"
+
+msgid "Unknown order error occurred"
+msgstr "Er is een onbekende bestellingsfout opgetreden"
+
+msgid "Use different shipping address"
+msgstr "Gebruik ander verzendadres"
+
+msgid "VIEW SAVED CARDS"
+msgstr "OPGESLAGEN KAARTEN BEKIJKEN"
+
+msgid "Verified"
+msgstr "Geverifieerd"
+
+msgid "View options"
+msgstr "Bekijk opties"
+
+msgid "Wire/Bank Transfer"
+msgstr "Overboeking/bankoverschrijving"
+
+msgid "You entered an invalid coupon code"
+msgstr "U heeft een ongeldige couponcode ingevoerd"
+
+msgid "You entered an invalid gift card"
+msgstr "Je hebt een ongeldige cadeaubon ingevoerd"
+
+msgid "additional"
+msgstr "aanvullend"
+
+msgid "and"
+msgstr "en"
+
+msgid "apply"
+msgstr "van toepassing zijn"
+
+msgid "each"
+msgstr "elk"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "privacybeleid"
+
+msgid "pursuant to"
+msgstr "op grond van"
+
+msgid "services and/or purchase of products from "
+msgstr "diensten en/of aankoop van producten van"
+
+msgid "terms"
+msgstr "termen"
+
+msgid "terms and conditions"
+msgstr "voorwaarden"
+
+msgid "the"
+msgstr "de"
+
+msgid "the store's"
+msgstr "de winkels"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "om de hierboven vermelde bankrekening te debiteren voor elk verschuldigd bedrag voor kosten die voortvloeien uit uw gebruik van:"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "website en voorwaarden, totdat deze toestemming wordt ingetrokken. U kunt deze machtiging op elk moment wijzigen of annuleren door een kennisgeving aan:"
+
+msgid "with 30 (thirty) days notice."
+msgstr "met een opzegtermijn van 30 (dertig) dagen."

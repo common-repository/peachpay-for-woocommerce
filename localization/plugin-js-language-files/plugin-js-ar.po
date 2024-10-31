@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+msgid "+ Add new option"
+msgstr "+ إضافة خيار جديد"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "هل أنت متأكد أنك تريد إضافة جميع العملات المدعومة؟ سيحل هذا محل الجدول الحالي."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "هل أنت متأكد أنك تريد مسح جميع العملات؟"
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "اختر نوع الحقل المراد إضافته. \"تحديد\" عبارة عن قائمة منسدلة ، و \"راديو\" عبارة عن مجموعة من الفقاعات التي يمكنك اختيار خيار واحد منها."
+
+msgid "Default value:"
+msgstr "القيمة الافتراضية:"
+
+msgid "Display in Order Detail"
+msgstr "العرض في تفاصيل الطلب"
+
+msgid "Display in email"
+msgstr "عرض في البريد الإلكتروني"
+
+msgid "Enable"
+msgstr "يُمكَِن"
+
+msgid "Feedback"
+msgstr "استجابة"
+
+msgid "Field details"
+msgstr "تفاصيل الحقل"
+
+msgid "I couldn't get the plugin to work"
+msgstr "لم أتمكن من تشغيل المكون الإضافي"
+
+msgid "I found a better plugin"
+msgstr "لقد وجدت مكونًا إضافيًا أفضل"
+
+msgid "I no longer need the plugin"
+msgstr "لم أعد بحاجة إلى البرنامج المساعد"
+
+msgid "Label:"
+msgstr "مُلصَق:"
+
+msgid "Name:"
+msgstr "اسم:"
+
+msgid "Other"
+msgstr "آخر"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "الرجاء مساعدتنا في فهم أن PeachPay لا تعمل من أجلك"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "يرجى تحديد خيارات المنتج المتبقية قبل إضافة هذه الحزمة إلى سلة التسوق الخاصة بك."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "الرجاء تحديد خيارات المنتج المتبقية قبل إضافة هذا المنتج إلى عربة التسوق الخاصة بك."
+
+msgid "Please share which plugin"
+msgstr "يرجى مشاركة البرنامج المساعد"
+
+msgid "Please share your reason"
+msgstr "يرجى مشاركة السبب الخاص بك"
+
+msgid "Required"
+msgstr "مطلوب"
+
+msgid "Skip & deactivate"
+msgstr "تخطي وإلغاء التنشيط"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "عذرا، هناك خطأ ما. يرجى تحديث الصفحة وحاول مرة أخرى."
+
+msgid "Sorry, this product is out of stock."
+msgstr "المعذرة، هذه المنتج غير متوفر في المخزن."
+
+msgid "Submit"
+msgstr "يُقدِّم"
+
+msgid "Submit & deactivate"
+msgstr "إرسال وإلغاء التنشيط"
+
+msgid "Temporary deactivation"
+msgstr "التعطيل المؤقت"
+
+msgid "Text"
+msgstr "نص"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "العرض يأخذ في الاعتبار الحقول المجاورة له في محرر المجال. على سبيل المثال ، إذا كان الحقلين بجوار بعضهما البعض في محرر المجال ، وكلاهما مضبوط على 50٪ ، فسيتم عرضهما جنبًا إلى جنب في عملية الدفع."
+
+msgid "This gift card has no money left."
+msgstr "بطاقة الهدية هذه لا تحتوي على أموال متبقية."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "هذا ما سيظهر في نافذة الخروج وفي صفحة الخروج."
+
+msgid "Type:"
+msgstr "يكتب:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "يمكنك التواصل مع support@peachpay.app أو استخدام امتداد"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "يمكنك تعيين قيمة لهذا الحقل والتي يجب أن تكون مملوءة مسبقًا عندما يفتح المتسوق عملية الدفع."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "يمكنك استخدام أي شيء ، ولكن يجب أن يكون مختلفًا عن المجالات الأخرى. إذا كنت لا تحاول أن تكون متوافقًا مع مكون إضافي آخر ، فيمكنك ببساطة كتابة التسمية."
+
+msgid "support chat"
+msgstr "دعم الدردشة"

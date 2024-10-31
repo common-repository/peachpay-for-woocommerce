@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ أضف رمز القسيمة"
+
+msgid "+ COUPON"
+msgstr "+ قسيمة"
+
+msgid "+ NEW CARD"
+msgstr "+ بطاقة جديدة"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ استرداد بطاقة الهدايا / رصيد المتجر"
+
+msgid "ADD"
+msgstr "يضيف"
+
+msgid "Accept"
+msgstr "قبول"
+
+msgid "Account"
+msgstr "الحساب"
+
+msgid "Account login"
+msgstr "تسجل الدخول"
+
+msgid "Account name"
+msgstr "أسم الحساب"
+
+msgid "Account registration"
+msgstr "تسجيل حساب"
+
+msgid "Add"
+msgstr "يضيف"
+
+msgid "Additional information"
+msgstr "معلومات إضافية"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "بعد النقر فوق <b> دفع </ b> ، ستظهر نافذة حيث يمكنك إدخال معلومات بطاقتك."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "بعد تحديد <b> دفع </ b> ، ستظهر مطالبة لتحديد حساب مصرفي."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "بعد تحديد <b> الدفع </ b> ، ستتم إعادة توجيهك لإتمام الدفع."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "بعد اختيار الدفع ، ستتم إعادة توجيهك لإكمال الدفع."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "بعد اختيار الدفع ، ستظهر نافذة يمكنك من خلالها إتمام عملية الدفع."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "ستظهر خطوة أخرى بعد تقديم طلبك لإكمال تفاصيل الشراء."
+
+msgid "Apartment"
+msgstr "شقة"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "تم تحديد Apple Pay للدفع."
+
+msgid "BILLING"
+msgstr "الفواتير"
+
+msgid "Back"
+msgstr "خلف"
+
+msgid "Bill to"
+msgstr "مشروع قانون ل"
+
+msgid "Billing"
+msgstr "الفواتير"
+
+msgid "Billing method"
+msgstr "طريقة الفواتير"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "بالنقر فوق <b> قبول </ b> ، أنت تصرح"
+
+msgid "By clicking the button above, you agree to"
+msgstr "بالنقر فوق الزر أعلاه ، فإنك توافق على"
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Card"
+msgstr "بطاقة"
+
+msgid "Cart is empty"
+msgstr "البطاقه خاليه"
+
+msgid "Cheque"
+msgstr "التحقق من"
+
+msgid "City"
+msgstr "مدينة"
+
+msgid "Close"
+msgstr "قريب"
+
+msgid "Continue"
+msgstr "يكمل"
+
+msgid "Country"
+msgstr "دولة"
+
+msgid "County"
+msgstr "مقاطعة"
+
+msgid "Coupon"
+msgstr "قسيمة"
+
+msgid "Coupon code"
+msgstr "رمز الكوبون"
+
+msgid "Currency"
+msgstr "عملة"
+
+msgid "Customize"
+msgstr "يعدل أو يكيف"
+
+msgid "Delivery date"
+msgstr "تاريخ التسليم او الوصول"
+
+msgid "Done"
+msgstr "فعله"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Email"
+msgstr "بريد الالكتروني"
+
+msgid "Email or Username"
+msgstr "البريد الإلكتروني أو اسم المستخدم"
+
+msgid "Exit checkout"
+msgstr "الخروج من الخروج"
+
+msgid "First name"
+msgstr "الاسم الأول"
+
+msgid "First renewal"
+msgstr "التجديد الأول"
+
+msgid "Gift card number"
+msgstr "رقم بطاقة الهدية"
+
+msgid "Google Pay"
+msgstr "جوجل باي"
+
+msgid "Google Pay selected for checkout."
+msgstr "تم تحديد Google Pay للدفع."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "أتحقق من أن البلد الذي أدخلته هو البلد الذي أقيم فيه"
+
+msgid "Initial Shipment"
+msgstr "الشحنة الأولية"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "احتفظ بمعلوماتي لتسجيل الخروج بشكل أسرع"
+
+msgid "Last name"
+msgstr "الكنية"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "My cart"
+msgstr "عربة التسوق الخاصة بي"
+
+msgid "No thanks"
+msgstr "لا شكرا"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "ملاحظة: قد يستغرق استكمال الدفعات ما يصل إلى 5 أيام."
+
+msgid "Order notes"
+msgstr "ترتيب ملاحظات"
+
+msgid "Order summary"
+msgstr "ملخص الطلب"
+
+msgid "PAYMENT"
+msgstr "دفع"
+
+msgid "Password"
+msgstr "كلمه السر"
+
+msgid "Pay"
+msgstr "دفع"
+
+msgid "Pay with a cheque"
+msgstr "ادفع بشيك"
+
+msgid "Payment"
+msgstr "قسط"
+
+msgid "Payment method"
+msgstr "طريقة الدفع او السداد"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "الدفع عن طريق التحويل البنكي / البنكي"
+
+msgid "Personal"
+msgstr "الشخصية"
+
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+msgid "Place order"
+msgstr "مكان الامر"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "الرجاء العودة والمحاولة مجددا. حقل مطلوب مفقود"
+
+msgid "Postal code"
+msgstr "الرمز البريدي"
+
+msgid "Powered by"
+msgstr "مشغل بواسطة"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Processing"
+msgstr "يعالج"
+
+msgid "Province"
+msgstr "المحافظة"
+
+msgid "Purchase order"
+msgstr "أمر شراء"
+
+msgid "Recommended for you"
+msgstr "موصى به لك"
+
+msgid "Recurring total"
+msgstr "المجموع المتكرر"
+
+msgid "Register"
+msgstr "يسجل"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Return"
+msgstr "يعود"
+
+msgid "Review your information"
+msgstr "راجع معلوماتك"
+
+msgid "SHIPPING"
+msgstr "الشحن"
+
+msgid "Save changes"
+msgstr "احفظ التغييرات"
+
+msgid "Select a country"
+msgstr "اختر دولة"
+
+msgid "Select a province"
+msgstr "اختر المحافظة"
+
+msgid "Select a state"
+msgstr "اختر ولاية"
+
+msgid "Ship to"
+msgstr "سافر على متن سفينة لِـ"
+
+msgid "Shipping"
+msgstr "شحن"
+
+msgid "Shipping method"
+msgstr "طريقة الشحن"
+
+msgid "State"
+msgstr "حالة"
+
+msgid "Street address"
+msgstr ".عنوان الشارع"
+
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+msgid "Tax"
+msgstr "ضريبة"
+
+msgid "Terms of Service"
+msgstr "شروط الخدمة"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "وضع الاختبار: لا يمكن للعملاء رؤية PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "لم يتم قبول التفويض المطلوب. تم إلغاء الدفع."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "لا توجد طرق دفع مؤهلة أو نشطة متاحة لهذا الطلب."
+
+msgid "There are no payment methods available"
+msgstr "لا توجد طرق دفع متاحة"
+
+msgid "There are no shipping methods available"
+msgstr "لا توجد طرق شحن متاحة"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "طريقة الدفع هذه لا تدعم العملة المحددة ، وعند النقر فوق هذه الرسالة سيتم التبديل إلى العملة"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "طريقة الدفع هذه لا تدعم العملة المحددة. عند تحديد هذا ، سيتم التبديل إلى العملة"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "طريقة الدفع هذه لا تدعم العملة المحددة. يرجى تبديل العملات."
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "US bank account"
+msgstr "حساب بنكي أمريكي"
+
+msgid "Unknown order error occurred"
+msgstr "حدث خطأ طلب غير معروف"
+
+msgid "Use different shipping address"
+msgstr "استخدم عنوان شحن مختلف"
+
+msgid "VIEW SAVED CARDS"
+msgstr "عرض البطاقات المحفوظة"
+
+msgid "Verified"
+msgstr "تم التحقق"
+
+msgid "View options"
+msgstr "عرض الخيارات"
+
+msgid "Wire/Bank Transfer"
+msgstr "حوالة مصرفية / بنكية"
+
+msgid "You entered an invalid coupon code"
+msgstr "لقد أدخلت رمز قسيمة غير صالح"
+
+msgid "You entered an invalid gift card"
+msgstr "لقد أدخلت بطاقة هدية غير صالحة"
+
+msgid "additional"
+msgstr "إضافي"
+
+msgid "and"
+msgstr "و"
+
+msgid "apply"
+msgstr "يتقدم"
+
+msgid "each"
+msgstr "كل"
+
+msgid "iDEAL Bank"
+msgstr "بنك iDEAL"
+
+msgid "privacy policy"
+msgstr "سياسة خاصة"
+
+msgid "pursuant to"
+msgstr "يؤدي الى"
+
+msgid "services and/or purchase of products from "
+msgstr "الخدمات و / أو شراء المنتجات من"
+
+msgid "terms"
+msgstr "مصلحات"
+
+msgid "terms and conditions"
+msgstr "الأحكام والشروط"
+
+msgid "the"
+msgstr "ال"
+
+msgid "the store's"
+msgstr "المتجر"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "للخصم من الحساب المصرفي المحدد أعلاه لأي مبلغ مستحق للرسوم الناشئة عن استخدامك لـ"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "موقع الويب والشروط ، حتى يتم إلغاء هذا التفويض. يمكنك تعديل هذا التفويض أو إلغائه في أي وقت عن طريق إرسال إشعار إلى"
+
+msgid "with 30 (thirty) days notice."
+msgstr "مع إشعار لمدة 30 (ثلاثين) يومًا."

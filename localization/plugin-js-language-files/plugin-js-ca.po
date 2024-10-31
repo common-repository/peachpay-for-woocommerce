@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+
+msgid "+ Add new option"
+msgstr "+ Afegeix una nova opció"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Esteu segur que voleu afegir totes les monedes admeses? Això substituirà la taula actual."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Esteu segur que voleu esborrar totes les monedes?"
+
+msgid "Cancel"
+msgstr "Cancel · lar"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Trieu el tipus de camp que voleu afegir. Una \"Selecciona\" és un menú desplegable i \"Ràdio\" és un conjunt de bombolles entre les quals podeu triar una opció."
+
+msgid "Default value:"
+msgstr "Valor per defecte:"
+
+msgid "Display in Order Detail"
+msgstr "Mostra en detall de la comanda"
+
+msgid "Display in email"
+msgstr "Mostra al correu electrònic"
+
+msgid "Enable"
+msgstr "Activa"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "Field details"
+msgstr "Detalls del camp"
+
+msgid "I couldn't get the plugin to work"
+msgstr "No he pogut fer que el connector funcioni"
+
+msgid "I found a better plugin"
+msgstr "He trobat un complement millor"
+
+msgid "I no longer need the plugin"
+msgstr "Ja no necessito el connector"
+
+msgid "Label:"
+msgstr "Etiqueta:"
+
+msgid "Name:"
+msgstr "Nom:"
+
+msgid "Other"
+msgstr "Altres"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Si us plau, ajudeu-nos a entendre que PeachPay no us ha funcionat"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Seleccioneu les opcions de producte restants abans d'afegir aquest paquet al vostre carretó."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Si us plau, seleccioneu les opcions de producte restants abans d'afegir aquest producte al vostre carretó."
+
+msgid "Please share which plugin"
+msgstr "Si us plau, comparteix quin connector"
+
+msgid "Please share your reason"
+msgstr "Si us plau, comparteix el teu motiu"
+
+msgid "Required"
+msgstr "Obligatori"
+
+msgid "Skip & deactivate"
+msgstr "Omet i desactiva"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Ho sentim, alguna cosa ha anat malament. Actualitzeu la pàgina i torneu-ho a provar."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Ho sentim, aquest producte està esgotat."
+
+msgid "Submit"
+msgstr "Presentar"
+
+msgid "Submit & deactivate"
+msgstr "Envia i desactiva"
+
+msgid "Temporary deactivation"
+msgstr "Desactivació temporal"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "L'amplada té en compte els camps que hi ha al costat a l'editor de camps. Per exemple, si els dos camps es troben l'un al costat de l'altre a l'editor de camps i tots dos estan configurats al 50%, a la compra es mostraran junts."
+
+msgid "This gift card has no money left."
+msgstr "A aquesta targeta regal no li queden diners."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Això és el que es mostrarà a la finestra de pagament i a la pàgina de pagament."
+
+msgid "Type:"
+msgstr "Tipus:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Podeu posar-vos en contacte amb support@peachpay.app o utilitzar el"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Podeu establir un valor per a aquest camp que ja s'hauria d'emplenar prèviament quan el comprador obri la caixa."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Podeu utilitzar qualsevol cosa, però ha de ser diferent dels altres camps. Si no esteu intentant ser compatible amb un altre connector, simplement podeu escriure l'etiqueta."
+
+msgid "support chat"
+msgstr "xat de suport"

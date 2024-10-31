@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+
+msgid "+ Add new option"
+msgstr "+新しいオプションを追加"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "サポートされているすべての通貨を追加してもよろしいですか？これにより、現在のテーブルが置き換えられます。"
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "すべての通貨をクリアしてもよろしいですか？"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "追加するフィールドのタイプを選択します。 「選択」はドロップダウン メニューで、「ラジオ」はオプションを 1 つ選択できるバブルのセットです。"
+
+msgid "Default value:"
+msgstr "デフォルト値："
+
+msgid "Display in Order Detail"
+msgstr "注文の詳細で表示"
+
+msgid "Display in email"
+msgstr "メールで表示"
+
+msgid "Enable"
+msgstr "有効"
+
+msgid "Feedback"
+msgstr "フィードバック"
+
+msgid "Field details"
+msgstr "フィールドの詳細"
+
+msgid "I couldn't get the plugin to work"
+msgstr "プラグインを動作させることができませんでした"
+
+msgid "I found a better plugin"
+msgstr "より良いプラグインを見つけました"
+
+msgid "I no longer need the plugin"
+msgstr "プラグインはもう必要ありません"
+
+msgid "Label:"
+msgstr "ラベル："
+
+msgid "Name:"
+msgstr "名前："
+
+msgid "Other"
+msgstr "他の"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "PeachPay が機能しなかったことをご理解ください。"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "このバンドルをカートに追加する前に、残りの製品オプションを選択してください。"
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "この製品をカートに追加する前に、残りの製品オプションを選択してください。"
+
+msgid "Please share which plugin"
+msgstr "どのプラグインを共有してください"
+
+msgid "Please share your reason"
+msgstr "あなたの理由を共有してください"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Skip & deactivate"
+msgstr "スキップして非アクティブ化"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "申し訳ありませんが、問題が発生しました。ページを更新して、もう一度お試しください。"
+
+msgid "Sorry, this product is out of stock."
+msgstr "申し訳ありませんが、この商品は在庫切れです。"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Submit & deactivate"
+msgstr "送信して無効にする"
+
+msgid "Temporary deactivation"
+msgstr "一時的な無効化"
+
+msgid "Text"
+msgstr "文章"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "幅は、フィールド エディターで横にあるフィールドを考慮に入れます。たとえば、フィールド エディターで 2 つのフィールドが隣り合っており、どちらも 50% に設定されている場合、チェックアウトでは横に並べて表示されます。"
+
+msgid "This gift card has no money left."
+msgstr "このギフトカードにはお金が残っていません。"
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "これは、チェックアウト ウィンドウとチェックアウト ページに表示されるものです。"
+
+msgid "Type:"
+msgstr "タイプ："
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "support@peachpay.app に連絡するか、"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "買い物客がチェックアウトを開いたときにすでに入力されているこのフィールドの値を設定できます。"
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "何でも使用できますが、他のフィールドとは異なる必要があります。別のプラグインとの互換性を維持しようとしていない場合は、ラベルを入力するだけです。"
+
+msgid "support chat"
+msgstr "サポートチャット"

@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lb\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ ENG COUPON CODE bäizefügen"
+
+msgid "+ COUPON"
+msgstr "+ COUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ NEW KAART"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ GIFT CARD / STORE CREDIT REDEEM"
+
+msgid "ADD"
+msgstr "ADD"
+
+msgid "Accept"
+msgstr "Akzeptéieren"
+
+msgid "Account"
+msgstr "Kont"
+
+msgid "Account login"
+msgstr "Kont Login"
+
+msgid "Account name"
+msgstr "Benotzernumm"
+
+msgid "Account registration"
+msgstr "Kont Aschreiwung"
+
+msgid "Add"
+msgstr "Addéieren"
+
+msgid "Additional information"
+msgstr "Zousätzlech Informatiounen"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Nodeems Dir op <b>Pay</b> klickt, erschéngt eng Fënster wou Dir Är Kaartinformatioun aginn kënnt."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Nodeems Dir <b>Pay</b> gewielt hutt, erschéngt eng Ufro fir e Bankkonto ze wielen."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Nodeems Dir <b>Pay</b> gewielt hutt, gitt Dir ëmgeleet fir Är Bezuelung ofzeschléissen."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Nodeems Dir Bezuelung gewielt hutt, gitt Dir ëmgeleet fir Är Bezuelung ofzeschléissen."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Nodeems Dir Pai auswielt, erschéngt eng Fënster wou Dir Är Bezuelung fäerdeg bréngt."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "En anere Schrëtt erschéngt nodeems Dir Är Bestellung ofginn hutt fir Är Kafdetailer ofzeschléissen."
+
+msgid "Apartment"
+msgstr "Appartement"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay ausgewielt fir d'Kasse."
+
+msgid "BILLING"
+msgstr "BILLING"
+
+msgid "Back"
+msgstr "Zréck"
+
+msgid "Bill to"
+msgstr "Bill zu"
+
+msgid "Billing"
+msgstr "Rechnung"
+
+msgid "Billing method"
+msgstr "Rechnung Method"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Andeems Dir op <b>Akzeptéieren</b> klickt, autoriséiert Dir"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Andeems Dir op de Knäppchen hei uewen klickt, sidd Dir averstanen"
+
+msgid "Cancel"
+msgstr "Ofbriechen"
+
+msgid "Card"
+msgstr "Kaart"
+
+msgid "Cart is empty"
+msgstr "Weenchen ass eidel"
+
+msgid "Cheque"
+msgstr "Check"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Close"
+msgstr "Zoumaachen"
+
+msgid "Continue"
+msgstr "Fuert weider"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "County"
+msgstr "Grofschaft"
+
+msgid "Coupon"
+msgstr "Coupon"
+
+msgid "Coupon code"
+msgstr "Coupon Code"
+
+msgid "Currency"
+msgstr "Währung"
+
+msgid "Customize"
+msgstr "Personnaliséieren"
+
+msgid "Delivery date"
+msgstr "Liwwerungsdatum"
+
+msgid "Done"
+msgstr "Gemaach"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Email or Username"
+msgstr "E-Mail oder Benotzernumm"
+
+msgid "Exit checkout"
+msgstr "Ausgoen Kees"
+
+msgid "First name"
+msgstr "Virnumm"
+
+msgid "First renewal"
+msgstr "Éischt Erneierung"
+
+msgid "Gift card number"
+msgstr "Cadeau Kaart Zuel"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay ausgewielt fir d'Kasse."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Ech verifizéieren datt d'Land wou ech aginn hunn ass dat an deem ech wunnen"
+
+msgid "Initial Shipment"
+msgstr "Éischt Versand"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Halt meng Informatioun gespäichert fir e méi séier Checkout"
+
+msgid "Last name"
+msgstr "Familljennumm"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "My cart"
+msgstr "Mäi Weenchen"
+
+msgid "No thanks"
+msgstr "Nee Merci"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Notiz: Bezuelungen kënne bis zu 5 Deeg daueren bis se fäerdeg sinn."
+
+msgid "Order notes"
+msgstr "Uerdnung Notizen"
+
+msgid "Order summary"
+msgstr "Bestellung Resumé"
+
+msgid "PAYMENT"
+msgstr "BEZUELEN"
+
+msgid "Password"
+msgstr "Passwuert"
+
+msgid "Pay"
+msgstr "Bezuelen"
+
+msgid "Pay with a cheque"
+msgstr "Bezuelen mat engem Scheck"
+
+msgid "Payment"
+msgstr "Bezuelen"
+
+msgid "Payment method"
+msgstr "Bezuelmethod"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Bezuelung iwwer Wire / Bankiwwerweisung"
+
+msgid "Personal"
+msgstr "Perséinlech"
+
+msgid "Phone number"
+msgstr "Telefonsnummer"
+
+msgid "Place order"
+msgstr "Bestellung maachen"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Gitt w.e.g. zréck a probéiert nach eng Kéier. Vermësst néideg Feld"
+
+msgid "Postal code"
+msgstr "Postleitzuel"
+
+msgid "Powered by"
+msgstr "Bereetgestallt vun"
+
+msgid "Privacy Policy"
+msgstr "Privatsphär Politik"
+
+msgid "Processing"
+msgstr "Veraarbechtung"
+
+msgid "Province"
+msgstr "Provënz"
+
+msgid "Purchase order"
+msgstr "Akeef Uerdnung"
+
+msgid "Recommended for you"
+msgstr "Recommandéiert fir Iech"
+
+msgid "Recurring total"
+msgstr "Widderhuelend Ganzen"
+
+msgid "Register"
+msgstr "Aschreiwen"
+
+msgid "Remove"
+msgstr "Ewechzehuelen"
+
+msgid "Return"
+msgstr "Retour"
+
+msgid "Review your information"
+msgstr "Iwwerpréift Är Informatioun"
+
+msgid "SHIPPING"
+msgstr "LIWWERUNG"
+
+msgid "Save changes"
+msgstr "Ännerungen späicheren"
+
+msgid "Select a country"
+msgstr "Wielt e Land"
+
+msgid "Select a province"
+msgstr "Wielt eng Provënz"
+
+msgid "Select a state"
+msgstr "Wielt e Staat"
+
+msgid "Ship to"
+msgstr "Schiff an"
+
+msgid "Shipping"
+msgstr "Liwwerung"
+
+msgid "Shipping method"
+msgstr "Versandmethod"
+
+msgid "State"
+msgstr "Staat"
+
+msgid "Street address"
+msgstr "Strooss Adress"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax"
+msgstr "Steier"
+
+msgid "Terms of Service"
+msgstr "Konditioune vum Service"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Testmodus: Clienten kënnen PeachPay net gesinn"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Dat néidegt Mandat gouf net ugeholl. Bezuelung annuléiert."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Et gi keng berechtegt oder aktiv Bezuelmethoden verfügbar fir dës Bestellung."
+
+msgid "There are no payment methods available"
+msgstr "Et gi keng Bezuelmethoden verfügbar"
+
+msgid "There are no shipping methods available"
+msgstr "Et gi keng Versandmethoden verfügbar"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Dës Bezuelmethod ënnerstëtzt net déi gewielte Währung, wann Dir op dëse Message klickt, wiesselt d'Währung op"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Dës Bezuelmethod ënnerstëtzt net déi gewielte Währung. Wann Dir dëst auswielt, wiesselt d'Währung op"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Dës Bezuelmethod ënnerstëtzt net déi gewielte Währung. Weg schalt Währungen."
+
+msgid "Total"
+msgstr "Ganzen"
+
+msgid "US bank account"
+msgstr "US Bankkonto"
+
+msgid "Unknown order error occurred"
+msgstr "Onbekannte Bestellungsfehler ass geschitt"
+
+msgid "Use different shipping address"
+msgstr "Benotzt eng aner Versandadress"
+
+msgid "VIEW SAVED CARDS"
+msgstr "VIEW GESPERT KAARTEN"
+
+msgid "Verified"
+msgstr "Verifizéiert"
+
+msgid "View options"
+msgstr "View Optiounen"
+
+msgid "Wire/Bank Transfer"
+msgstr "Wire / Bank Transfert"
+
+msgid "You entered an invalid coupon code"
+msgstr "Dir hutt en ongëlteg Coupon Code aginn"
+
+msgid "You entered an invalid gift card"
+msgstr "Dir hutt eng ongëlteg Geschenkkaart aginn"
+
+msgid "additional"
+msgstr "zousätzlech"
+
+msgid "and"
+msgstr "an"
+
+msgid "apply"
+msgstr "gëllen"
+
+msgid "each"
+msgstr "jeweils"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "Privatsphär Politik"
+
+msgid "pursuant to"
+msgstr "geméiss"
+
+msgid "services and/or purchase of products from "
+msgstr "Servicer an / oder Kaf vun Produite vun"
+
+msgid "terms"
+msgstr "Begrëffer"
+
+msgid "terms and conditions"
+msgstr "Konditioune"
+
+msgid "the"
+msgstr "den"
+
+msgid "the store's"
+msgstr "dem Buttek"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "de Bankkonto uewen spezifizéiert ze debitéieren fir all Betrag, dee schëlleg ass fir Käschten déi aus Ärem Gebrauch entstinn"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "Websäit a Konditioune, bis dës Autorisatioun zréckgezunn ass. Dir kënnt dës Autorisatioun zu all Moment änneren oder annuléieren andeems Dir eng Notifikatioun un"
+
+msgid "with 30 (thirty) days notice."
+msgstr "mat 30 (drësseg) Deeg Notiz."

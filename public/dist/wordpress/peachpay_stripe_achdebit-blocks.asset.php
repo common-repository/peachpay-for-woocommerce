@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('peachpay-checkout-blocks', 'react', 'wc-blocks-registry', 'wc-settings', 'wp-html-entities', 'wp-i18n', 'wp-polyfill'), 'version' => 'b1887bbe8beef7a26801');

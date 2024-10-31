@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/coupon.css">
+	<link rel="stylesheet" href="css/paypal.css">
+	<link rel="stylesheet" href="css/stripe.css">
+	<link rel="stylesheet" href="css/paymentSelector.css">
+	<link rel="stylesheet" href="css/additionalField.css">
+	<link rel="stylesheet" href="css/oneClickUpsell.css">
+	<link rel="stylesheet" href="css/relatedProducts.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta charset="UTF-8">
+	<meta name="robots" content="noindex">
+	<meta name="googlebot" content="noindex">
+</head>
+
+<body class="pp-container">
+	<div id="pp-ocu-container" class="pp-blowup hide" aria-expanded="false"></div>
+	<div id="pp-modal-content" class="pp-content">
+		<div class="test-mode-banner hide" data-i18n="Test mode: customers cannot see PeachPay"></div>
+		<div class="pp-close pp-disabled-processing" tabindex="0">&times;</div>
+		<div id="pp-new-customer-checkout" class="w-100 flex-container">
+			<div class="flex-left pp-modal-col">
+				<div class="center">
+					<div id="checkout-status">
+						<div id="pp-checkout-status-left" class="pp-disabled-loading pp-checkout-status-col current">
+							<div class="pp-checkout-status-text"><span id="pp-checkout-status-left-text" class="hide">✓ </span><span data-i18n="info"></span></div>
+							<div class="pp-checkout-status-bar">
+								<div class="pp-checkout-status-bar-fill"></div>
+							</div>
+						</div>
+						<button type="submit" form="pp-info-form" id="pp-checkout-status-middle" class="pp-disabled-loading pp-checkout-status-col no-fill">
+							<div class="pp-checkout-status-text"><span id="pp-checkout-status-middle-text" class="hide">✓ </span><span data-i18n="shipping"></span><span class="hide" data-i18n="additional"></span></div>
+							<div class="pp-checkout-status-bar">
+								<div class="pp-checkout-status-bar-fill"></div>
+							</div>
+						</button>
+						<button type="submit" form="pp-info-form" id="pp-checkout-status-right" class="pp-disabled-loading pp-checkout-status-col no-fill">
+							<div class="pp-checkout-status-text"><span data-i18n="payment"></span></div>
+							<div class="pp-checkout-status-bar">
+								<div class="pp-checkout-status-bar-fill"></div>
+							</div>
+						</button>
+					</div>
+				</div>
+				<div style="min-height: 24px; margin: none; padding: none;" id="pp-notice-container-mobile" class="flex-col pp-notice-container hide">
+					<!-- New customer notice mobile-->
+				</div>
+				<div class="pp-order-summary-mobile pp-section-mt">
+					<div id="pp-dropdown-new" role="button" class="pp-dropdown-new" aria-expanded="false" tabindex="0">
+						<img src="img/shopping-cart-solid.svg" class="cart-icon-new" />
+						<div id="pp-total-cost" class="inline-block total-mobile pp-summary-total">
+							<!-- Mobile customer Total -->
+						</div>
+						<img src="img/chevron-down-solid.svg" id="dropdown-down-new" class="dropdown-btn-new" />
+						<img src="img/chevron-up-solid.svg" id="dropdown-up-new" class="dropdown-btn-new hide" />
+					</div>
+					<div id="order-summary-contents-new" class="order-summary-contents-new">
+						<div class="pp-summary order-summary-table pp-summary-table-mobile">
+							<div class="pp-summary-body-mobile-wrapper">
+								<div id="pp-summary-body-mobile" class="order-summary-list">
+									<!-- New Customer Cart Lines -->
+								</div>
+							</div>
+						</div>
+						<div id="pp-summary-lines-body-mobile" class="pp-summary">
+							<!-- New Customer Summary Lines -->
+						</div>
+					</div>
+				</div>
+				<section id="pp-info" class="flex col pp-section-mt h-100">
+					<!-- Customer info Form -->
+					<div class="pp-spacer"></div>
+					<div class="center pp-btn-desktop">
+						<div class="pp-continue-order-error"></div>
+						<button type="submit" form="pp-info-form" id="pp-continue-to-shipping" class="btn">
+							<img src="img/spinner.svg" id="continue-spinner-shipping" class="spinner hide">
+							<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+								<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+								-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+								-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+								-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+								8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+								l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+								-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+								-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+								9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+								37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+								25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+								-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+								521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+								270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+								8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+								463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+								7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+								8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+								10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+								5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+								-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+								-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+								466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+								170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+								68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+								-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+								20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+								-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+								-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+								55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+								16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+								-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+								47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+								-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+								0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+								19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+								-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+								22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+								-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+								-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+								10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+								-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+								10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+								-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+								-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+								7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+								-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+								29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+								-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+								-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+								-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+								-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+								32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+								1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+								356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+								19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+								</g></svg>
+								<span class="button-text"><span data-i18n="Continue"></span></span>
+						</button>
+						<div class="flex-center">
+							<div style="width: fit-content;">
+								<a href="#" role="button" id="pp-exit" class="pp-exit"><img class="cross-icon" /><span class="exit-back-btn" data-i18n="Exit checkout"></span></a>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="pp-shipping" class="flex col hide pp-section-mt h-100">
+					<div id="shipping-options-container-address" class="flex pp-tooltip">
+						<span class="hide-for-virtual-carts pp-address-header" data-i18n="Ship to"></span>
+						<span class="show-for-virtual-carts hide pp-address-header" data-i18n="Bill to"></span>
+						<div class="pp-recipient-text">
+							<div id="fullAddressHidden" class="pp-tooltipHidden pp-address-hidden"></div>
+							<span id="pp-address-line" class="pp-address pp-recipient-text-address"></span>
+						</div>
+					</div>
+					<div>
+						<div id="pp-refresh-shipping-options" style="display: none;" data-i18n="Click to refresh shipping price">Click to refresh shipping price</div>
+						<div id="pp-shipping-options"></div>
+					</div>
+					<div id="linked-products-section" class="hide pp-section-mt">
+						<div id="linked-products-header" class="center">
+							<span data-i18n="You might also like..."></span>
+						</div>
+						<div class="flex-center">
+							<div id="pp-products-list">
+								<div id="pp-products-list-main"></div>
+							</div>
+						</div>
+						<div class="scroll-btn pp-prev-btn scroll-end hide" role="button"></div>
+						<div class="scroll-btn pp-next-btn hide" role="button"></div>
+					</div>
+					<div id="pp-related-products-section" class="pp-section-mt hide">
+						<div class="related-products-title hide pp-title bold" data-i18n="You may also like..."></div>
+						<div id="pp-related-products-container">
+							<div id="pp-products-list-related">
+								<div id="pp-products-list-related-main">
+								</div>
+							</div>
+							<div class="pp-rp-fade-left pp-rp-fade-left-hide"></div>
+							<div class="pp-rp-fade-right"></div>
+						</div>
+					</div>
+					<div id="pp-shipping-details-container">
+						<form id="pp-different-shipping-details" class="">
+							<div class="flex pp-shipping-details-header" style="align-items: center;">
+								<div class="w-70">
+									<label for="open-shipping-details" style="float: left;"><span class="color-change-text" data-i18n="Use different shipping address"></span></label>
+								</div>
+								<div id="ship_to_different_address-field" class="w-30">
+									<label class="pp-switch" style="float: right;">
+										<input id="open-shipping-details" type="checkbox" class="open-shipping-details " name="ship_to_different_address" value="1" style="float: right;">
+										<span class="pp-slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div id="shipping-details" class="pp-fw-100 flex hide">
+								<fieldset class="pp-fw-100 pp-shipping-details" disabled>
+									<!-- Shipping form details -->
+								</fieldset>
+							</div>
+						</form>
+					</div>
+					<form id="additional-fields-new" class="flex col hide pp-section-mt">
+						<div class="pp-title" data-i18n="Additional information"></div>
+						<!-- Here is the additional field-->
+					</form>
+					<div class="pp-spacer"></div>
+					<div class="center pp-btn-desktop">
+						<div class="pp-continue-order-error"></div>
+						<button id="pp-continue-to-payment" class="btn">
+							<img src="img/spinner.svg" id="continue-spinner-payment" class="spinner hide">
+							<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+								<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+								-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+								-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+								-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+								8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+								l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+								-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+								-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+								9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+								37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+								25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+								-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+								521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+								270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+								8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+								463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+								7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+								8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+								10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+								5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+								-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+								-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+								466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+								170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+								68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+								-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+								20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+								-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+								-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+								55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+								16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+								-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+								47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+								-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+								0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+								19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+								-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+								22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+								-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+								-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+								10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+								-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+								10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+								-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+								-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+								7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+								-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+								29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+								-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+								-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+								-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+								-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+								32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+								1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+								356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+								19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+								</g></svg>
+							<span class="button-text"><span data-i18n="Continue"></span></span>
+						</button>
+						<div class="flex-center">
+							<div style="width: fit-content;">
+								<a href="#" role="button" class="pp-back-to pp-back-to-info"><img class="cross-icon"></img><span class="exit-back-btn" data-i18n="Back"></span></a>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="pp-payment" class="flex col hide pp-section-mt h-100">
+					<div id="invalid-order-message" class="hide center m-2 p-2 lightgrey rounded">
+					</div>
+					<div id="pp-pms-new-container" class="flex col pp-hide-on-free-order">
+						<div class="pp-title" data-i18n="Payment"></div>
+						<div id="pp-pms-new" class="pp-pms">
+							<div class="header">
+
+							</div>
+							<div class="body">
+
+							</div>
+						</div>
+					</div>
+					<div id="pp-store-account-info"></div>
+					<div class="pp-spacer"></div>
+					<div class="center pp-btn-desktop">
+						<div class="pay-button-container w-100">
+							<!-- Order Support message (desktop) -->
+							<div id="pp-custom-order-message-hover" class="w-100 center hide">
+								<div class="pp-custom-order-message-label inline-block rounded pp-hover">
+									<input type="button" value="&#9432; Order Notice" class="pp-order-message-button">
+									<div class="pp-hover-content">
+										<div class="pp-custom-order-message">
+											<p class="muted inline-block">
+											</p>
+										</div>
+										<div class="pp-order-message-arrow-down center"></div>
+									</div>
+								</div>
+							</div>
+							<div id="pp-pay-btn" class="center pp-btn-desktop">
+							</div>
+							<!-- New Free order button-->
+							<div class="free-btn-container hide">
+								<div class="pp-btn-spinner-container hide">
+									<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+								</div>
+								<button class="btn free-btn free-btn-new">
+									<img src="img/spinner.svg" class="free-btn-spinner spinner hide">
+									<span class="button-text" data-i18n="Place order"></span>
+								</button>
+							</div>
+							<!-- New Customer Peachpay Order button -->
+							<div class="pp-js-peachpay-order-btn-container hide">
+								<div class="pp-btn-spinner-container hide">
+									<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+								</div>
+								<button id="pp-pay" class="hide btn pp-js-peachpay-order-btn">
+									<img src="img/spinner.svg" class="pp-js-peachpay-order-btn-spinner spinner hide">
+									<span class="button-text"></span>
+								</button>
+							</div>
+							<!-- New Customer Stripe Pay button-->
+							<div class="stripe-btn-container hide">
+								<div class="pp-btn-spinner-container hide">
+									<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+								</div>
+								<button id="pp-pay" class="hide btn stripe-btn stripe-btn-new">
+									<img src="img/spinner.svg" class="stripe-btn-spinner spinner hide">
+									<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+										<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+										-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+										-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+										-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+										8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+										l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+										-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+										-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+										9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+										37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+										25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+										-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+										521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+										270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+										8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+										463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+										7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+										8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+										10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+										5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+										-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+										-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+										466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+										170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+										68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+										-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+										20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+										-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+										-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+										55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+										16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+										-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+										47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+										-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+										0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+										19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+										-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+										22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+										-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+										-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+										10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+										-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+										10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+										-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+										-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+										7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+										-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+										29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+										-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+										-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+										-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+										-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+										32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+										1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+										356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+										19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+										</g>
+									</svg>
+									<span class="button-text"></span>
+								</button>
+							</div>
+							<!-- New Customer Square Pay button-->
+							<div class="square-btn-container hide">
+								<div class="pp-btn-spinner-container hide">
+									<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+								</div>
+								<button id="pp-pay" class="hide btn square-btn square-btn-new">
+									<img src="img/spinner.svg" class="square-btn-spinner spinner hide">
+									<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+										<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+										-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+										-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+										-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+										8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+										l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+										-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+										-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+										9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+										37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+										25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+										-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+										521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+										270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+										8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+										463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+										7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+										8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+										10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+										5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+										-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+										-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+										466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+										170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+										68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+										-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+										20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+										-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+										-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+										55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+										16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+										-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+										47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+										-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+										0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+										19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+										-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+										22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+										-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+										-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+										10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+										-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+										10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+										-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+										-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+										7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+										-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+										29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+										-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+										-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+										-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+										-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+										32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+										1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+										356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+										19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+										</g>
+									</svg>
+									<span class="button-text"></span>
+								</button>
+							</div>
+							<!-- New Customer Paypal Pay button-->
+							<div>
+								<div id="paypal-btn-container" class="pp-paypal-btn-container hide">
+								</div>
+								<div class="pp-paypal-spinner-container hide">
+									<img class="pp-paypal-spinner spinner" src="img/spinner-dark.svg">
+								</div>
+							</div>
+						</div>
+						<div class="pp-tc-section"></div>
+						<div class="flex-center">
+							<div style="width: fit-content;">
+								<a href="#" role="button" class="pp-back-to pp-back-to-shipping">
+									<img class="cross-icon"></img>
+									<span class="exit-back-btn" data-i18n="Back"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+			<div class="flex-right pp-modal-col">
+				<h2 class="pp-order-summary-title" data-i18n="Order summary"></h2>
+				<div class="pp-order-summary">
+					<div style="min-height: 24px; margin: none; padding: none;" id="pp-notice-container-new" class="flex-col pp-notice-container hide">
+						<!-- New customer notices-->
+					</div>
+					<div class="pp-summary order-summary-table">
+						<div id="pp-summary-body" class="order-summary-list">
+							<!-- New Customer Cart Lines -->
+						</div>
+					</div>
+					<div id="pp-summary-lines-body" class="pp-summary">
+						<!--New Customer Summary Lines-->
+					</div>
+					<table class="pp-summary pp-subscription-summary hide">
+						<tbody id="pp-subscription-summary-body">
+							<tr class="bold">
+								<td colspan="2" class="text-left"><span data-i18n="Recurring total"></span></td>
+							</tr>
+							<tr id="subscription-subtotal-row" class="summary-text-format">
+								<td><span data-i18n="Subtotal"></span></td>
+								<td><span class="currency-symbol"></span><span id="pp-subscription-subtotal-cost">0.00</span><span class="currency-symbol-after"></span> / <span class="subscription-period"></span>
+								</td>
+							</tr>
+							<tr id="subscription-shipping-cost-row" class="hide summary-text-format">
+								<td><span id="subscription-shipping-cost-row-shipping-label" data-i18n="Shipping"></td>
+								<td><span class="currency-symbol"></span><span id="pp-subscription-shipping-cost">0.00</span><span class="currency-symbol-after"></span> / <span class="subscription-period"></span>
+								</td>
+							</tr>
+							<tr id="subscription-tax-cost-row" class="hide summary-text-format">
+								<td><span data-i18n="Tax"></td>
+								<td><span class="currency-symbol"></span><span id="pp-subscription-tax-cost">0.00</span><span class="currency-symbol-after"></span>
+									/ <span class="subscription-period"></span></td>
+							</tr>
+							<tr id="subscription-total-cost-row" class="bold total-row mt-half border-total">
+								<td><span data-i18n="Total"></td>
+								<td><span class="currency-symbol"></span><span id="pp-subscription-total-cost">0.00</span><span class="currency-symbol-after"></span> / <span class="subscription-period"></span>
+								</td>
+							</tr>
+							<tr id="subscription-first-renewal-row" class="muted">
+								<td></td>
+								<td><span data-i18n="First renewal"></span>: <span id="pp-subscription-first-renewal-date"></span></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div id="extra-fields-section" class="pp-section-mt">
+					<div class="hide-when-invalid">
+						<div id="coupon-code-section" class="option-mobile hide">
+							<div class="options-mbv">
+								<div class="add-coupon-code coupon-code-option options-margin options-mobile-new hide" tabindex="0">
+									<span data-i18n="+ ADD A COUPON CODE"></span>
+								</div>
+							</div>
+							<form class="wc-coupon-code coupon-code mb-half hide">
+								<button type="button" class="exit-button exit-button-coupon">&times;</button>
+								<input type="text" id="coupon-code-new" name="coupon_code" placeholder=" " class="wc-coupon-code-input coupon-code-input coupon-input" autocomplete="off" required>
+								<label for="coupon-code-new" data-i18n="Coupon code" class="pp-form-label coupon-form-label"></label>
+								<img src="img/spinner-dark.svg" width="20" class="wc-coupon-spinner coupon-spinner">
+								<input type="submit" value="+" class="wc-coupon-code-apply coupon-code-apply">
+							</form>
+							<span class="wc-invalid-coupon invalid-coupon hide mb-half block" data-i18n="You entered an invalid coupon code"></span>
+						</div>
+						<div id="gift-card-section" class="option-mobile hide">
+							<div class="options-mbv">
+								<div class="add-gift-card gift-card-option options-margin options-mobile-new hide">
+									<span data-i18n="+ REDEEM GIFT CARD/STORE CREDIT"></span>
+								</div>
+							</div>
+							<form class="pw-wc-gift-card coupon-code mb-0 hide">
+								<button type="button" class="exit-button exit-button-gift">&times;</button>
+								<input type="text" id="card-number-new" name="card_number" placeholder=" " class="gift-card-input coupon-code-input coupon-input" autocomplete="off" required>
+								<label for="card-number-new" data-i18n="Gift card number" class="pp-form-label coupon-form-label"> </label>
+								<img src="img/spinner-dark.svg" width="20" class="gift-card-spinner coupon-spinner hide">
+								<input type="submit" value="+" class="gift-card-apply coupon-code-apply">
+							</form>
+							<span class="invalid-gift-card invalid-coupon hide" data-i18n="You entered an invalid gift card"></span>
+						</div>
+					</div>
+				</div>
+				<div class="pp-custom-order-message-inline pp-custom-order-message hide">
+					<p class="muted"></p>
+				</div>
+			</div>
+			<div class="pp-spacer-mobile"></div>
+			<div class="center pp-btn-mobile">
+				<div class="pp-continue-order-error"></div>
+				<button type="submit" form="pp-info-form" id="pp-continue-to-shipping-mobile" class="btn">
+					<img src="img/spinner.svg" id="continue-spinner-shipping-mobile" class="spinner hide">
+					<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+						<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+						-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+						-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+						-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+						8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+						l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+						-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+						-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+						9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+						37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+						25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+						-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+						521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+						270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+						8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+						463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+						7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+						8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+						10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+						5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+						-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+						-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+						466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+						170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+						68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+						-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+						20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+						-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+						-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+						55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+						16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+						-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+						47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+						-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+						0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+						19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+						-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+						22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+						-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+						-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+						10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+						-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+						10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+						-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+						-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+						7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+						-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+						29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+						-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+						-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+						-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+						-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+						32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+						1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+						356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+						19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+						</g></svg>
+					<span class="button-text"><span data-i18n="Continue"></span></span>
+				</button>
+				<button id="pp-continue-to-payment-mobile" class="btn">
+					<img src="img/spinner.svg" id="continue-spinner-payment-mobile" class="spinner hide">
+					<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+						<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+						-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+						-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+						-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+						8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+						l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+						-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+						-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+						9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+						37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+						25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+						-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+						521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+						270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+						8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+						463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+						7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+						8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+						10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+						5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+						-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+						-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+						466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+						170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+						68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+						-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+						20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+						-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+						-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+						55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+						16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+						-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+						47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+						-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+						0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+						19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+						-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+						22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+						-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+						-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+						10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+						-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+						10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+						-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+						-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+						7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+						-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+						29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+						-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+						-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+						-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+						-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+						32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+						1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+						356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+						19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+						</g></svg>
+					<span class="button-text"><span data-i18n="Continue"></span></span>
+				</button>
+				<div class="pay-button-container pay-button-container-mobile w-100">
+					<!-- Order Support message (mobile) -->
+					<div id="pp-custom-order-message-hover" class="w-100 center hide">
+						<div class="pp-custom-order-message-label inline-block rounded pp-hover">
+							<input type="button" value="&#9432; Order Notice" class="pp-order-message-button">
+							<div class="pp-hover-content">
+								<div class="pp-custom-order-message inline-block">
+									<p class="muted inline-block">
+									</p>
+								</div>
+								<div class="pp-order-message-arrow-down center"></div>
+							</div>
+						</div>
+					</div>
+					<!-- Mobile Free order button-->
+					<div class="free-btn-container hide">
+						<div class="pp-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+						</div>
+						<button class="btn free-btn free-btn-mobile">
+							<img src="img/spinner.svg" class="free-btn-spinner spinner hide">
+							<span class="button-text" data-i18n="Place order"></span>
+						</button>
+					</div>
+					<!-- Mobile Peachpay Order button -->
+					<div class="pp-js-peachpay-order-btn-container hide">
+						<div class="pp-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+						</div>
+						<button id="pp-pay-mobile" class="hide btn pp-js-peachpay-order-btn">
+							<img src="img/spinner.svg" class="pp-js-peachpay-order-btn-spinner spinner hide">
+							<span class="button-text"></span>
+						</button>
+					</div>
+					<!-- Mobile Stripe pay button -->
+					<div class="stripe-btn-container hide">
+						<div class="pp-stripe-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-stripe-btn-shipping-spinner">
+						</div>
+						<button id="pp-pay-mobile" class="hide btn stripe-btn">
+							<img src="img/spinner.svg" class="stripe-btn-spinner spinner hide">
+							<span class="button-text"></span>
+						</button>
+					</div>
+					<!-- Mobile Square pay button -->
+					<div class="square-btn-container hide">
+						<div class="pp-square-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-square-btn-shipping-spinner">
+						</div>
+						<button id="pp-pay-mobile" class="hide btn square-btn">
+							<img src="img/spinner.svg" class="square-btn-spinner spinner hide">
+							<span class="button-text"></span>
+						</button>
+					</div>
+					<!-- Mobile PayPal pay button -->
+					<div class="pay-button-container">
+						<div id="paypal-btn-container-mobile" class="pp-paypal-btn-container hide">
+						</div>
+						<div class="pp-paypal-spinner-container hide">
+							<img class="pp-paypal-spinner spinner" src="img/spinner-dark.svg">
+						</div>
+					</div>
+				</div>
+				<div class="pp-tc-section"></div>
+				<div class="mt">
+					<a href="#" role="button" id="pp-exit-mobile" class="hide pp-exit"><img class="cross-icon" /><span class="exit-back-btn" data-i18n="Exit checkout"></span></a>
+					<a href="#" role="button" id="pp-back-to-info-mobile" class="hide pp-back-to pp-back-to-info"><img class="cross-icon"></img><span class="exit-back-btn" data-i18n="Back"></span></a>
+					<a href="#" role="button" id="pp-back-to-shipping-mobile" class="hide pp-back-to pp-back-to-shipping"><img class="cross-icon"></img><span class="exit-back-btn" data-i18n="Back"></span></a>
+				</div>
+			</div>
+			<div class="logo-container-mobile-view">
+				<a href="https://peachpay.app/" class="peachpay-logo-link" target="_blank">
+					<div class="inline">
+						<span class="powered-by" data-i18n="Powered by"></span>
+						<img class="peachpay-white-logo" src="img/peachpay-logo-full-black.png"></img>
+					</div>
+				</a>
+				<div class ="pp-TOS-privacy-container">
+					<a href="https://peachpay.app/privacy" target="_blank">
+						<span class='pp-privacy' data-i18n="Privacy Policy"></span>
+					</a>
+					<a href="https://peachpay.app/terms" target="_blank">
+						<span class='pp-TOS' data-i18n="Terms of Service"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="logo-container">
+			<a href="https://peachpay.app/" class="peachpay-logo-link" target="_blank">
+				<div class="inline">
+					<span class="powered-by" data-i18n="Powered by"></span>
+					<img class="peachpay-white-logo" src="img/peachpay-full-white.png"></img>
+				</div>
+			</a>
+			<div class ="pp-TOS-privacy-container">
+				<a href="https://peachpay.app/privacy" target="_blank">
+					<span class='pp-privacy' data-i18n="Privacy Policy"></span>
+				</a>
+				<a href="https://peachpay.app/terms" target="_blank">
+					<span class='pp-TOS' data-i18n="Terms of Service"></span>
+				</a>
+			</div>
+		</div>
+		<div id="pp-existing-customer-checkout" class="flex-col hide">
+			<div class="existing-sections existing-section-info">
+				<div class="pp-ready-to-checkout-container">
+					<span class="pp-ready-to-checkout" data-i18n="Ready to check out?"></span>
+					<a href="#" role="button" id="edit-info" class="pp-disabled-processing">
+						<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="pencil-alt" class="edit-pencil svg-inline--fa fa-pencil-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+							<path fill="currentColor" d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z">
+							</path>
+						</svg>
+						<span class="color-change-text" data-i18n="Edit"></span>
+					</a>
+				</div>
+				<div class="existing-checkout-section pp-section-mb">
+					<div>
+						<span class="pp-title hide-for-virtual-carts" data-i18n="Send to"></span>
+						<span class="pp-title show-for-virtual-carts" data-i18n="Billing"></span>
+					</div>
+					<div>
+						<span class="full-name"></span>
+						<br>
+						<!-- Avoid return as it's rendered as an additional space -->
+						<span id="pp-return-address-line" class="pp-address"></span>
+					</div>
+				</div>
+				<div id="existing-checkout-delivery" class="existing-checkout-section hide pp-section-mb">
+					<form id="pp-shipping-options-existing" class="m-0">
+						<!-- Existing Customer Shipping Methods -->
+					</form>
+				</div>
+				<div id="pp-pms-existing-container" class="pp-hide-on-free-order pp-section-mb">
+					<span class="pp-title" data-i18n="Payment"></span>
+					<div id="pp-selected-pm">
+						<!-- Selected payment method here -->
+					</div>
+					<div id="pp-pms-existing" class="pp-pms hide">
+						<hr>
+						<div class="header">
+
+						</div>
+						<div class="body">
+
+						</div>
+					</div>
+					<div id="pp-pm-expander">
+						<span>
+							<img class="pp-chevron" tabindex="0" role="button" src="img/chevron-down-solid.svg" draggable="false">
+						</span>
+					</div>
+					<div id="open-shipping-details-href">
+						<a href="#" role="button" id="open-shipping-info" class="pp-disabled-processing">
+							<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="pencil-alt" class="edit-pencil svg-inline--fa fa-pencil-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+								<path fill="currentColor" d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z">
+								</path>
+							</svg>
+							<span class="color-change-text" data-i18n="Use different shipping address"></span>
+						</a>
+					</div>
+				</div>
+				<div id="existing-checkout-delivery-date" class="existing-checkout-section hide">
+					<div><span class="color-change-text" data-i18n="Delivery date"></span></div>
+					<div>
+						<form style="margin-bottom: 0.5rem;"><input type="date" id="existing-delivery-date" name="delivery-date" value="" min=""></form>
+					</div>
+				</div>
+			</div>
+			<div class="pd-sides">
+				<div class="add-coupon-code coupon-code-option pp-section-mb hide" tabindex="0">
+					<span data-i18n="+ ADD A COUPON CODE"></span>
+				</div>
+			</div>
+			<form class="wc-coupon-code coupon-code hide">
+				<button type="button" class="exit-button exit-button-coupon">&times;</button>
+				<input type="text" id="coupon-code-existing" name="coupon_code" placeholder=" " class="wc-coupon-code-input coupon-code-input coupon-input" autocomplete="off" required>
+				<label for="coupon-code-existing" data-i18n="Coupon code" class="pp-form-label coupon-form-label"> </label>
+				<img src="img/spinner-dark.svg" width="20" class="wc-coupon-spinner coupon-spinner">
+				<input type="submit" value="+" class="wc-coupon-code-apply coupon-code-apply">
+			</form>
+			<span class="wc-invalid-coupon invalid-coupon mb-half hide block" data-i18n="You entered an invalid coupon code"></span>
+			<div class="pd-sides">
+				<div class="add-gift-card gift-card-option hide">
+					<span data-i18n="+ REDEEM GIFT CARD/STORE CREDIT"></span>
+				</div>
+			</div>
+			<form class="pw-wc-gift-card coupon-code mb-half hide">
+				<button type="button" class="exit-button exit-button-gift">&times;</button>
+				<input type="text" id="card-number-existing" name="card_number" placeholder=" " class="gift-card-input coupon-code-input coupon-input" autocomplete="off" required>
+				<label for="card-number-existing" data-i18n="Gift card number" class="pp-form-label coupon-form-label">
+				</label>
+				<img src="img/spinner-dark.svg" width="20" class="gift-card-spinner coupon-spinner hide">
+				<input type="submit" value="+" class="gift-card-apply coupon-code-apply">
+			</form>
+			<span class="invalid-gift-card invalid-coupon hide block" data-i18n="You entered an invalid gift card"></span>
+			<form id="additional-fields-existing" class="hide">
+				<div class="pp-title" data-i18n="Additional information"></div>
+				<!-- Here is the additional field-->
+			</form>
+			<div class="pp-spacer-mobile"></div>
+			<div class="pp-spacer"></div>
+			<!-- Existing Checkout Custom Support Message -->
+			<div class="pp-custom-order-message-inline pp-custom-order-message hide">
+				<p class="muted"></p>
+			</div>
+			<div style="min-height: 24px; margin: none; padding: none;" id="pp-notice-container-existing" class="flex-col pp-notice-container hide">
+				<!-- Existing customer notice -->
+			</div>
+			<div class="pp-order-summary-return">
+				<div id="pp-dropdown" role="button" class="pp-dropdown" aria-expanded="false" tabindex="0">
+					<img src="img/shopping-cart-solid.svg" class="cart-icon" />
+					<span class="bold larger" data-i18n="My order"></span>
+					<img src="img/chevron-down-solid.svg" class="dropdown-btn dropdown-down" />
+					<img src="img/chevron-up-solid.svg" class="dropdown-btn dropdown-up hide" />
+					<div id="pp-total-cost-existing" class="float-right larger pp-summary-total pp-recalculate-blur">
+						<!-- Existing Customer Cart summary Total-->
+					</div>
+				</div>
+				<div id="order-summary-contents" class="order-summary-contents">
+					<div class="order-summary-dropdown-exist">
+						<div class="pp-order-list-wrapper">
+							<div class="pp-order-list">
+								<table class="pp-summary-return" id="pp-summary-return">
+									<tbody id="pp-summary-body-existing">
+									</tbody>
+								</table>
+							</div>
+						</div>
+						<div id="pp-summary-lines-body-existing" class="pp-summary-return">
+							<!-- Existing Customer Summary Lines-->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="pp-store-account-info-existing"></div>
+			<div id="invalid-order-message-existing" class="hide pp-section-mt mb-1 center p-2 lightgrey rounded">
+			</div>
+			<div class="center pay-existing-btn pp-section-mt">
+				<div class="pay-button-container w-100">
+					<!-- Order Support message (existing) -->
+					<div id="pp-custom-order-message-hover" class="w-100 center hide">
+						<div class="pp-custom-order-message-label inline-block rounded pp-hover">
+							<input type="button" value="&#9432; Order Notice" class="pp-order-message-button">
+							<div class="pp-hover-content">
+								<div class="pp-custom-order-message">
+									<p class="muted inline-block">
+									</p>
+								</div>
+								<div class="pp-order-message-arrow-down center"></div>
+							</div>
+						</div>
+					</div>
+					<!-- Existing Free order button-->
+					<div class="free-btn-container hide">
+						<div class="pp-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+						</div>
+						<button class="btn free-btn free-btn-existing">
+							<img src="img/spinner.svg" class="free-btn-spinner spinner hide">
+							<span class="button-text" data-i18n="Place order"></span>
+						</button>
+					</div>
+					<!-- Existing Peachpay order button -->
+					<div class="pp-js-peachpay-order-btn-container hide">
+						<div class="pp-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+						</div>
+						<button id="pp-pay-existing" class="btn pp-js-peachpay-order-btn">
+							<img src="img/spinner.svg" class="pp-js-peachpay-order-btn-spinner spinner hide">
+							<span class="button-text"></span>
+						</button>
+					</div>
+					<!-- Existing Stripe pay button-->
+					<div class="stripe-btn-container hide">
+						<div class="pp-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+						</div>
+						<button id="pp-pay-existing" class="btn stripe-btn stripe-btn-existing">
+							<img src="img/spinner.svg" class="stripe-btn-spinner spinner hide">
+							<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+								<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+								-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+								-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+								-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+								8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+								l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+								-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+								-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+								9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+								37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+								25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+								-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+								521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+								270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+								8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+								463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+								7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+								8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+								10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+								5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+								-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+								-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+								466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+								170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+								68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+								-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+								20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+								-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+								-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+								55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+								16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+								-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+								47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+								-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+								0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+								19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+								-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+								22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+								-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+								-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+								10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+								-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+								10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+								-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+								-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+								7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+								-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+								29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+								-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+								-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+								-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+								-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+								32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+								1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+								356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+								19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+								</g>
+							</svg>
+							<span class="button-text"></span>
+						</button>
+					</div>
+					<!-- Existing Square pay button-->
+					<div class="square-btn-container hide">
+						<div class="pp-btn-spinner-container hide">
+							<img src="img/spinner-dark.svg" class="pp-btn-shipping-spinner">
+						</div>
+						<button id="pp-pay-existing" class="btn square-btn square-btn-existing">
+							<img src="img/spinner.svg" class="square-btn-spinner spinner hide">
+							<svg class="pp-btn-symbol modal-lock-icon" style="width: 20px !important; height: 20px !important; vertical-align: middle; fill: white;" viewBox="0 0 1190.000000 1280.000000"><g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" stroke="none">
+								<path d="M5610 11999 c-1096 -88 -1924 -626 -2375 -1544 -80 -162 -155 -347
+								-155 -380 0 -8 -4 -15 -8 -15 -4 0 -8 -8 -9 -17 -1 -19 -6 -38 -16 -63 -17
+								-47 -78 -287 -91 -360 -3 -19 -8 -46 -11 -59 -2 -14 -7 -47 -10 -74 -3 -28 -8
+								-53 -10 -56 -8 -13 -24 -189 -28 -313 -1 -27 -5 -48 -10 -48 -4 0 -3 -9 3 -20
+								8 -14 8 -20 0 -20 -7 0 -8 -6 -1 -19 6 -10 8 -21 5 -24 -3 -3 -5 -392 -4 -865
+								l1 -860 -26 -20 c-14 -11 -69 -30 -123 -43 -159 -36 -266 -74 -364 -128 -109
+								-60 -149 -91 -240 -183 -206 -208 -334 -560 -353 -968 -5 -99 -4 -3022 1
+								-3125 8 -175 28 -319 46 -343 7 -8 7 -12 -1 -12 -7 0 -9 -5 -4 -13 4 -6 8 -16
+								9 -22 1 -5 11 -34 23 -62 11 -29 17 -53 13 -53 -4 0 -2 -4 3 -8 10 -7 37 -61
+								37 -72 0 -3 6 -12 14 -21 8 -9 12 -18 9 -21 -3 -3 6 -17 20 -32 13 -14 25 -29
+								25 -31 0 -14 84 -117 122 -150 24 -21 34 -32 23 -24 -18 13 -19 13 -6 -3 7
+								-10 17 -18 22 -18 5 0 17 -8 27 -17 39 -37 67 -57 121 -86 175 -94 267 -121
+								521 -153 111 -13 461 -15 3121 -14 3106 0 3123 0 3314 39 221 45 397 134 531
+								270 161 162 238 342 269 626 12 107 15 407 15 1696 0 862 -2 1573 -4 1580 -3
+								8 -7 63 -10 122 -4 60 -8 112 -10 116 -3 4 -7 27 -10 51 -17 143 -76 342 -137
+								463 -30 57 -107 176 -138 211 -62 69 -159 160 -174 164 -13 3 -37 30 -38 44 0
+								7 -4 4 -8 -7 -8 -19 -8 -19 -15 3 -5 14 -13 21 -21 18 -8 -3 -19 2 -25 10 -7
+								8 -19 14 -26 14 -8 0 -14 5 -14 10 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -9
+								10 -20 10 -11 0 -20 5 -20 11 0 5 -4 7 -10 4 -5 -3 -10 -1 -10 5 0 6 -4 8 -10
+								5 -5 -3 -10 -2 -10 4 0 5 -8 8 -17 6 -10 -1 -30 4 -45 11 -15 8 -31 13 -35 13
+								-4 -1 -16 1 -25 4 -46 18 -54 20 -69 23 -9 2 -27 8 -40 13 -13 5 -27 8 -30 7
+								-4 0 -17 8 -30 19 -14 13 -20 14 -15 5 4 -8 -4 -2 -18 13 l-26 28 0 847 c-1
+								466 -3 883 -5 927 -7 117 -14 206 -19 240 -3 24 -26 169 -40 255 -21 125 -30
+								170 -36 170 -4 0 -6 10 -5 23 1 12 -1 27 -5 32 -5 6 -11 24 -13 40 -9 46 -14
+								68 -25 96 -6 15 -8 29 -6 32 3 3 -2 22 -10 42 -9 21 -16 47 -16 59 0 16 -2 18
+								-9 7 -7 -10 -11 -1 -16 32 -4 26 -12 47 -17 47 -6 0 -8 9 -5 20 3 11 1 20 -4
+								20 -5 0 -9 7 -9 15 0 8 -4 15 -10 15 -5 0 -6 7 -3 17 5 11 3 14 -6 8 -10 -6
+								-11 -2 -6 15 5 17 4 21 -5 15 -8 -5 -11 -4 -6 3 7 11 -28 93 -96 227 -22 44
+								-55 107 -71 140 -17 33 -34 62 -38 65 -3 3 -16 25 -29 49 -12 24 -26 49 -31
+								55 -30 36 -84 113 -105 149 -13 23 -24 38 -24 34 0 -4 -6 -2 -14 5 -8 7 -12
+								16 -9 20 2 4 -7 19 -21 33 -15 14 -26 31 -26 37 0 6 -3 8 -7 5 -3 -4 -13 2
+								-20 13 -8 11 -19 18 -24 15 -5 -4 -9 2 -9 12 0 11 -20 39 -45 63 -24 24 -42
+								47 -39 52 3 4 -4 8 -15 8 -11 0 -22 9 -26 20 -3 11 -13 20 -21 20 -8 0 -14 7
+								-14 15 0 8 -7 15 -16 15 -8 0 -12 5 -9 10 3 6 -1 10 -9 10 -9 0 -16 5 -16 11
+								0 5 -3 8 -7 6 -5 -3 -14 1 -21 9 -7 8 -9 14 -5 14 4 1 -4 8 -19 16 -16 8 -28
+								19 -28 24 0 6 -7 10 -15 10 -8 0 -15 5 -15 10 0 6 -5 10 -10 10 -6 0 -21 11
+								-34 25 -13 14 -26 25 -30 25 -7 0 -67 41 -76 51 -3 3 -19 13 -37 22 -17 9 -37
+								22 -45 29 -18 17 -59 42 -143 85 -38 19 -73 40 -76 45 -3 5 -9 9 -12 9 -4 0
+								-26 8 -49 18 -374 158 -665 229 -1072 261 -150 12 -504 11 -656 -1z m475
+								-1214 c103 -10 140 -15 240 -31 90 -15 283 -67 314 -85 17 -9 74 -31 79 -30
+								10 4 273 -148 292 -170 3 -3 23 -18 44 -35 22 -16 49 -38 60 -49 12 -11 35
+								-31 51 -43 17 -13 23 -21 15 -17 -8 4 -1 -6 16 -22 27 -24 98 -107 157 -184
+								10 -13 27 -40 38 -59 11 -19 28 -48 39 -65 19 -30 73 -126 75 -135 1 -3 10
+								-23 20 -45 10 -22 18 -43 17 -47 -1 -5 2 -8 6 -8 5 0 9 -6 10 -12 2 -29 29
+								-88 37 -81 4 5 5 3 1 -4 -4 -7 7 -50 23 -97 16 -46 27 -87 24 -90 -3 -3 0 -12
+								7 -21 7 -9 10 -18 7 -22 -4 -3 -2 -12 4 -20 9 -10 8 -13 -2 -13 -9 -1 -8 -5 5
+								-15 11 -8 15 -15 8 -15 -8 0 -9 -7 -1 -27 6 -16 12 -37 14 -48 8 -49 27 -203
+								29 -230 0 -16 5 -33 11 -37 7 -5 6 -8 0 -8 -6 0 -11 -9 -11 -20 0 -11 4 -20 9
+								-20 5 0 4 -6 -2 -14 -9 -11 -9 -15 1 -20 10 -5 10 -7 1 -12 -19 -8 -16 -24 5
+								-24 10 0 13 -3 6 -8 -16 -10 -18 -222 -3 -222 8 0 9 -4 0 -13 -8 -10 -12 -215
+								-13 -707 l-3 -694 -34 -20 c-34 -20 -56 -20 -1717 -24 -1216 -3 -1683 -1
+								-1688 7 -4 6 -22 11 -40 11 -69 0 -65 -59 -66 905 -1 479 -1 872 0 875 1 3 3
+								32 5 65 4 65 10 117 26 210 6 33 12 71 13 85 2 14 6 32 10 41 4 9 8 27 10 41
+								1 13 5 28 8 33 3 6 9 28 13 50 8 42 47 159 71 212 8 17 14 34 14 39 0 33 188
+								356 247 424 36 42 197 200 239 235 110 93 398 240 507 259 7 1 28 7 47 14 58
+								19 273 52 382 58 57 4 104 7 105 8 4 3 156 -3 218 -9z"></path>
+								</g>
+							</svg>
+							<span class="button-text"></span>
+						</button>
+					</div>
+					<!-- Existing PayPal pay button-->
+					<div>
+						<div id="paypal-btn-container-existing" class="pp-paypal-btn-container hide">
+						</div>
+						<div class="pp-paypal-spinner-container hide">
+							<img class="pp-paypal-spinner spinner" src="img/spinner-dark.svg">
+						</div>
+					</div>
+					<div class="pp-tc-section"></div>
+				</div>
+			</div>
+			<div class="related-products-title hide pp-title bold pp-section-mt mb-half" data-i18n="You may also like..."></div>
+			<div id="pp-related-products-section-mobile-existing" class="hide">
+				<div class="pp-products-list-related-mobile-existing">
+				</div>
+				<div class="pp-rp-fade-left pp-rp-fade-left-hide"></div>
+				<div class="pp-rp-fade-right"></div>
+			</div>
+			<div class="logo-container-mobile-view">
+				<a href="https://peachpay.app/" target="_blank">
+					<div class="inline">
+						<span class="powered-by" data-i18n="Powered by"></span>
+						<img class="peachpay-white-logo" src="img/peachpay-logo-full-black.png"></img>
+					</div>
+				</a>
+				<div class ="pp-TOS-privacy-container">
+					<a href="https://peachpay.app/privacy" target="_blank">
+						<span class='pp-privacy' data-i18n="Privacy Policy"></span>
+					</a>
+					<a href="https://peachpay.app/terms" target="_blank">
+						<span class='pp-TOS' data-i18n="Terms of Service"></span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div id="loading" class="loading-screen hide flex-row">
+			<img src="img/spinner-dark.svg" width="50">
+		</div>
+	</div>
+	<span class="hide" data-i18n="Return"></span>
+	<script src="https://browser.sentry-cdn.com/7.0.0/bundle.tracing.min.js" integrity="sha384-+zViWRWnRAkk9/+V2CRRVm1tuQEGGqye3jiEC8SDdjaOyzmv86+kvpl6NnRy9QIF" crossorigin="anonymous" data-cfasync="false"></script>
+	<script src="https://js.stripe.com/v3/" data-cfasync="false"></script>
+	<script src="js/bundle.js" data-cfasync="false"></script>
+	<script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAL_j0UvKJacQhZ3OedCj_bkcTbuO63MVU&libraries=places" data-cfasync="false"></script>
+</body>
+
+</html>

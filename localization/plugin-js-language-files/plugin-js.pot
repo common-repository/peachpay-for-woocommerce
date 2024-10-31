@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: peachpay-for-woocommerce\n"
+
+msgid "+ Add new option"
+msgstr ""
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr ""
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr ""
+
+msgid "Default value:"
+msgstr ""
+
+msgid "Display in Order Detail"
+msgstr ""
+
+msgid "Display in email"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Feedback"
+msgstr ""
+
+msgid "Field details"
+msgstr ""
+
+msgid "I couldn't get the plugin to work"
+msgstr ""
+
+msgid "I found a better plugin"
+msgstr ""
+
+msgid "I no longer need the plugin"
+msgstr ""
+
+msgid "Label:"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr ""
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr ""
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr ""
+
+msgid "Please share which plugin"
+msgstr ""
+
+msgid "Please share your reason"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Skip & deactivate"
+msgstr ""
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr ""
+
+msgid "Sorry, this product is out of stock."
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Submit & deactivate"
+msgstr ""
+
+msgid "Temporary deactivation"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr ""
+
+msgid "This gift card has no money left."
+msgstr ""
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr ""
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr ""
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr ""
+
+msgid "support chat"
+msgstr ""

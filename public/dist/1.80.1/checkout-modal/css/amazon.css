@@ -1,0 +1,5 @@
+.pp-amazon-pay-btn-container, #pp-amazon-pay-checkout-btn, #pp-amazon-pay-checkout-btn-mobile {
+	width: 15rem !important;
+	height: 3.5rem !important;
+	margin: 0 auto;
+}

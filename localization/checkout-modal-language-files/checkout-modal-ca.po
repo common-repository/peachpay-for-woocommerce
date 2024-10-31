@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ AFEGUEIX UN CODI DE CUPON"
+
+msgid "+ COUPON"
+msgstr "+ CUPÓ"
+
+msgid "+ NEW CARD"
+msgstr "+ NOVA TARGETA"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ BENEFICIA DE LA TARGETA REGAL/CREDIT DE LA BOTIGA"
+
+msgid "ADD"
+msgstr "AFEGIR"
+
+msgid "Accept"
+msgstr "Acceptar"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Account login"
+msgstr "Inici de sessió al compte"
+
+msgid "Account name"
+msgstr "Nom del compte"
+
+msgid "Account registration"
+msgstr "Registre del compte"
+
+msgid "Add"
+msgstr "Afegeix"
+
+msgid "Additional information"
+msgstr "Informació adicional"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Després de fer clic a <b>Paga</b>, apareixerà una finestra on podeu introduir la informació de la vostra targeta."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Després de seleccionar <b>Paga</b>, apareixerà una sol·licitud per seleccionar un compte bancari."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Després de seleccionar <b>Paga</b>, se us redirigirà per completar el pagament."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Després de seleccionar el pagament, se us redirigirà per completar el pagament."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Després de seleccionar el pagament, apareixerà una finestra on podeu completar el pagament."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Un altre pas apareixerà després d'enviar la comanda per completar els detalls de la compra."
+
+msgid "Apartment"
+msgstr "Apartament"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay seleccionat per pagar."
+
+msgid "BILLING"
+msgstr "FACTURACIÓ"
+
+msgid "Back"
+msgstr "esquena"
+
+msgid "Bill to"
+msgstr "Factura a"
+
+msgid "Billing"
+msgstr "Facturació"
+
+msgid "Billing method"
+msgstr "Mètode de facturació"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "En fer clic a <b>Accepta</b>, autoritzeu"
+
+msgid "By clicking the button above, you agree to"
+msgstr "En fer clic al botó de dalt, acceptes"
+
+msgid "Cancel"
+msgstr "Cancel · lar"
+
+msgid "Card"
+msgstr "Targeta"
+
+msgid "Cart is empty"
+msgstr "El carretó està buit"
+
+msgid "Cheque"
+msgstr "Comproveu"
+
+msgid "City"
+msgstr "ciutat"
+
+msgid "Close"
+msgstr "Tanca"
+
+msgid "Continue"
+msgstr "Continua"
+
+msgid "Country"
+msgstr "País"
+
+msgid "County"
+msgstr "comtat"
+
+msgid "Coupon"
+msgstr "Cupó"
+
+msgid "Coupon code"
+msgstr "Codi de cupó"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Customize"
+msgstr "Personalitza"
+
+msgid "Delivery date"
+msgstr "Data de lliurament"
+
+msgid "Done"
+msgstr "Fet"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Email"
+msgstr "Correu electrònic"
+
+msgid "Email or Username"
+msgstr "Correu electrònic o nom d'usuari"
+
+msgid "Exit checkout"
+msgstr "Sortir de la caixa"
+
+msgid "First name"
+msgstr "Nom"
+
+msgid "First renewal"
+msgstr "Primera renovació"
+
+msgid "Gift card number"
+msgstr "Número de targeta regal"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay seleccionat per pagar."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Verifico que el país on he entrat és el on visc"
+
+msgid "Initial Shipment"
+msgstr "Enviament inicial"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Guardeu la meva informació desada per a un pagament més ràpid"
+
+msgid "Last name"
+msgstr "Cognom"
+
+msgid "Login"
+msgstr "iniciar Sessió"
+
+msgid "My cart"
+msgstr "El meu carro"
+
+msgid "No thanks"
+msgstr "No gràcies"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Nota: els pagaments poden trigar fins a 5 dies a completar-se."
+
+msgid "Order notes"
+msgstr "Notes de comanda"
+
+msgid "Order summary"
+msgstr "Resum de la comanda"
+
+msgid "PAYMENT"
+msgstr "PAGAMENT"
+
+msgid "Password"
+msgstr "Contrasenya"
+
+msgid "Pay"
+msgstr "Pagar"
+
+msgid "Pay with a cheque"
+msgstr "Paga amb un xec"
+
+msgid "Payment"
+msgstr "Pagament"
+
+msgid "Payment method"
+msgstr "Mètode de pagament"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Pagament mitjançant transferència bancària"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Phone number"
+msgstr "Número de telèfon"
+
+msgid "Place order"
+msgstr "Fes la comanda"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Si us plau, torneu i torneu-ho a provar. Falta el camp obligatori"
+
+msgid "Postal code"
+msgstr "Codi Postal"
+
+msgid "Powered by"
+msgstr "Impulsat per"
+
+msgid "Privacy Policy"
+msgstr "Política de privacitat"
+
+msgid "Processing"
+msgstr "Tramitació"
+
+msgid "Province"
+msgstr "Província"
+
+msgid "Purchase order"
+msgstr "Ordre de compra"
+
+msgid "Recommended for you"
+msgstr "Recomanat per a tu"
+
+msgid "Recurring total"
+msgstr "Total recurrent"
+
+msgid "Register"
+msgstr "Registra't"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Return"
+msgstr "Tornar"
+
+msgid "Review your information"
+msgstr "Revisa la teva informació"
+
+msgid "SHIPPING"
+msgstr "ENVIAMENT"
+
+msgid "Save changes"
+msgstr "Guardar canvis"
+
+msgid "Select a country"
+msgstr "Seleccioneu un país"
+
+msgid "Select a province"
+msgstr "Seleccioneu una província"
+
+msgid "Select a state"
+msgstr "Seleccioneu un estat"
+
+msgid "Ship to"
+msgstr "Enviament a"
+
+msgid "Shipping"
+msgstr "Enviament"
+
+msgid "Shipping method"
+msgstr "Mètode d'enviament"
+
+msgid "State"
+msgstr "Estat"
+
+msgid "Street address"
+msgstr "adreça"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax"
+msgstr "Impost"
+
+msgid "Terms of Service"
+msgstr "Termes del servei"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Mode de prova: els clients no poden veure PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "No es va acceptar el mandat requerit. Pagament cancel·lat."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "No hi ha mètodes de pagament elegibles o actius disponibles per a aquesta comanda."
+
+msgid "There are no payment methods available"
+msgstr "No hi ha mètodes de pagament disponibles"
+
+msgid "There are no shipping methods available"
+msgstr "No hi ha mètodes d'enviament disponibles"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Aquest mètode de pagament no admet la moneda seleccionada; en fer clic en aquest missatge, la moneda canviarà"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Aquesta forma de pagament no admet la moneda seleccionada. En seleccionar-ho, la moneda canviarà a"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Aquesta forma de pagament no admet la moneda seleccionada. Si us plau, canvieu de moneda."
+
+msgid "Total"
+msgstr "Total"
+
+msgid "US bank account"
+msgstr "compte bancari dels EUA"
+
+msgid "Unknown order error occurred"
+msgstr "S'ha produït un error de comanda desconegut"
+
+msgid "Use different shipping address"
+msgstr "Utilitzeu una adreça d'enviament diferent"
+
+msgid "VIEW SAVED CARDS"
+msgstr "VISUALITZA TARGETES DESADES"
+
+msgid "Verified"
+msgstr "Verificat"
+
+msgid "View options"
+msgstr "Veure opcions"
+
+msgid "Wire/Bank Transfer"
+msgstr "Transferència bancària"
+
+msgid "You entered an invalid coupon code"
+msgstr "Heu introduït un codi de cupó no vàlid"
+
+msgid "You entered an invalid gift card"
+msgstr "Has introduït una targeta regal no vàlida"
+
+msgid "additional"
+msgstr "addicionals"
+
+msgid "and"
+msgstr "i"
+
+msgid "apply"
+msgstr "aplicar"
+
+msgid "each"
+msgstr "cadascun"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "política de privacitat"
+
+msgid "pursuant to"
+msgstr "d'acord amb"
+
+msgid "services and/or purchase of products from "
+msgstr "serveis i/o compra de productes de"
+
+msgid "terms"
+msgstr "termes"
+
+msgid "terms and conditions"
+msgstr "termes i condicions"
+
+msgid "the"
+msgstr "el"
+
+msgid "the store's"
+msgstr "de la botiga"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "per carregar al compte bancari especificat anteriorment qualsevol quantitat deguda pels càrrecs derivats de l'ús que feu"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "lloc web i condicions, fins que aquesta autorització sigui revocada. Podeu modificar o cancel·lar aquesta autorització en qualsevol moment notificant-ho a"
+
+msgid "with 30 (thirty) days notice."
+msgstr "amb un preavís de 30 (trenta) dies."

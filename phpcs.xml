@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ruleset name="PeachPayStandard">
+    <description>Custom PeachPay coding standard, based on WordPress standard</description>
+    <exclude-pattern>/vendor/*</exclude-pattern>
+    <exclude-pattern>/tests/*</exclude-pattern>
+    <rule ref="WordPress">
+        <exclude name="Squiz.Strings.DoubleQuoteUsage" />
+		<exclude name="Squiz.Commenting.InlineComment" />
+    </rule>
+
+    <!-- Check for PHP cross-version compatibility. -->
+    <!--
+        To enable this, the PHPCompatibilityWP standard needs
+        to be installed.
+        See the readme for installation instructions:
+        https://github.com/PHPCompatibility/PHPCompatibilityWP
+        For more information, also see:
+        https://github.com/PHPCompatibility/PHPCompatibility
+    -->
+
+    <config name="testVersion" value="7.0-"/>
+    <rule ref="PHPCompatibilityWP"/>
+    <!--
+        To get the optimal benefits of using WPCS, we should add a couple of
+        custom properties.
+        Adjust the values of these properties to fit our needs.
+
+        For information on additional custom properties available, check out
+        the wiki:
+        https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties
+    -->
+    <config name="minimum_supported_wp_version" value="5.8"/>
+</ruleset>

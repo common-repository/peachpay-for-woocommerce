@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ ADĂUGAȚI UN COD CUPON"
+
+msgid "+ COUPON"
+msgstr "+ CUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ CARD NOU"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ RUTILIZAȚI CARDUL CADOU/CREDIT DE MAGAZIN"
+
+msgid "ADD"
+msgstr "ADĂUGA"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Account"
+msgstr "Cont"
+
+msgid "Account login"
+msgstr "Conectare la cont"
+
+msgid "Account name"
+msgstr "Nume de cont"
+
+msgid "Account registration"
+msgstr "Înregistrarea contului"
+
+msgid "Add"
+msgstr "Adăuga"
+
+msgid "Additional information"
+msgstr "Informații suplimentare"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "După ce faceți clic pe <b>Plătiți</b>, va apărea o fereastră în care puteți introduce informațiile cardului."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "După ce selectați <b>Plătiți</b>, va apărea o solicitare pentru a selecta un cont bancar."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "După ce selectați <b>Plătiți</b>, veți fi redirecționat pentru a finaliza plata."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "După ce ați selectat plata, veți fi redirecționat pentru a finaliza plata."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "După ce ați selectat plata, va apărea o fereastră în care vă puteți finaliza plata."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Un alt pas va apărea după trimiterea comenzii pentru a finaliza detaliile de achiziție."
+
+msgid "Apartment"
+msgstr "Apartament"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay selectat pentru finalizare."
+
+msgid "BILLING"
+msgstr "FACTURAREA"
+
+msgid "Back"
+msgstr "Înapoi"
+
+msgid "Bill to"
+msgstr "Proiect de lege pentru"
+
+msgid "Billing"
+msgstr "Facturare"
+
+msgid "Billing method"
+msgstr "Metoda de facturare"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Făcând clic pe <b>Accept</b>, autorizați"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Făcând clic pe butonul de mai sus, sunteți de acord"
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "Card"
+msgstr "Card"
+
+msgid "Cart is empty"
+msgstr "Coșul este gol"
+
+msgid "Cheque"
+msgstr "Verifica"
+
+msgid "City"
+msgstr "Oraș"
+
+msgid "Close"
+msgstr "Închide"
+
+msgid "Continue"
+msgstr "Continua"
+
+msgid "Country"
+msgstr "Țară"
+
+msgid "County"
+msgstr "jud"
+
+msgid "Coupon"
+msgstr "Cupon"
+
+msgid "Coupon code"
+msgstr "Cod cupon"
+
+msgid "Currency"
+msgstr "Valută"
+
+msgid "Customize"
+msgstr "Personalizați"
+
+msgid "Delivery date"
+msgstr "Data de livrare"
+
+msgid "Done"
+msgstr "Terminat"
+
+msgid "Edit"
+msgstr "Editați | ×"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email or Username"
+msgstr "Adresă de e-mail sau nume de utilizator"
+
+msgid "Exit checkout"
+msgstr "Ieșiți din casă"
+
+msgid "First name"
+msgstr "Nume"
+
+msgid "First renewal"
+msgstr "Prima reînnoire"
+
+msgid "Gift card number"
+msgstr "Numărul cardului cadou"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay selectat pentru finalizare."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Verific că țara în care am intrat este cea în care locuiesc"
+
+msgid "Initial Shipment"
+msgstr "Livrare inițială"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Păstrează-mi informațiile salvate pentru o finalizare mai rapidă"
+
+msgid "Last name"
+msgstr "Nume"
+
+msgid "Login"
+msgstr "Autentificare"
+
+msgid "My cart"
+msgstr "Caruciorul meu"
+
+msgid "No thanks"
+msgstr "Nu multumesc"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Notă: finalizarea plăților poate dura până la 5 zile."
+
+msgid "Order notes"
+msgstr "Note de comandă"
+
+msgid "Order summary"
+msgstr "Comanda Rezumat"
+
+msgid "PAYMENT"
+msgstr "PLATĂ"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Pay"
+msgstr "A plati"
+
+msgid "Pay with a cheque"
+msgstr "Plătiți cu un cec"
+
+msgid "Payment"
+msgstr "Plată"
+
+msgid "Payment method"
+msgstr "Modalitate de plată"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Plata prin transfer bancar"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Phone number"
+msgstr "Numar de telefon"
+
+msgid "Place order"
+msgstr "Plasați comanda"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Vă rugăm să reveniți și să încercați din nou. Lipsește câmp obligatoriu"
+
+msgid "Postal code"
+msgstr "Cod poștal"
+
+msgid "Powered by"
+msgstr "Cu sprijinul"
+
+msgid "Privacy Policy"
+msgstr "Politica de Confidențialitate"
+
+msgid "Processing"
+msgstr "Prelucrare"
+
+msgid "Province"
+msgstr "Provincie"
+
+msgid "Purchase order"
+msgstr "Comandă de achiziție"
+
+msgid "Recommended for you"
+msgstr "recomandat pentru tine"
+
+msgid "Recurring total"
+msgstr "Total recurent"
+
+msgid "Register"
+msgstr "Inregistreaza-te"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Return"
+msgstr "Întoarcere"
+
+msgid "Review your information"
+msgstr "Examinați-vă informațiile"
+
+msgid "SHIPPING"
+msgstr "TRANSPORT"
+
+msgid "Save changes"
+msgstr "Salvează modificările"
+
+msgid "Select a country"
+msgstr "Selecteaza o tara"
+
+msgid "Select a province"
+msgstr "Selectați o provincie"
+
+msgid "Select a state"
+msgstr "Selecteaza un stat"
+
+msgid "Ship to"
+msgstr "Îmbarca spre"
+
+msgid "Shipping"
+msgstr "livrare"
+
+msgid "Shipping method"
+msgstr "Metodă de livrare"
+
+msgid "State"
+msgstr "Stat"
+
+msgid "Street address"
+msgstr "adresa străzii"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax"
+msgstr "Impozit"
+
+msgid "Terms of Service"
+msgstr "Termenii serviciului"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Mod de testare: clienții nu pot vedea PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Mandatul cerut nu a fost acceptat. Plata anulată."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Nu există metode de plată eligibile sau active disponibile pentru această comandă."
+
+msgid "There are no payment methods available"
+msgstr "Nu există metode de plată disponibile"
+
+msgid "There are no shipping methods available"
+msgstr "Nu există metode de expediere disponibile"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Această metodă de plată nu acceptă moneda selectată, când faceți clic pe acest mesaj moneda se va comuta"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Această metodă de plată nu acceptă moneda selectată. La selectarea acesteia, moneda va trece la"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Această metodă de plată nu acceptă moneda selectată. Vă rugăm să schimbați moneda."
+
+msgid "Total"
+msgstr "Total"
+
+msgid "US bank account"
+msgstr "cont bancar american"
+
+msgid "Unknown order error occurred"
+msgstr "A apărut o eroare de comandă necunoscută"
+
+msgid "Use different shipping address"
+msgstr "Utilizați o adresă de expediere diferită"
+
+msgid "VIEW SAVED CARDS"
+msgstr "VEZI CARDURI SALVATE"
+
+msgid "Verified"
+msgstr "Verificat"
+
+msgid "View options"
+msgstr "Vizualizați opțiunile"
+
+msgid "Wire/Bank Transfer"
+msgstr "Transfer bancar"
+
+msgid "You entered an invalid coupon code"
+msgstr "Ați introdus un cod de cupon nevalid"
+
+msgid "You entered an invalid gift card"
+msgstr "Ați introdus un card cadou nevalid"
+
+msgid "additional"
+msgstr "adiţional"
+
+msgid "and"
+msgstr "și"
+
+msgid "apply"
+msgstr "aplica"
+
+msgid "each"
+msgstr "fiecare"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "Politica de Confidențialitate"
+
+msgid "pursuant to"
+msgstr "conform"
+
+msgid "services and/or purchase of products from "
+msgstr "servicii și/sau achiziție de produse de la"
+
+msgid "terms"
+msgstr "termeni"
+
+msgid "terms and conditions"
+msgstr "Termeni și condiții"
+
+msgid "the"
+msgstr "cel"
+
+msgid "the store's"
+msgstr "magazinele"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "pentru a debita contul bancar specificat mai sus pentru orice sumă datorată pentru taxele care decurg din utilizarea de către dumneavoastră a"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "site-ul web și termenii, până la revocarea acestei autorizații. Puteți modifica sau anula această autorizație în orice moment, furnizând o notificare către"
+
+msgid "with 30 (thirty) days notice."
+msgstr "cu un preaviz de 30 (treizeci) de zile."

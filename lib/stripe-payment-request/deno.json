@@ -1,0 +1,46 @@
+{
+	"compilerOptions": {
+		"lib": [
+			"dom",
+			"deno.ns"
+		],
+		"strict": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"alwaysStrict": true,
+		"allowJs": false,
+		"experimentalDecorators": false,
+		"keyofStringsOnly": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true
+	},
+	"lint": {
+		"files": {
+			"include": [
+				"src/"
+			]
+		},
+		"rules": {
+			"tags": [
+				"recommended"
+			],
+			"include": [
+				"no-unused-vars"
+			]
+		}
+	},
+	"fmt": {
+		"files": {
+			"include": [
+				"src/"
+			]
+		},
+		"options": {
+			"useTabs": true,
+			"singleQuote": true,
+			"lineWidth": 100
+		}
+	}
+}

@@ -1,0 +1,2850 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+
+msgid " (Base currency)"
+msgstr " (Moneda base)"
+
+msgid " Auto update "
+msgstr " Actualización automática"
+
+msgid " Conversion rate "
+msgstr " Tasa de conversión"
+
+msgid " Currency"
+msgstr " Divisa"
+
+msgid " Decimals "
+msgstr " decimales"
+
+msgid " and automatically converted the prices!"
+msgstr " y convirtió automáticamente los precios!"
+
+msgid "$9.99 monthly"
+msgstr "$9.99 mensual"
+
+msgid "$99 annually"
+msgstr "$99 al año"
+
+msgid "% service fee"
+msgstr "% tarifa de servicio"
+
+msgid "% service fee."
+msgstr "% tarifa de servicio."
+
+msgid "%1$s does not support %2$s. Please switch currency to %3$s."
+msgstr "%1$s no es compatible con %2$s. Cambie la moneda a %3$s."
+
+msgid "%1$s does not support the currency you currently have chosen. %2$s below to use this payment method."
+msgstr "%1$s no admite la moneda que ha elegido actualmente. %2$s a continuación para usar este método de pago."
+
+msgid "%1$s payment failed: %2$s"
+msgstr "%1$s pago fallido: %2$s"
+
+msgid "%1$s payment is complete. (Capture Id: %2$s)"
+msgstr "El pago de %1$s está completo. (Id. de captura: %2$s)"
+
+msgid "%1$s payment refunded %2$s (Refund Id: %3$s)"
+msgstr "Pago de %1$s reembolsado %2$s (Id. de reembolso: %3$s)"
+
+msgid "%1$s payment was approved. Awaiting capture. (PayPal Order Id: %2$s)"
+msgstr "Se aprobó el pago de %1$s. En espera de captura. (Id. de pedido de PayPal: %2$s)"
+
+msgid "%1$s payment was created. Awaiting customer confirmation. (PayPal Order Id: %2$s)"
+msgstr "Se creó el pago de %1$s. En espera de confirmación del cliente. (Id. de pedido de PayPal: %2$s)"
+
+msgid "%1$s payment was voided. (PayPal Order Id: %2$s)"
+msgstr "Se anuló el pago de %1$s. (Id. de pedido de PayPal: %2$s)"
+
+msgid "%s selected for checkout."
+msgstr "%s seleccionado para pago."
+
+msgid "%s via Authorize.net (PeachPay)"
+msgstr "%s a través de Authorize.net (PeachPay)"
+
+msgid "%s via GoDaddy Poynt (PeachPay)"
+msgstr "%s a través de GoDaddy Poynt (PeachPay)"
+
+msgid "%s via Square (PeachPay)"
+msgstr "%s a través de Square (PeachPay)"
+
+msgid "%s via Stripe (PeachPay)"
+msgstr "%s a través de Stripe (PeachPay)"
+
+msgid "*  For Stripe currency conversions, a 1% fee is assessed."
+msgstr "* Para las conversiones de moneda de Stripe, se cobra una tarifa del 1%."
+
+msgid "** For PayPal currency conversions to USD or CAD, a 4% fee is assessed. For other PayPal currency conversions, a 4.5% fee is assessed."
+msgstr "** Para conversiones de moneda de PayPal a USD o CAD, se aplica una tarifa del 4 %. Para otras conversiones de moneda de PayPal, se aplica una tarifa del 4,5 %."
+
+msgid "*** Select currency ***"
+msgstr "*** Seleccione el tipo de moneda ***"
+
+msgid "+ fees"
+msgstr "+ tarifas"
+
+msgid "14-day trial then"
+msgstr "Prueba de 14 días entonces"
+
+msgid "A dispute has been created for charge Id: %1$s. Dispute status: %2$s."
+msgstr "Se ha creado una disputa para el Id. de cargo: %1$s. Estado de disputa: %2$s."
+
+msgid "ACH: %1$s ending in %2$s"
+msgstr "ACH: %1$s que termina en %2$s"
+
+msgid "Abandoned carts"
+msgstr "carros abandonados"
+
+msgid "Accept %s payments through Authorize.net"
+msgstr "Acepte %s pagos a través de Authorize.net"
+
+msgid "Accept %s payments through GoDaddy Poynt"
+msgstr "Acepte %s pagos a través de GoDaddy Poynt"
+
+msgid "Accept %s payments through Square"
+msgstr "Acepte %s pagos a través de Square"
+
+msgid "Accept %s payments through Stripe"
+msgstr "Aceptar pagos de %s a través de Stripe"
+
+msgid "Accept button text"
+msgstr "Aceptar el texto del botón"
+
+msgid "Accept purchase order payments through PeachPay"
+msgstr "Acepte pagos de órdenes de compra a través de PeachPay"
+
+msgid "Account"
+msgstr "Cuenta"
+
+msgid "Account Id: "
+msgstr "ID de la cuenta:"
+
+msgid "Action needed"
+msgstr "Accion necesaria"
+
+msgid "Action required"
+msgstr "Acción requerida"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Add a custom product description."
+msgstr "Agregue una descripción de producto personalizada."
+
+msgid "Add a secondary header."
+msgstr "Agrega un encabezado secundario."
+
+msgid "Add currency conversion fees"
+msgstr "Agregar tarifas de conversión de moneda"
+
+msgid "Add new"
+msgstr "Agregar nuevo"
+
+msgid "Add new field"
+msgstr "Agregar nuevo campo"
+
+msgid "Add payment method"
+msgstr "Añadir método de pago"
+
+msgid "Add recommended products"
+msgstr "Agregar productos recomendados"
+
+msgid "Add to order"
+msgstr "Agregar a la orden"
+
+msgid "Add your logo at the top of the checkout window. We recommend an image of at least 512⨉512."
+msgstr "Agregue su logotipo en la parte superior de la ventana de pago. Recomendamos una imagen de al menos 512⨉512."
+
+msgid "Add-ons"
+msgstr "Complementos"
+
+msgid "Additional"
+msgstr "Adicional"
+
+msgid "Additional information"
+msgstr "Información adicional"
+
+msgid "Additional text"
+msgstr "Texto adicional"
+
+msgid "Adds a dynamic suffix to the transaction statement descriptor. The complete statement descriptor cannot exceed 22 characters and will be truncated if exceeded."
+msgstr "Agrega un sufijo dinámico al descriptor de declaración de transacción. El descriptor de declaración completo no puede exceder los 22 caracteres y se truncará si se excede."
+
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgid "Advanced settings"
+msgstr "Ajustes avanzados"
+
+msgid "Afghan Afghani 🇦🇫"
+msgstr "Afgani afgano 🇦🇫"
+
+msgid "After \"Add to Cart\""
+msgstr "Después de \"Agregar al carrito\""
+
+msgid "After information page, before payment page"
+msgstr "Después de la página de información, antes de la página de pago"
+
+msgid "After payment"
+msgstr "Después del pago"
+
+msgid "After selecting %s a prompt will appear to complete your payment."
+msgstr "Después de seleccionar %s, aparecerá un mensaje para completar su pago."
+
+msgid "After selecting %s you will be prompted to complete your payment."
+msgstr "Después de seleccionar %s, se le pedirá que complete su pago."
+
+msgid "After selecting %s you will be redirected to complete your payment."
+msgstr "Después de seleccionar %s, será redirigido para completar su pago."
+
+msgid "After selecting %s, fill out the IBAN input, accept the conditions and pay."
+msgstr "Después de seleccionar %s, complete la entrada de IBAN, acepte las condiciones y pague."
+
+msgid "Afterpay"
+msgstr "pospago"
+
+msgid "Albanian Lek 🇦🇱"
+msgstr "Lek albanés 🇦🇱"
+
+msgid "Algerian Dinar 🇩🇿"
+msgstr "Dinar argelino 🇩🇿"
+
+msgid "Alignment"
+msgstr "Alineación"
+
+msgid "All supported billing countries"
+msgstr "Todos los países de facturación admitidos"
+
+msgid "All supported currencies"
+msgstr "Todas las monedas admitidas"
+
+msgid "Allow customers to enter order notes inside the checkout window."
+msgstr "Permita que los clientes ingresen notas de pedido dentro de la ventana de pago."
+
+msgid "Allow specific billing countries"
+msgstr "Permitir países de facturación específicos"
+
+msgid "Allow specific currencies"
+msgstr "Permitir monedas específicas"
+
+msgid "Allowed in all non-restricted countries"
+msgstr "Permitido en todos los países no restringidos"
+
+msgid "Amazon Pay"
+msgstr "Pago de Amazon"
+
+msgid "Amazon Pay is not currently supported in your region"
+msgstr "Amazon Pay no es compatible actualmente en su región"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "An error occurred while unlinking your Amazon Pay account."
+msgstr "Ocurrió un error al desvincular su cuenta de Amazon Pay."
+
+msgid "An error occurred while unlinking your Square account."
+msgstr "Se produjo un error al desvincular su cuenta de Square."
+
+msgid "Analytics"
+msgstr "Analítica"
+
+msgid "Angolan Kwanza 🇦🇴"
+msgstr "Kwanza angoleño 🇦🇴"
+
+msgid "Any time a customer pays with a currency different from the store's base currency, Stripe* and PayPal** apply a conversion fee. With this option enabled, you can pass that cost off to the customer."
+msgstr "Cada vez que un cliente paga con una moneda diferente a la moneda base de la tienda, Stripe* y PayPal** aplican una tarifa de conversión. Con esta opción habilitada, puede pasar ese costo al cliente."
+
+msgid "Appearance"
+msgstr "Apariencia"
+
+msgid "Apple Pay requires your domain to be registered in order to work. Automatic registration has failed. Click \"Register domain\" to attempt registration again."
+msgstr "Apple Pay requiere que su dominio esté registrado para poder funcionar. El registro automático ha fallado. Haga clic en \"Registrar dominio\" para intentar registrarse de nuevo."
+
+msgid "Apple Pay requires your domain to be registered with Apple. If you are encountering issues with Apple Pay or recently changed your domain, resetting the domain registration might fix the problem."
+msgstr "Apple Pay requiere que su dominio esté registrado con Apple. Si tiene problemas con Apple Pay o si cambió su dominio recientemente, restablecer el registro del dominio podría solucionar el problema."
+
+msgid "Application Id:"
+msgstr "ID de aplicación:"
+
+msgid "Application Id: "
+msgstr "ID de aplicación:"
+
+msgid "Argentine Peso 🇦🇷"
+msgstr "Peso Argentino 🇦🇷"
+
+msgid "Armenian Dram 🇦🇲"
+msgstr "Dram Armenio 🇦🇲"
+
+msgid "Arrow"
+msgstr "Flecha"
+
+msgid "Aruban Florin 🇦🇼"
+msgstr "Florín de Aruba 🇦🇼"
+
+msgid "Australian dollar 🇦🇺"
+msgstr "Dolar australiano 🇦🇺"
+
+msgid "Authenticated bank debit"
+msgstr "Débito bancario autenticado"
+
+msgid "Authenticated bank-debit"
+msgstr "Débito bancario autenticado"
+
+msgid "Authorize"
+msgstr "Autorizar"
+
+msgid "Authorize.net"
+msgstr "Autorizar.net"
+
+msgid "Authorize.net %1$s payment authorized but held pending review. Manage the payment in the Authorize.net MINT dashboard. (Transaction Id: %2$s)"
+msgstr "Authorize.net %1$s pago autorizado pero pendiente de revisión. Administre el pago en el panel MINT de Authorize.net. (Id. de transacción: %2$s)"
+
+msgid "Authorize.net %1$s payment authorized for %2$s. (Transaction Id: %3$s)"
+msgstr "Authorize.net %1$s pago autorizado para %2$s. (Id. de transacción: %3$s)"
+
+msgid "Authorize.net %1$s payment held pending review. Manage the payment in the Authorize.net MINT dashboard. (Transaction Id: %2$s)"
+msgstr "Authorize.net %1$s pago retenido pendiente de revisión. Administre el pago en el panel MINT de Authorize.net. (Id. de transacción: %2$s)"
+
+msgid "Authorize.net %1$s payment is complete for %2$s. (Transaction Id: %3$s)"
+msgstr "Authorize.net %1$s se completó el pago de %2$s. (Id. de transacción: %3$s)"
+
+msgid "Authorize.net %1$s payment partially refunded %2$s (Transaction Id: %3$s)"
+msgstr "Authorize.net %1$s pago parcialmente reembolsado %2$s (Id. de transacción: %3$s)"
+
+msgid "Authorize.net %1$s payment refunded %2$s (Transaction Id: %3$s)"
+msgstr "Authorize.net %1$s pago reembolsado %2$s (Id. de transacción: %3$s)"
+
+msgid "Authorize.net %1$s payment refunded/voided %2$s because order was cancelled. (Transaction Id: %3$s)"
+msgstr "Authorize.net %1$s pago reembolsado/anulado %2$s porque se canceló el pedido. (Id. de transacción: %3$s)"
+
+msgid "Authorize.net %1$s payment under review. Manage the payment in the Authorize.net MINT dashboard. (Transaction Id: %2$s)"
+msgstr "Authorize.net %1$s pago bajo revisión. Administre el pago en el panel MINT de Authorize.net. (Id. de transacción: %2$s)"
+
+msgid "Authorize.net %1$s payment was declined (Transaction Id: %2$s)."
+msgstr "Se rechazó el pago de Authorize.net %1$s (Id. de transacción: %2$s)."
+
+msgid "Authorize.net %1$s payment was declined (Transaction Id: %2$s). Reason: %3$s"
+msgstr "Se rechazó el pago de Authorize.net %1$s (Id. de transacción: %2$s). Motivo: %3$s"
+
+msgid "Authorize.net %1$s payment was voided. (Transaction Id: %2$s)"
+msgstr "Authorize.net %1$s pago fue anulado. (Id. de transacción: %2$s)"
+
+msgid "Authorize.net Account"
+msgstr "Cuenta Authorize.net"
+
+msgid "Authorize.net advanced settings"
+msgstr "Configuración avanzada de Authorize.net"
+
+msgid "Authorize.net is a credit card processor. Not sure if this one is right for you, or looking to switch? Authorize.net offers competitive transaction rates for stores selling more than $500K USD per year."
+msgstr "Authorize.net es un procesador de tarjetas de crédito. ¿No está seguro de si este es adecuado para usted o está buscando cambiar? Authorize.net ofrece tarifas de transacción competitivas para tiendas que venden más de $ 500K USD por año."
+
+msgid "Authorized amount"
+msgstr "Monto autorizado"
+
+msgid "Authorized amount: "
+msgstr "Monto autorizado:"
+
+msgid "Auto update"
+msgstr "Actualización automática"
+
+msgid "Automatic attempt has already occured. Use force=true to force a registration attempt."
+msgstr "Ya se ha producido un intento automático. Use force=true para forzar un intento de registro."
+
+msgid "Automatic recommendations"
+msgstr "Recomendaciones automáticas"
+
+msgid "Automatically capture authorized payments when the order status is changed to complete."
+msgstr "Capture automáticamente los pagos autorizados cuando el estado del pedido cambie a completo."
+
+msgid "Automatically email receipts to customers after the order is made."
+msgstr "Envíe recibos automáticamente por correo electrónico a los clientes después de realizar el pedido."
+
+msgid "Automatically refund the payment when the order status is changed to canceled."
+msgstr "Reembolso automático del pago cuando el estado del pedido cambia a cancelado."
+
+msgid "Automatically refund the payment when the order status is changed to cancelled."
+msgstr "Reembolso automático del pago cuando el estado del pedido cambia a cancelado."
+
+msgid "Awaiting Purchase Order (%s) completion."
+msgstr "En espera de finalización de la orden de compra (%s)."
+
+msgid "Azerbaijani Manat 🇦🇿"
+msgstr "Manat azerbaiyano 🇦🇿"
+
+msgid "Bag"
+msgstr "Bolsa"
+
+msgid "Bahamian Dollar 🇧🇸"
+msgstr "Dólar bahameño 🇧🇸"
+
+msgid "Bajan dollar 🇧🇧"
+msgstr "Dólar de Bajan 🇧🇧"
+
+msgid "Bangladeshi Taka 🇧🇩"
+msgstr "Taka de Bangladesh 🇧🇩"
+
+msgid "Bank debit"
+msgstr "débito bancario"
+
+msgid "Baseball"
+msgstr "Béisbol"
+
+msgid "Before \"Add to Cart\""
+msgstr "Antes de \"Agregar al carrito\""
+
+msgid "Before you click connect make sure to open a sandbox test account's dashboard in another browser tab."
+msgstr "Antes de hacer clic en conectar, asegúrese de abrir el panel de control de una cuenta de prueba de sandbox en otra pestaña del navegador."
+
+msgid "Belarusian Ruble 🇧🇾"
+msgstr "Rublo bielorruso 🇧🇾"
+
+msgid "Belize Dollar 🇧🇿"
+msgstr "Dólar de Belice 🇧🇿"
+
+msgid "Bermudan Dollar 🇧🇲"
+msgstr "Dólar bermudeño 🇧🇲"
+
+msgid "Billing"
+msgstr "Facturación"
+
+msgid "Biweekly"
+msgstr "Quincenal"
+
+msgid "Black"
+msgstr "Negro"
+
+msgid "Block bots from spamming purchases by enabling reCAPTCHA v3 technology."
+msgstr "Impida que los bots envíen spam a las compras habilitando la tecnología reCAPTCHA v3."
+
+msgid "Block specific billing countries"
+msgstr "Bloquear países de facturación específicos"
+
+msgid "Block specific currencies"
+msgstr "Bloquear monedas específicas"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "Bolivian Boliviano 🇧🇴"
+msgstr "Boliviano boliviano 🇧🇴"
+
+msgid "Bosnia-Herzegovina Convertible Mark 🇧🇦"
+msgstr "Marco bosnioherzegovino convertible 🇧🇦"
+
+msgid "Bot Protection"
+msgstr "Protección contra bots"
+
+msgid "Bot protection"
+msgstr "Protección contra bots"
+
+msgid "Both checkout page and Express Checkout"
+msgstr "Tanto la página de pago como el Pago exprés"
+
+msgid "Botswanan Pula 🇧🇼"
+msgstr "Pula de Botswana 🇧🇼"
+
+msgid "Bottom gap"
+msgstr "Espacio inferior"
+
+msgid "Bottom left"
+msgstr "Abajo a la izquierda"
+
+msgid "Bottom right"
+msgstr "Abajo a la derecha"
+
+msgid "Branding"
+msgstr "Marca"
+
+msgid "Brazilian Real 🇧🇷"
+msgstr "Real brasileño 🇧🇷"
+
+msgid "Browser breakdown"
+msgstr "desglose del navegador"
+
+msgid "Brunei Dollar 🇧🇳"
+msgstr "Dólar de Brunéi 🇧🇳"
+
+msgid "Bulgarian Lev 🇧🇬"
+msgstr "Lev búlgaro 🇧🇬"
+
+msgid "Burundian Franc 🇧🇮"
+msgstr "Franco de Burundi 🇧🇮"
+
+msgid "Business Id:"
+msgstr "Identificación del negocio:"
+
+msgid "Button CSS"
+msgstr "Botón CSS"
+
+msgid "Button Color"
+msgstr "Color del boton"
+
+msgid "Button Height"
+msgstr "Altura del botón"
+
+msgid "Button Label"
+msgstr "Etiqueta de botón"
+
+msgid "Button Shape"
+msgstr "Forma de botón"
+
+msgid "Button Text"
+msgstr "Botón de texto"
+
+msgid "Button classes"
+msgstr "Clases de botones"
+
+msgid "Button color"
+msgstr "Color del boton"
+
+msgid "Button display by pages"
+msgstr "Visualización de botones por páginas"
+
+msgid "Button location"
+msgstr "Ubicación del botón"
+
+msgid "Button settings"
+msgstr "Configuración de botones"
+
+msgid "Button shadow"
+msgstr "Sombra de botón"
+
+msgid "Button size"
+msgstr "Tamaño del botón"
+
+msgid "Button text"
+msgstr "Botón de texto"
+
+msgid "Button text color"
+msgstr "Color del texto del botón"
+
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+msgid "Buy Now, Pay Later"
+msgstr "Compre ahora, pague después"
+
+msgid "Buy now, Pay later"
+msgstr "Compra ahora, paga después"
+
+msgid "By default, PeachPay will follow the WooCommerce rules for when to show postal codes, province fields, etc."
+msgstr "De forma predeterminada, PeachPay seguirá las reglas de WooCommerce sobre cuándo mostrar códigos postales, campos de provincia, etc."
+
+msgid "CFP Franc"
+msgstr "Franco CFP"
+
+msgid "Cambodian riel 🇰🇭"
+msgstr "Riel camboyano 🇰🇭"
+
+msgid "Canadian dollar 🇨🇦"
+msgstr "Dólar canadiense 🇨🇦"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Cape Verdean Escudo 🇨🇻"
+msgstr "Escudo caboverdiano 🇨🇻"
+
+msgid "Captcha verification failed. Please try again or contact the store for assistance."
+msgstr "La verificación de Captcha falló. Vuelva a intentarlo o póngase en contacto con la tienda para obtener ayuda."
+
+msgid "Capture"
+msgstr "Captura"
+
+msgid "Capture Payment"
+msgstr "Capturar pago"
+
+msgid "Capture Summary"
+msgstr "Resumen de captura"
+
+msgid "Capture on complete"
+msgstr "Captura completa"
+
+msgid "Card"
+msgstr "Tarjeta"
+
+msgid "Card Brand"
+msgstr "Marca de carro"
+
+msgid "Cards"
+msgstr "Tarjetas"
+
+msgid "Cart display"
+msgstr "exhibición del carro"
+
+msgid "Cart page"
+msgstr "Página del carrito"
+
+msgid "Carts breakdown"
+msgstr "Desglose de carros"
+
+msgid "Cash App"
+msgstr "Aplicación de efectivo"
+
+msgid "Cash on Delivery, Check, and Bank Transfer payment options will be available through PeachPay if they are turned on in"
+msgstr "Las opciones de pago contra reembolso, cheque y transferencia bancaria estarán disponibles a través de PeachPay si están activadas en"
+
+msgid "Cayman Islands Dollar 🇰🇾"
+msgstr "Dólar de las Islas Caimán 🇰🇾"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Central African CFA franc"
+msgstr "franco CFA centroafricano"
+
+msgid "Change the accept button text. Leaving it blank defaults it to \"Add to order\" in your chosen language."
+msgstr "Cambia el texto del botón de aceptar. Si lo deja en blanco, el valor predeterminado es \"Agregar al pedido\" en el idioma elegido."
+
+msgid "Change the decline button text. Leaving it blank defaults it to \"No thanks\" in your chosen language."
+msgstr "Cambia el texto del botón de rechazo. Si lo deja en blanco, el valor predeterminado es \"No, gracias\" en el idioma elegido."
+
+msgid "Change the primary header text. Leaving it blank defaults it to \"Recommended for you\" in your chosen language."
+msgstr "Cambia el texto del encabezado principal. Si lo deja en blanco, el valor predeterminado es \"Recomendado para usted\" en el idioma elegido."
+
+msgid "Change this setting here"
+msgstr "Cambie esta configuración aquí"
+
+msgid "Changes coming to PeachPay’s Free plan"
+msgstr "Cambios en el plan gratuito de PeachPay"
+
+msgid "Changes were saved!"
+msgstr "¡Se guardaron los cambios!"
+
+msgid "Charge"
+msgstr "Cargar"
+
+msgid "Charge Type"
+msgstr "Tipo de carga"
+
+msgid "Charge type"
+msgstr "Tipo de carga"
+
+msgid "Checkout"
+msgstr "Verificar"
+
+msgid "Checkout JS"
+msgstr "Pago JS"
+
+msgid "Checkout button"
+msgstr "Botón de pago"
+
+msgid "Checkout page"
+msgstr "página de pago"
+
+msgid "Checkout page only"
+msgstr "Solo página de pago"
+
+msgid "Checkout window"
+msgstr "ventana de pago"
+
+msgid "Chilean Peso 🇨🇱"
+msgstr "Peso chileno 🇨🇱"
+
+msgid "Chinese Yuan 🇨🇳"
+msgstr "Yuan Chino 🇨🇳"
+
+msgid "Choose a product that will be added to the shopper's cart before the checkout window opens."
+msgstr "Elija un producto que se agregará al carrito del comprador antes de que se abra la ventana de pago."
+
+msgid "Choose from Stripe, PayPal, Square, Authorize.net, and Amazon Pay"
+msgstr "Elija entre Stripe, PayPal, Square, Authorize.net y Amazon Pay"
+
+msgid "Choose image"
+msgstr "elegir imagen"
+
+msgid "Choose one of the icons or none to be displayed inside your button."
+msgstr "Elija uno de los iconos o ninguno para que se muestre dentro de su botón."
+
+msgid "Choose what effect you would like to see on the button on hover. Hover over the options to see how they look!"
+msgstr "Elija qué efecto le gustaría ver en el botón al pasar el mouse. Pasa el cursor sobre las opciones para ver cómo se ven."
+
+msgid "Choose whether the PeachPay button appears above or below the \"add to cart\" button on the product page."
+msgstr "Elija si el botón PeachPay aparece encima o debajo del botón \"añadir al carrito\" en la página del producto."
+
+msgid "Choose whether the PeachPay button appears as a fixed \"sticky\" button on mobile devices."
+msgstr "Elija si el botón de PeachPay aparece como un botón \"pegajoso\" fijo en los dispositivos móviles."
+
+msgid "Choose which product(s) to display the upsell on"
+msgstr "Elija en qué producto(s) mostrar la venta adicional"
+
+msgid "Clearpay"
+msgstr "Clearpay"
+
+msgid "Cloning is forbidden"
+msgstr "La clonación está prohibida."
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "Colombian Peso 🇨🇴"
+msgstr "Peso colombiano 🇨🇴"
+
+msgid "Colors"
+msgstr "Colores"
+
+msgid "Comorian franc 🇰🇲"
+msgstr "Franco comorano 🇰🇲"
+
+msgid "Configure PeachPay account settings."
+msgstr "Configure los ajustes de la cuenta de PeachPay."
+
+msgid "Configure additional options for Authorize.net through PeachPay."
+msgstr "Configure opciones adicionales para Authorize.net a través de PeachPay."
+
+msgid "Configure additional options for GoDaddy Poynt through PeachPay."
+msgstr "Configure opciones adicionales para GoDaddy Poynt a través de PeachPay."
+
+msgid "Configure additional options for PayPal through PeachPay."
+msgstr "Configure opciones adicionales para PayPal a través de PeachPay."
+
+msgid "Configure additional options for Stripe through PeachPay."
+msgstr "Configure opciones adicionales para Stripe a través de PeachPay."
+
+msgid "Configure rates, fees, and restrictions"
+msgstr "Configurar tarifas, cargos y restricciones"
+
+msgid "Congolese Franc 🇨🇩"
+msgstr "Franco congoleño 🇨🇩"
+
+msgid "Connect"
+msgstr "Conectar"
+
+msgid "Connect Authorize.net"
+msgstr "Conectar Authorize.net"
+
+msgid "Connect Authorize.net (sandbox)"
+msgstr "Conectar Authorize.net (sandbox)"
+
+msgid "Connect GoDaddy Poynt"
+msgstr "Conecte GoDaddy Poynt"
+
+msgid "Connect PayPal"
+msgstr "Conectar PayPal"
+
+msgid "Connect Square"
+msgstr "Conectar Plaza"
+
+msgid "Connect Square (sandbox)"
+msgstr "Connect Square (caja de arena)"
+
+msgid "Connect Square Sandbox Test Account"
+msgstr "Conectar cuenta de prueba de Square Sandbox"
+
+msgid "Connect Stripe"
+msgstr "Conectar banda"
+
+msgid "Connect a payment method"
+msgstr "Conectar un método de pago"
+
+msgid "Connect an existing Poynt account or create a new one. You'll be redirected to the GoDaddy Poynt website to complete the onboarding."
+msgstr "Conecte una cuenta de Poynt existente o cree una nueva. Será redirigido al sitio web de GoDaddy Poynt para completar la incorporación."
+
+msgid "Connect with"
+msgstr "Conectar con"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Costa Rican Colón 🇨🇷"
+msgstr "Colón costarricense 🇨🇷"
+
+msgid "Could not detect WC_geolocation class, all geolocation functions for the currency switcher will not function."
+msgstr "No se pudo detectar la clase WC_geolocalización, todas las funciones de geolocalización para el conmutador de moneda no funcionarán."
+
+msgid "Countries restricted to"
+msgstr "Países restringidos a"
+
+msgid "Country availability"
+msgstr "Disponibilidad del país"
+
+msgid "Croatian Kuna 🇭🇷"
+msgstr "Kuna croata 🇭🇷"
+
+msgid "Currencies"
+msgstr "Monedas"
+
+msgid "Currency"
+msgstr "Divisa"
+
+msgid "Currency Conversion"
+msgstr "Conversión de Moneda"
+
+msgid "Currency Switcher"
+msgstr "Conmutador de moneda"
+
+msgid "Currency availability"
+msgstr "Disponibilidad de moneda"
+
+msgid "Currency based on"
+msgstr "Moneda basada en"
+
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+msgid "Custom JS"
+msgstr "JS personalizado"
+
+msgid "Custom interval"
+msgstr "Intervalo personalizado"
+
+msgid "Custom product description"
+msgstr "Descripción del producto personalizado"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Customer attempting payment again."
+msgstr "Cliente intentando realizar el pago de nuevo."
+
+msgid "Customer billing country"
+msgstr "País de facturación del cliente"
+
+msgid "Customer geolocation"
+msgstr "Geolocalización de clientes"
+
+msgid "Customers cannot see this payment method."
+msgstr "Los clientes no pueden ver este método de pago."
+
+msgid "Customize a description to be displayed under the Purchase Order payment option. This will be left blank by default."
+msgstr "Personalice una descripción para que se muestre en la opción de pago de la orden de compra. Esto se dejará en blanco por defecto."
+
+msgid "Customize the button corner radius. Leaving it blank defaults it to 5px."
+msgstr "Personaliza el radio de la esquina del botón. Si lo deja en blanco, el valor predeterminado es 5px."
+
+msgid "Customize the field name for Purchase Order. Leaving it blank defaults it to \"Purchase Order\" in your chosen language."
+msgstr "Personalice el nombre del campo para Orden de compra. Si lo deja en blanco, el valor predeterminado es \"Orden de compra\" en el idioma elegido."
+
+msgid "Customize the header text for the mini slider. Leaving it blank defaults it to “Recommended for you” in your chosen language."
+msgstr "Personaliza el texto del encabezado para el mini control deslizante. Si lo deja en blanco, el valor predeterminado es \"Recomendado para usted\" en el idioma elegido."
+
+msgid "Customize the headline text. Leaving it blank defaults it to “Related products” in your chosen language."
+msgstr "Personaliza el texto del título. Si lo deja en blanco, se establece de forma predeterminada en \"Productos relacionados\" en el idioma elegido."
+
+msgid "Customize the text above the PeachPay button on the checkout page. Leaving it blank defaults it to \"Check out with PeachPay\" in your chosen language."
+msgstr "Personaliza el texto sobre el botón PeachPay en la página de pago. Si lo deja en blanco, el valor predeterminado es \"Pagar con PeachPay\" en el idioma elegido."
+
+msgid "Customize the text below the PeachPay button on the checkout page. Leaving it blank defaults it to \"The next time you come back, you’ll have one-click checkout and won’t have to waste time filling out the fields below.\" in your chosen language."
+msgstr "Personaliza el texto debajo del botón PeachPay en la página de pago. Si lo deja en blanco, el valor predeterminado es \"La próxima vez que regrese, podrá pagar con un solo clic y no tendrá que perder el tiempo completando los campos a continuación\". en su idioma elegido."
+
+msgid "Customize the text of the PeachPay button. Leaving it blank defaults it to \"Express checkout\" in your chosen language."
+msgstr "Personaliza el texto del botón PeachPay. Si lo deja en blanco, el valor predeterminado es \"Pago exprés\" en el idioma elegido."
+
+msgid "Customize the width of the button. Leaving it blank defaults it to 220px."
+msgstr "Personaliza el ancho del botón. Si lo deja en blanco, el valor predeterminado es 220 px."
+
+msgid "Customize the width of the button. Leaving it blank defaults it to 320px."
+msgstr "Personaliza el ancho del botón. Si lo deja en blanco, el valor predeterminado es 320 px."
+
+msgid "Czech koruna 🇨🇿"
+msgstr "Corona checa 🇨🇿"
+
+msgid "Danish Krone 🇩🇰"
+msgstr "Corona Danesa 🇩🇰"
+
+msgid "Danish krone 🇩🇰"
+msgstr "Corona danesa 🇩🇰"
+
+msgid "Dashboard"
+msgstr "Panel"
+
+msgid "Data"
+msgstr "Datos"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "Decline button text"
+msgstr "Texto del botón Rechazar"
+
+msgid "Default"
+msgstr "Por defecto"
+
+msgid "Default currency"
+msgstr "Moneda predeterminada"
+
+msgid "Default value"
+msgstr "Valor por defecto"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Deserializing instances of this class is forbidden"
+msgstr "Está prohibido deserializar instancias de esta clase"
+
+msgid "Detect from page"
+msgstr "Detectar desde la página"
+
+msgid "Device breakdown"
+msgstr "Desglose del dispositivo"
+
+msgid "Digital Wallet"
+msgstr "Monedero digital"
+
+msgid "Digital wallet"
+msgstr "Monedero digital"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "Disable auto update to change value"
+msgstr "Deshabilitar la actualización automática para cambiar el valor"
+
+msgid "Discount"
+msgstr "Descuento"
+
+msgid "Discounts"
+msgstr "Descuentos"
+
+msgid "Display"
+msgstr "Mostrar"
+
+msgid "Display outline around the PeachPay button on the checkout page"
+msgstr "Mostrar contorno alrededor del botón PeachPay en la página de pago"
+
+msgid "Display payment method icons below"
+msgstr "Mostrar iconos de métodos de pago a continuación"
+
+msgid "Display payment method icons below the PeachPay button"
+msgstr "Mostrar íconos de métodos de pago debajo del botón PeachPay"
+
+msgid "Display product images"
+msgstr "Mostrar imágenes de productos"
+
+msgid "Display product images in the checkout window."
+msgstr "Mostrar imágenes de productos en la ventana de pago."
+
+msgid "Display random related products in a slider based on product category, tag, or attribute on every product page."
+msgstr "Muestre productos relacionados al azar en un control deslizante según la categoría, etiqueta o atributo del producto en cada página de producto."
+
+msgid "Display recommended products as a mini slider"
+msgstr "Mostrar productos recomendados como un mini control deslizante"
+
+msgid "Display related products in the product page"
+msgstr "Mostrar productos relacionados en la página del producto"
+
+msgid "Display the quantity changer next to items in the checkout window order summary."
+msgstr "Muestre el cambiador de cantidad junto a los artículos en el resumen del pedido de la ventana de pago."
+
+msgid "Display upsell for all products"
+msgstr "Mostrar ventas adicionales para todos los productos"
+
+msgid "Displays the support message"
+msgstr "Muestra el mensaje de soporte"
+
+msgid "Dispute %1$s has been closed. Result: %2$s."
+msgstr "La disputa %1$s ha sido cerrada. Resultado: %2$s."
+
+msgid "Dispute closed"
+msgstr "Disputa cerrada"
+
+msgid "Dispute created"
+msgstr "Disputa creada"
+
+msgid "Disputed created order status"
+msgstr "Estado de pedido creado en disputa"
+
+msgid "Djiboutian Franc 🇩🇯"
+msgstr "Franco yibutiano 🇩🇯"
+
+msgid "Docs"
+msgstr "Documentos"
+
+msgid "Domain is already registered or the automatic attempt has already occured. Use force=true to force a registration attempt."
+msgstr "El dominio ya está registrado o ya se ha producido el intento automático. Use force=true para forzar un intento de registro."
+
+msgid "Domain is already registered."
+msgstr "El dominio ya está registrado."
+
+msgid "Dominican Peso 🇩🇴"
+msgstr "Peso dominicano 🇩🇴"
+
+msgid "Don\'t show this again"
+msgstr "No mostrar esto de nuevo"
+
+msgid "EPS Bank"
+msgstr "EPS Banco"
+
+msgid "East Caribbean Dollar"
+msgstr "Dólar del Caribe Oriental"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit billing and shipping fields or add new ones"
+msgstr "Edite los campos de facturación y envío o agregue nuevos"
+
+msgid "Edit checkout fields"
+msgstr "Editar campos de pago"
+
+msgid "Egyptian Pound 🇪🇬"
+msgstr "Libra egipcia 🇪🇬"
+
+msgid "Email receipts"
+msgstr "Recibos por correo electrónico"
+
+msgid "Enable"
+msgstr "Permitir"
+
+msgid "Enable %s"
+msgstr "Habilitar %s"
+
+msgid "Enable Google reCAPTCHA v3. This will prevent payments from going through if a user is determined to be a bot."
+msgstr "Habilite Google reCAPTCHA v3. Esto evitará que se realicen los pagos si se determina que un usuario es un bot."
+
+msgid "Enable PeachPay in the mini and/or sidebar cart"
+msgstr "Habilite PeachPay en el carrito mini y/o en la barra lateral"
+
+msgid "Enable PeachPay on product pages"
+msgstr "Habilite PeachPay en las páginas de productos"
+
+msgid "Enable PeachPay on the cart page"
+msgstr "Habilite PeachPay en la página del carrito"
+
+msgid "Enable PeachPay on the checkout page"
+msgstr "Habilite PeachPay en la página de pago"
+
+msgid "Enable Specific Product"
+msgstr "Habilitar producto específico"
+
+msgid "Enable auto-slider"
+msgstr "Habilitar el control deslizante automático"
+
+msgid "Enable auto-slider (only available for product page)"
+msgstr "Habilitar el control deslizante automático (solo disponible para la página del producto)"
+
+msgid "Enable country locale rules"
+msgstr "Habilitar reglas de configuración regional del país"
+
+msgid "Enable currency switcher"
+msgstr "Habilitar cambio de moneda"
+
+msgid "Enable custom intervals to be selected for currencies."
+msgstr "Habilite la selección de intervalos personalizados para las monedas."
+
+msgid "Enable express checkout"
+msgstr "Habilitar pago exprés"
+
+msgid "Enable extra fees"
+msgstr "Habilitar tarifas adicionales"
+
+msgid "Enable one-click upsells"
+msgstr "Habilitar ventas adicionales con un clic"
+
+msgid "Enable order notes"
+msgstr "Habilitar notas de pedido"
+
+msgid "Enable quantity changer"
+msgstr "Habilitar cambiador de cantidad"
+
+msgid "Enable support message"
+msgstr "Habilitar mensaje de soporte"
+
+msgid "Enable test mode"
+msgstr "Habilitar modo de prueba"
+
+msgid "Enable the floating PeachPay button on all pages"
+msgstr "Habilite el botón flotante de PeachPay en todas las páginas"
+
+msgid "Enable/Disable"
+msgstr "Habilitar deshabilitar"
+
+msgid "Enabled"
+msgstr "Activado"
+
+msgid "Ensure the following link is reachable: "
+msgstr "Asegúrese de que el siguiente enlace sea accesible:"
+
+msgid "Error: "
+msgstr "Error:"
+
+msgid "Ethiopian Birr 🇪🇹"
+msgstr "Birr Etíope 🇪🇹"
+
+msgid "Euro 🇪🇺"
+msgstr "euros 🇪🇺"
+
+msgid "Every 12 hours"
+msgstr "cada 12 horas"
+
+msgid "Every 15 minutes"
+msgstr "Cada 15 minutos"
+
+msgid "Every 2 days"
+msgstr "cada 2 dias"
+
+msgid "Every 30 minutes"
+msgstr "cada 30 minutos"
+
+msgid "Every 6 hours"
+msgstr "cada 6 horas"
+
+msgid "Every hour"
+msgstr "Cada hora"
+
+msgid "Every month"
+msgstr "Cada mes"
+
+msgid "Expiry date"
+msgstr "Fecha de caducidad"
+
+msgid "Export to CSV"
+msgstr "Exportar a CSV"
+
+msgid "Express Checkout only"
+msgstr "Solo pago exprés"
+
+msgid "Express checkout"
+msgstr "chequeo rápido"
+
+msgid "Fade"
+msgstr "Desteñir"
+
+msgid "Fade effect on hover"
+msgstr "Efecto de desvanecimiento al pasar el mouse"
+
+msgid "Failed to connect to the captcha verification service. Please try again or contact the store for assistance."
+msgstr "No se pudo conectar con el servicio de verificación de captcha. Vuelva a intentarlo o póngase en contacto con la tienda para obtener ayuda."
+
+msgid "Failed to connect your Authorize.net account. Please try again."
+msgstr "No se pudo conectar su cuenta de Authorize.net. Inténtalo de nuevo."
+
+msgid "Failed to connect your GoDaddy Poynt account. Please try again."
+msgstr "No se pudo conectar su cuenta GoDaddy Poynt. Inténtalo de nuevo."
+
+msgid "Failed to generate captcha token. Please try again or contact the store for assistance."
+msgstr "No se pudo generar el token de captcha. Vuelva a intentarlo o póngase en contacto con la tienda para obtener ayuda."
+
+msgid "Failed to register domain."
+msgstr "No se pudo registrar el dominio."
+
+msgid "Failed to retrieve the response body."
+msgstr "No se pudo recuperar el cuerpo de la respuesta."
+
+msgid "Falkland Islands pound 🇫🇰"
+msgstr "Libra malvinense 🇫🇰"
+
+msgid "Fee"
+msgstr "Tarifa"
+
+msgid "Fee amount"
+msgstr "Importe de la cuota"
+
+msgid "Fee label"
+msgstr "Etiqueta de tarifa"
+
+msgid "Fee maximum threshold"
+msgstr "Umbral máximo de tarifa"
+
+msgid "Fee minimum threshold"
+msgstr "Umbral mínimo de tarifa"
+
+msgid "Fee type"
+msgstr "Tipo de tarifa"
+
+msgid "Feedback"
+msgstr "Comentario"
+
+msgid "Fees"
+msgstr "Honorarios"
+
+msgid "Fees will be applied to the total when a customer chooses to checkout with this currency."
+msgstr "Las tarifas se aplicarán al total cuando un cliente elija pagar con esta moneda."
+
+msgid "Field editor"
+msgstr "editor de campo"
+
+msgid "Field name"
+msgstr "Nombre del campo"
+
+msgid "Fijian Dollar 🇫🇯"
+msgstr "Dólar fiyiano 🇫🇯"
+
+msgid "Fill table with all currencies"
+msgstr "Llenar tabla con todas las monedas"
+
+msgid "Fixed"
+msgstr "Fijado"
+
+msgid "Fixed at bottom"
+msgstr "Fijo en la parte inferior"
+
+msgid "Floating button"
+msgstr "botón flotante"
+
+msgid "Font style match the theme font"
+msgstr "El estilo de fuente coincide con la fuente del tema"
+
+msgid "For currencies with decimals, you can change the number of decimals"
+msgstr "Para monedas con decimales, puede cambiar el número de decimales"
+
+msgid "For each page, you can enter a CSS selector where the button should appear. If empty, it will appear in a default location."
+msgstr "Para cada página, puede ingresar un selector de CSS donde debería aparecer el botón. Si está vacío, aparecerá en una ubicación predeterminada."
+
+msgid "For more information about Authorize.net\'s services and pricing, visit"
+msgstr "Para obtener más información sobre los servicios y precios de Authorize.net, visite"
+
+msgid "Force 3D Secure"
+msgstr "Forzar 3D Seguro"
+
+msgid "Frequency of auto-update"
+msgstr "Frecuencia de actualización automática"
+
+msgid "Full"
+msgstr "Lleno"
+
+msgid "Full button"
+msgstr "Botón completo"
+
+msgid "Gambian dalasi 🇬🇲"
+msgstr "Dalasi gambiano 🇬🇲"
+
+msgid "General"
+msgstr "General"
+
+msgid "Georgian Lari 🇬🇪"
+msgstr "Lari georgiano 🇬🇪"
+
+msgid "Get PeachPay"
+msgstr "Obtener PeachPay"
+
+msgid "Gibraltar pound 🇬🇮"
+msgstr "Libra gibraltareña 🇬🇮"
+
+msgid "GoDaddy Poynt"
+msgstr "Poynt de GoDaddy"
+
+msgid "GoDaddy Poynt %1$s payment captured for %2$s. (Capture Id: %3$s)"
+msgstr "GoDaddy Poynt %1$s pago capturado para %2$s. (Id. de captura: %3$s)"
+
+msgid "GoDaddy Poynt %1$s payment failed: %2$s"
+msgstr "GoDaddy Poynt %1$s pago fallido: %2$s"
+
+msgid "GoDaddy Poynt %1$s payment is authorized for %2$s. (Authorization Id: %3$s)"
+msgstr "Se autorizó el pago de %1$s de GoDaddy Poynt para %2$s. (Id. de autorización: %3$s)"
+
+msgid "GoDaddy Poynt %1$s payment partially refunded %2$s (Refund Id: %3$s)"
+msgstr "GoDaddy Poynt %1$s pago parcialmente reembolsado %2$s (Id. de reembolso: %3$s)"
+
+msgid "GoDaddy Poynt %1$s payment refunded %2$s (Refund Id: %3$s)"
+msgstr "GoDaddy Poynt %1$s pago reembolsado %2$s (Id. de reembolso: %3$s)"
+
+msgid "GoDaddy Poynt %1$s payment setup for future use."
+msgstr "Configuración de pago de GoDaddy Poynt %1$s para uso futuro."
+
+msgid "GoDaddy Poynt %1$s payment was voided. (Authorization Id: %2$s)"
+msgstr "Se anuló el pago de %1$s de GoDaddy Poynt. (Id. de autorización: %2$s)"
+
+msgid "GoDaddy Poynt Account"
+msgstr "Cuenta GoDaddy Poynt"
+
+msgid "GoDaddy Poynt advanced settings"
+msgstr "Configuración avanzada de GoDaddy Poynt"
+
+msgid "GoDaddy Poynt sandbox account is connected!"
+msgstr "¡La cuenta de espacio aislado de GoDaddy Poynt está conectada!"
+
+msgid "Gold"
+msgstr "Oro"
+
+msgid "Google Maps address autocomplete"
+msgstr "Autocompletar direcciones de Google Maps"
+
+msgid "Great British Pound 🇬🇧"
+msgstr "Gran libra esterlina 🇬🇧"
+
+msgid "Guinean Franc 🇬🇳"
+msgstr "Franco guineano 🇬🇳"
+
+msgid "Guyanese dollar 🇬🇾"
+msgstr "Dólar guyanés 🇬🇾"
+
+msgid "Haitian Gourde 🇭🇹"
+msgstr "Gourde haitiano 🇭🇹"
+
+msgid "Header text"
+msgstr "Texto de cabecera"
+
+msgid "Heading text"
+msgstr "Texto de encabezado"
+
+msgid "Here are some tips to make the most out of PeachPay"
+msgstr "Estos son algunos consejos para aprovechar al máximo PeachPay"
+
+msgid "Hide the \"Proceed to checkout\" buttons on the WooCommerce cart page to make PeachPay the only checkout method (does not disable cart page and won\'t take effect in test mode)."
+msgstr "Oculte los botones \"Continuar con el pago\" en la página del carrito de WooCommerce para que PeachPay sea el único método de pago (no desactiva la página del carrito y no tendrá efecto en el modo de prueba)."
+
+msgid "Hide the shipping/billing fields for virtual products"
+msgstr "Ocultar los campos de envío/facturación para productos virtuales"
+
+msgid "Home"
+msgstr "Hogar"
+
+msgid "Honduran Lempira 🇭🇳"
+msgstr "Lempira hondureño 🇭🇳"
+
+msgid "Hong Kong dollar 🇭🇰"
+msgstr "Dólar de Hong Kong 🇭🇰"
+
+msgid "Hover effect"
+msgstr "Efecto de desplazamiento"
+
+msgid "Hungarian forint 🇭🇺"
+msgstr "florín húngaro 🇭🇺"
+
+msgid "I couldn't get the plugin to work"
+msgstr "No pude hacer funcionar el complemento."
+
+msgid "I found a better plugin"
+msgstr "Encontré un complemento mejor."
+
+msgid "I no longer need the plugin"
+msgstr "ya no necesito el plugin"
+
+msgid "Icelandic Króna 🇮🇸"
+msgstr "Corona islandesa 🇮🇸"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Icon size"
+msgstr "Tamaño de ícono"
+
+msgid "Id"
+msgstr "Identificación"
+
+msgid "If a currency has countries associated with it, the currency will only be available in those countries"
+msgstr "Si una moneda tiene países asociados, la moneda solo estará disponible en esos países"
+
+msgid "If clicked, the table below will be populated with the 135+ currencies PeachPay supports. PeachPay will select the best currency for a shopper based on their location."
+msgstr "Si se hace clic, la siguiente tabla se completará con las más de 135 monedas que admite PeachPay. PeachPay seleccionará la mejor moneda para un comprador según su ubicación."
+
+msgid "If enabled, the plugin will listen for the <strong>charge.dispute.closed</strong> webhook event and set the order\'s status back to the status before the dispute was opened, if the dispute is won. If the dispute is lost, it will set the order status to Failed."
+msgstr "Si está habilitado, el complemento escuchará el evento de webhook <strong>charge.dispute.closed</strong> y restablecerá el estado del pedido al estado anterior a la apertura de la disputa, si se gana la disputa. Si se pierde la disputa, el estado del pedido se configurará como Fallido."
+
+msgid "If enabled, the plugin will listen for the <strong>charge.dispute.created</strong> webhook event and set the order\'s status to cancelled by default."
+msgstr "Si está habilitado, el complemento escuchará el evento de webhook <strong>charge.dispute.created</strong> y configurará el estado del pedido como cancelado de forma predeterminada."
+
+msgid "If registration still fails:"
+msgstr "Si el registro sigue fallando:"
+
+msgid "If the cart only consists of virtual products, don\'t show the shipping/billing address fields."
+msgstr "Si el carrito solo consta de productos virtuales, no muestre los campos de dirección de envío/facturación."
+
+msgid "If the cart total is less than this amount, this payment method will not show. The minimum cannot be less than %s"
+msgstr "Si el total del carrito es inferior a esta cantidad, no se mostrará este método de pago. El mínimo no puede ser inferior a %s"
+
+msgid "If the cart total is more than this amount, this payment method will not show."
+msgstr "Si el total del carrito es mayor que esta cantidad, este método de pago no se mostrará."
+
+msgid "If the cart total is more than this amount, this payment method will not show. The maximum cannot be more than %s"
+msgstr "Si el total del carrito es mayor que esta cantidad, este método de pago no se mostrará. El máximo no puede ser más de %s"
+
+msgid "If the customer chooses an unsupported currency for this payment method, %s will still display but will switch the currency when the customer selects it."
+msgstr "Si el cliente elige una moneda no admitida para este método de pago, %s seguirá mostrándose pero cambiará la moneda cuando el cliente la seleccione."
+
+msgid "If you have a regular PayPal account, you’ll be asked to upgrade to a business account. Not using PayPal yet? PayPal is accepted in over 200 countries and allows shoppers from almost anywhere to buy from you."
+msgstr "Si tiene una cuenta regular de PayPal, se le pedirá que actualice a una cuenta comercial. ¿Aún no usas PayPal? PayPal se acepta en más de 200 países y permite a los compradores de casi cualquier lugar comprarle a usted."
+
+msgid "If you have an Amazon account, you are ready to start using Amazon Pay wherever you see the Amazon Pay button. Simply click the button when checking out to use the information already stored in your Amazon account."
+msgstr "Si tiene una cuenta de Amazon, está listo para comenzar a usar Amazon Pay donde vea el botón de Amazon Pay. Simplemente haga clic en el botón al pagar para usar la información ya almacenada en su cuenta de Amazon."
+
+msgid "If you have questions or concerns about the fee, our team is happy to answer them. Please reach out to us via the chat or by emailing"
+msgstr "Si tiene preguntas o inquietudes sobre la tarifa, nuestro equipo estará encantado de responderlas. Comuníquese con nosotros a través del chat o por correo electrónico"
+
+msgid "In test mode, you can make test payments for each payment method. Find instructions on how to make a test payment in each tab below."
+msgstr "En el modo de prueba, puede realizar pagos de prueba para cada método de pago. Encuentre instrucciones sobre cómo hacer un pago de prueba en cada pestaña a continuación."
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "Include itemized order in Authorize.net payment transaction request"
+msgstr "Incluir pedido detallado en la solicitud de transacción de pago de Authorize.net"
+
+msgid "Include upsell and cross-sell items that you have already configured"
+msgstr "Incluya artículos de venta adicional y venta cruzada que ya haya configurado"
+
+msgid "Indian Rupee 🇮🇳"
+msgstr "Rupia india 🇮🇳"
+
+msgid "Indonesian rupiah 🇮🇩"
+msgstr "rupia indonesia 🇮🇩"
+
+msgid "Input fields"
+msgstr "Campos de entrada"
+
+msgid "Invalid field \"%s\". Token does not belong to the logged in user."
+msgstr "Campo no válido \"%s\". El token no pertenece al usuario que inició sesión."
+
+msgid "Invalid response from the captcha verification service. Please try again or contact the store for assistance."
+msgstr "Respuesta no válida del servicio de verificación de captcha. Vuelva a intentarlo o póngase en contacto con la tienda para obtener ayuda."
+
+msgid "Is Single Product Template?"
+msgstr "¿Es una plantilla de producto único?"
+
+msgid "Israeli new shekel 🇮🇱"
+msgstr "Nuevo séquel israelí 🇮🇱"
+
+msgid "Itemized order information"
+msgstr "Información detallada del pedido"
+
+msgid "Jamaican Dollar 🇯🇲"
+msgstr "Dólar Jamaiquino 🇯🇲"
+
+msgid "Japanese yen 🇯🇵"
+msgstr "yen japonés 🇯🇵"
+
+msgid "Kazakhstani Tenge 🇰🇿"
+msgstr "Tenge kazajo 🇰🇿"
+
+msgid "Kenyan Shilling 🇰🇪"
+msgstr "Chelín Keniano 🇰🇪"
+
+msgid "Korean Won 🇰🇷"
+msgstr "Won coreano 🇰🇷"
+
+msgid "Kyrgystani Som 🇰🇬"
+msgstr "Kirguistán Som 🇰🇬"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Laotian Kip 🇱🇦"
+msgstr "Kip laosiano 🇱🇦"
+
+msgid "Last 4 digits"
+msgstr "Últimos 4 dígitos"
+
+msgid "Learn more about"
+msgstr "Aprender más acerca de"
+
+msgid "Lebanese pound 🇱🇧"
+msgstr "Libra libanesa 🇱🇧"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Lesotho loti 🇱🇸"
+msgstr "Lesoto loti 🇱🇸"
+
+msgid "Let shoppers buy from anywhere"
+msgstr "Permita que los compradores compren desde cualquier lugar"
+
+msgid "Liberian Dollar 🇱🇷"
+msgstr "Dólar liberiano 🇱🇷"
+
+msgid "Loan"
+msgstr "Préstamo"
+
+msgid "Location Id: "
+msgstr "Identificación de la ubicación:"
+
+msgid "Lock"
+msgstr "Cerrar"
+
+msgid "Log in"
+msgstr "Acceso"
+
+msgid "Log in (sandbox)"
+msgstr "Iniciar sesión (caja de arena)"
+
+msgid "Login Id:"
+msgstr "Ingresar identificación:"
+
+msgid "Login failed: Email or Username does not exist."
+msgstr "Error de inicio de sesión: el correo electrónico o el nombre de usuario no existen."
+
+msgid "Login failed: incorrect password."
+msgstr "Inicio de sesión fallido: contraseña incorrecta."
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Looks like you're using a third party plugin to handle additional checkout fields for your store. PeachPay now has its own field editor built in! While we will do our best to convert any third party fields, it is recommended to make the switch to our native editor for the best experience. Unsupported fields may cause issues with completing orders. Check out our field editor "
+msgstr "Parece que está utilizando un complemento de terceros para manejar campos de pago adicionales para su tienda. ¡PeachPay ahora tiene su propio editor de campos integrado! Si bien haremos todo lo posible para convertir los campos de terceros, se recomienda cambiar a nuestro editor nativo para obtener la mejor experiencia. Los campos no admitidos pueden causar problemas al completar pedidos. Echa un vistazo a nuestro editor de campo"
+
+msgid "Macanese Pataca 🇲🇴"
+msgstr "Pataca de Macao 🇲🇴"
+
+msgid "Macedonian Denar 🇲🇰"
+msgstr "Denar macedonio 🇲🇰"
+
+msgid "Make PeachPay the only checkout method"
+msgstr "Haz de PeachPay el único método de pago"
+
+msgid "Make test payments following"
+msgstr "Realice pagos de prueba siguiendo"
+
+msgid "Make test payments using the card number "
+msgstr "Realice pagos de prueba con el número de tarjeta"
+
+msgid "Make the PeachPay button font style match the theme font"
+msgstr "Haga que el estilo de fuente del botón PeachPay coincida con la fuente del tema"
+
+msgid "Malagasy Ariary 🇲🇬"
+msgstr "Ariary malgache 🇲🇬"
+
+msgid "Malawian Kwacha 🇲🇼"
+msgstr "Kwacha de Malawi 🇲🇼"
+
+msgid "Malaysian Ringgit 🇲🇾"
+msgstr "Ringgit de Malasia 🇲🇾"
+
+msgid "Maldivian Rufiyaa 🇲🇻"
+msgstr "Rufiyaa de Maldivas 🇲🇻"
+
+msgid "Manage"
+msgstr "Administrar"
+
+msgid "Manage a payment method"
+msgstr "Administrar un método de pago"
+
+msgid "Manual recommendations"
+msgstr "Recomendaciones manuales"
+
+msgid "Mauritanian Ouguiya 🇲🇷"
+msgstr "Uguiya mauritana 🇲🇷"
+
+msgid "Mauritian Rupee 🇲🇺"
+msgstr "Rupia de Mauricio 🇲🇺"
+
+msgid "Maximum charge"
+msgstr "Carga máxima"
+
+msgid "Merchant Id: "
+msgstr "Identificación del comerciante:"
+
+msgid "Merchants, please note, there will be no additional charges for you."
+msgstr "Comerciantes, tengan en cuenta que no habrá cargos adicionales para ustedes."
+
+msgid "Mexican peso 🇲🇽"
+msgstr "peso mexicano 🇲🇽"
+
+msgid "Mini/sidebar cart"
+msgstr "Carrito mini/barra lateral"
+
+msgid "Minimum charge"
+msgstr "Carga mínima"
+
+msgid "Missing required field \"peachpay_authnet_data_descriptor\""
+msgstr "Falta el campo obligatorio \"peachpay_authnet_data_descriptor\""
+
+msgid "Missing required field \"peachpay_authnet_data_value\""
+msgstr "Falta el campo obligatorio \"peachpay_authnet_data_value\""
+
+msgid "Missing required field \"peachpay_poynt_nonce\""
+msgstr "Falta el campo obligatorio \"peachpay_poynt_nonce\""
+
+msgid "Missing required field \"peachpay_session_id\""
+msgstr "Falta el campo obligatorio \"peachpay_session_id\""
+
+msgid "Missing required field \"peachpay_square_source_id\""
+msgstr "Falta el campo obligatorio \"peachpay_square_source_id\""
+
+msgid "Missing required field \"peachpay_square_verification_id\""
+msgstr "Falta el campo obligatorio \"peachpay_square_verification_id\""
+
+msgid "Missing required field \"peachpay_stripe_payment_method_id\""
+msgstr "Falta el campo obligatorio \"peachpay_stripe_payment_method_id\""
+
+msgid "Missing required field \"peachpay_transaction_id\""
+msgstr "Falta el campo obligatorio \"peachpay_transaction_id\""
+
+msgid "Missing required field \"purchase_order_number\""
+msgstr "Falta el campo obligatorio \"purchase_order_number\""
+
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Moldovan Leu 🇲🇩"
+msgstr "Leu moldavo 🇲🇩"
+
+msgid "Moroccan Dirham 🇲🇦"
+msgstr "Dírham Marroquí 🇲🇦"
+
+msgid "Mountain"
+msgstr "Montaña"
+
+msgid "Mozambican metical 🇲🇿"
+msgstr "Metical mozambiqueño 🇲🇿"
+
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgid "Myanmar Kyat 🇲🇲"
+msgstr "Kyat birmano 🇲🇲"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Namibian dollar 🇳🇦"
+msgstr "Dólar namibio 🇳🇦"
+
+msgid "Nepalese Rupee 🇳🇵"
+msgstr "Rupia nepalí 🇳🇵"
+
+msgid "Net"
+msgstr "Neto"
+
+msgid "Netherlands Antillean Guilder 🇳🇱"
+msgstr "Florín antillano holandés 🇳🇱"
+
+msgid "New Taiwan dollar 🇹🇼"
+msgstr "Nuevo dólar taiwanés 🇹🇼"
+
+msgid "New Zealand dollar 🇳🇿"
+msgstr "Dólar neozelandés 🇳🇿"
+
+msgid "New features have been added to Square which require your action to enable. Please navigate to Square settings under the Payment tab for more details."
+msgstr "Se agregaron nuevas funciones a Square que requieren su acción para habilitarse. Vaya a la configuración de Square en la pestaña Pago para obtener más detalles."
+
+msgid "New title"
+msgstr "Nuevo título"
+
+msgid "New user"
+msgstr "Nuevo Usuario"
+
+msgid "Next time you load a PeachPay page, we\'ll remove this"
+msgstr "La próxima vez que cargue una página de PeachPay, la eliminaremos"
+
+msgid "Nicaraguan Córdoba 🇳🇮"
+msgstr "Córdoba nicaragüense 🇳🇮"
+
+msgid "Nigerian Naira 🇳🇬"
+msgstr "Naira Nigeriana 🇳🇬"
+
+msgid "No"
+msgstr "No"
+
+msgid "No custom interval"
+msgstr "Sin intervalo personalizado"
+
+msgid "No supported countries"
+msgstr "No hay países admitidos"
+
+msgid "No supported currencies"
+msgstr "No hay monedas admitidas"
+
+msgid "No thanks"
+msgstr "No, gracias"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Norwegian krone 🇳🇴"
+msgstr "corona noruega 🇳🇴"
+
+msgid "Not available"
+msgstr "No disponible"
+
+msgid "Not restricted"
+msgstr "No restringido"
+
+msgid "Not set"
+msgstr "no establecido"
+
+msgid "Not supported by the following providers: "
+msgstr "No es compatible con los siguientes proveedores:"
+
+msgid "Not sure if Square is right for you?"
+msgstr "¿No está seguro de si Square es adecuado para usted?"
+
+msgid "Number of orders"
+msgstr "Numero de ordenes"
+
+msgid "Number of orders | Last 52 weeks"
+msgstr "Número de pedidos | Últimas 52 semanas"
+
+msgid "Number of products to display for mini slider and full page"
+msgstr "Número de productos para mostrar para mini control deslizante y página completa"
+
+msgid "Number of products to display for product detail page"
+msgstr "Número de productos para mostrar en la página de detalles del producto"
+
+msgid "On hold"
+msgstr "En espera"
+
+msgid "One-click upsell"
+msgstr "Venta adicional con un clic"
+
+msgid "OpenSSL extension is not available in your server."
+msgstr "La extensión OpenSSL no está disponible en su servidor."
+
+msgid "Operating system breakdown"
+msgstr "Desglose del sistema operativo"
+
+msgid "Order details (experimental)"
+msgstr "Detalles del pedido (experimental)"
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "Other payment methods"
+msgstr "otros métodos de pago"
+
+msgid "Pakistani Rupee 🇵🇰"
+msgstr "Rupia pakistaní 🇵🇰"
+
+msgid "Panamanian Balboa 🇵🇦"
+msgstr "Balboa panameño 🇵🇦"
+
+msgid "Papua New Guinean Kina 🇵🇬"
+msgstr "Papúa Nueva Guinea Kina 🇵🇬"
+
+msgid "Paraguayan Guarani 🇵🇾"
+msgstr "Guaraní paraguayo 🇵🇾"
+
+msgid "Pay"
+msgstr "Pagar"
+
+msgid "Pay securely using your credit or debit card."
+msgstr "Paga de forma segura con tu tarjeta de crédito o débito."
+
+msgid "PayPal"
+msgstr "Paypal"
+
+msgid "PayPal Account"
+msgstr "Cuenta de Paypal"
+
+msgid "PayPal Fee:"
+msgstr "Tarifa de PayPal:"
+
+msgid "PayPal Net Payout:"
+msgstr "Pago neto de PayPal:"
+
+msgid "PayPal Order"
+msgstr "Orden de PayPal"
+
+msgid "PayPal advanced settings"
+msgstr "Configuración avanzada de PayPal"
+
+msgid "PayPal sandbox account is connected!"
+msgstr "¡La cuenta de sandbox de PayPal está conectada!"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "Payment Intent"
+msgstr "Intención de pago"
+
+msgid "Payment Method"
+msgstr "Método de pago"
+
+msgid "Payment clearing email"
+msgstr "Correo electrónico de liquidación de pagos"
+
+msgid "Payment error: "
+msgstr "Error en el pago:"
+
+msgid "Payment error: Square failed to process the transaction."
+msgstr "Error de pago: Square no pudo procesar la transacción."
+
+msgid "Payment family"
+msgstr "familia de pago"
+
+msgid "Payment methods"
+msgstr "Métodos de pago"
+
+msgid "Payments"
+msgstr "Pagos"
+
+msgid "PeachPay"
+msgstr "PeachPay"
+
+msgid "PeachPay Currency Switcher"
+msgstr "Cambiador de moneda de PeachPay"
+
+msgid "PeachPay Premium free trial available!"
+msgstr "¡Prueba gratuita de PeachPay Premium disponible!"
+
+msgid "PeachPay charges a"
+msgstr "PeachPay cobra un"
+
+msgid "PeachPay charges a %s%% service fee to the customer. As a merchant, you don’t pay anything extra."
+msgstr "PeachPay cobra una tarifa de servicio del %s%% al cliente. Como comerciante, no paga nada extra."
+
+msgid "PeachPay data"
+msgstr "Datos de PeachPay"
+
+msgid "PeachPay does not support the current currency set by woocommerce and all orders will fail"
+msgstr "PeachPay no admite la moneda actual establecida por woocommerce y todos los pedidos fallarán"
+
+msgid "PeachPay for WooCommerce"
+msgstr "PeachPay para WooCommerce"
+
+msgid "PeachPay has added new features to its Square integration. These features require additional permissions from your Square account."
+msgstr "PeachPay ha agregado nuevas funciones a su integración con Square. Estas funciones requieren permisos adicionales de su cuenta de Square."
+
+msgid "PeachPay is a WooCommerce extension. Please %3$sactivate WooCommerce%4$s to use PeachPay."
+msgstr "PeachPay es una extensión de WooCommerce. %3$sactive WooCommerce%4$s para usar PeachPay."
+
+msgid "PeachPay is a WooCommerce extension. Please %3$sinstall and activate WooCommerce%4$s to use PeachPay."
+msgstr "PeachPay es una extensión de WooCommerce. Por favor, %3$sinstale y active WooCommerce%4$s para usar PeachPay."
+
+msgid "PeachPay requires the WooCommerce plugin to be installed and active."
+msgstr "PeachPay requiere que el complemento WooCommerce esté instalado y activo."
+
+msgid "PeachPay requires the WordPress permalink structure to be set to anything other than \"Plain\". "
+msgstr "PeachPay requiere que la estructura de enlaces permanentes de WordPress se establezca en algo que no sea \"Simple\"."
+
+msgid "PeachPay settings and data will be removed if the plugin is uninstalled."
+msgstr "La configuración y los datos de PeachPay se eliminarán si se desinstala el complemento."
+
+msgid "PeachPay was unable to process your order because the cart is empty."
+msgstr "PeachPay no pudo procesar su pedido porque el carrito está vacío."
+
+msgid "PeachPay will show the currency according to "
+msgstr "PeachPay mostrará la moneda según"
+
+msgid "Pending transfer from customer's bank account. This typically takes 3-5 business days."
+msgstr "Transferencia pendiente desde la cuenta bancaria del cliente. Esto generalmente toma de 3 a 5 días hábiles."
+
+msgid "Percentage"
+msgstr "Porcentaje"
+
+msgid "Philippine peso 🇵🇭"
+msgstr "Peso filipino 🇵🇭"
+
+msgid "Pill"
+msgstr "Píldora"
+
+msgid "Place order"
+msgstr "Realizar pedido"
+
+msgid "Please help us understand why PeachPay didn't work for you"
+msgstr "Ayúdenos a entender por qué PeachPay no funcionó para usted"
+
+msgid "Please select only one simple, non-variable product"
+msgstr "Seleccione solo un producto simple, no variable"
+
+msgid "Please share which plugin"
+msgstr "Por favor, comparte qué complemento"
+
+msgid "Please share your reason"
+msgstr "Por favor comparte tu razón"
+
+msgid "Poland złoty 🇵🇱"
+msgstr "Polonia złoty 🇵🇱"
+
+msgid "Poynt supports card and in-person payments if you have the Poynt POS (Point of Sale) system."
+msgstr "Poynt admite pagos con tarjeta y en persona si tiene el sistema POS (punto de venta) de Poynt."
+
+msgid "Premium Feature"
+msgstr "Función premium"
+
+msgid "Premium Portal"
+msgstr "Portal prémium"
+
+msgid "Premium Trial (%d days left)"
+msgstr "Prueba premium (quedan %d días)"
+
+msgid "Press the Cash App Pay button above to link your account."
+msgstr "Presione el botón Cash App Pay arriba para vincular su cuenta."
+
+msgid "Preview"
+msgstr "Avance"
+
+msgid "Primary header"
+msgstr "Encabezado principal"
+
+msgid "Product Attributes"
+msgstr "Atributos del producto"
+
+msgid "Product Category"
+msgstr "categoria de producto"
+
+msgid "Product TAG"
+msgstr "ETIQUETA del producto"
+
+msgid "Product page"
+msgstr "Página del producto"
+
+msgid "Product recommendations"
+msgstr "Recomendaciones de productos"
+
+msgid "Product to upsell"
+msgstr "Producto a vender"
+
+msgid "Protect your Woocommerce checkout from being spammed with fradulent credit cards and illegitemate purchases by bots using Google reCAPTCHA technology."
+msgstr "Proteja su pago de Woocommerce contra el spam con tarjetas de crédito fraudulentas y compras ilegítimas por parte de bots que utilizan la tecnología Google reCAPTCHA."
+
+msgid "Przelewy24 Bank"
+msgstr "Banco Przelewy24"
+
+msgid "Public Client Key:"
+msgstr "Clave de cliente público:"
+
+msgid "Purchase Order"
+msgstr "Orden de compra"
+
+msgid "Purchase Order (PeachPay)"
+msgstr "Orden de compra (PeachPay)"
+
+msgid "Purchase order"
+msgstr "Orden de compra"
+
+msgid "Qatari Rial 🇶🇦"
+msgstr "Rial qatarí 🇶🇦"
+
+msgid "Quetzal 🇬🇹"
+msgstr "Quetzal 🇬🇹"
+
+msgid "Rate will not change until settings are saved"
+msgstr "La tarifa no cambiará hasta que se guarden los ajustes"
+
+msgid "Read only:"
+msgstr "Solo lectura:"
+
+msgid "Recommended for you"
+msgstr "Recomendado para ti"
+
+msgid "Recoverable carts"
+msgstr "carros recuperables"
+
+msgid "Rectangle"
+msgstr "Rectángulo"
+
+msgid "Recurring Shipment"
+msgstr "Envío recurrente"
+
+msgid "Recurring payments"
+msgstr "Pagos recurrentes"
+
+msgid "Refresh Page"
+msgstr "Actualizar página"
+
+msgid "Refund amount must be greater then 0"
+msgstr "El monto del reembolso debe ser mayor que 0"
+
+msgid "Refund error: "
+msgstr "Error de reembolso:"
+
+msgid "Refund error: Amount must be greater then 0"
+msgstr "Error de reembolso: la cantidad debe ser mayor que 0"
+
+msgid "Refund error: Invalid Transaction ID"
+msgstr "Error de reembolso: ID de transacción no válido"
+
+msgid "Refund error: The order_id %s did not match any orders."
+msgstr "Error de reembolso: el order_id %s no coincide con ningún pedido."
+
+msgid "Refund on cancel"
+msgstr "Reembolso al cancelar"
+
+msgid "Refunded"
+msgstr "Reintegrado"
+
+msgid "Refunds"
+msgstr "Reembolsos"
+
+msgid "Register"
+msgstr "Registro"
+
+msgid "Register domain"
+msgstr "registrar dominio"
+
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+msgid "Related by"
+msgstr "Relacionado por"
+
+msgid "Related products"
+msgstr "Productos relacionados"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Remove data on uninstall"
+msgstr "Eliminar datos al desinstalar"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Reset domain registration"
+msgstr "Restablecer registro de dominio"
+
+msgid "Reset fields"
+msgstr "Reestablecer campos"
+
+msgid "Reset preferences"
+msgstr "Reiniciar preferencias"
+
+msgid "Returning user"
+msgstr "Usuario recurrente"
+
+msgid "Revolving line of credit similar to a credit card"
+msgstr "Línea de crédito revolvente similar a una tarjeta de crédito"
+
+msgid "Right"
+msgstr "Bien"
+
+msgid "Romanian Leu 🇷🇴"
+msgstr "Leu rumano 🇷🇴"
+
+msgid "Rounded Corners"
+msgstr "Esquinas redondeadas"
+
+msgid "Rounded corners"
+msgstr "Esquinas redondeadas"
+
+msgid "Rounding"
+msgstr "Redondeo"
+
+msgid "Russian ruble 🇷🇺"
+msgstr "rublo ruso 🇷🇺"
+
+msgid "Rwandan franc 🇷🇼"
+msgstr "Franco ruandés 🇷🇼"
+
+msgid "Saudi Riyal 🇸🇦"
+msgstr "Riyal Saudí 🇸🇦"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "Secondary header"
+msgstr "Encabezado secundario"
+
+msgid "Secret Key"
+msgstr "Llave secreta"
+
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+msgid "Select none"
+msgstr "Seleccionar ninguno"
+
+msgid "Send an email notification when the ACH payment clears. It will be sent to the email associated with the Stripe account."
+msgstr "Envíe una notificación por correo electrónico cuando se liquide el pago ACH. Se enviará al correo electrónico asociado a la cuenta de Stripe."
+
+msgid "Serbian Dinar 🇷🇸"
+msgstr "Dinar serbio 🇷🇸"
+
+msgid "Service fee"
+msgstr "Tarifa de servicio"
+
+msgid "Set a custom statement descriptor that will appear on your customer\'s card or bank statements. If left blank, it will default to what you have set in Stripe for card payments."
+msgstr "Establezca un descriptor de estado de cuenta personalizado que aparecerá en la tarjeta o en los estados de cuenta bancarios de su cliente. Si se deja en blanco, se establecerá de forma predeterminada en lo que haya configurado en Stripe para pagos con tarjeta."
+
+msgid "Set minimum/maximum charges and fees, restrict countries, and change the appearance"
+msgstr "Establezca cargos y tarifas mínimos/máximos, restrinja países y cambie la apariencia"
+
+msgid "Set the alignment of the PeachPay button on the cart page."
+msgstr "Establezca la alineación del botón PeachPay en la página del carrito."
+
+msgid "Set the alignment of the PeachPay button on the product page."
+msgstr "Configure la alineación del botón PeachPay en la página del producto."
+
+msgid "Set the alignment of the floating PeachPay button on the shop page"
+msgstr "Establecer la alineación del botón flotante de PeachPay en la página de la tienda"
+
+msgid "Set the bottom gap between the button and the bottom of the page. Leaving it blank defaults it to 27px."
+msgstr "Establezca el espacio inferior entre el botón y la parte inferior de la página. Si lo deja en blanco, el valor predeterminado es 27 px."
+
+msgid "Set the right gap between the button and the right side of the page. Leaving it blank defaults it to 45px."
+msgstr "Establezca el espacio correcto entre el botón y el lado derecho de la página. Si lo deja en blanco, el valor predeterminado es 45 px."
+
+msgid "Set the size of the button. Leaving it blank defaults it to 70px."
+msgstr "Establece el tamaño del botón. Si lo deja en blanco, el valor predeterminado es 70 px."
+
+msgid "Set the size of the icon. Leaving it blank defaults it to 35px."
+msgstr "Establece el tamaño del icono. Si lo deja en blanco, el valor predeterminado es 35 px."
+
+msgid "Set this to \"No custom interval\" to follow the default interval schedule"
+msgstr "Configure esto en \"Sin intervalo personalizado\" para seguir el programa de intervalos predeterminado"
+
+msgid "Set up"
+msgstr "Configuración"
+
+msgid "Set up currencies"
+msgstr "Configurar monedas"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settlement amount"
+msgstr "Cantidad fijada"
+
+msgid "Seychellois Rupee 🇸🇨"
+msgstr "Rupia de Seychelles 🇸🇨"
+
+msgid "Shipping"
+msgstr "Envío"
+
+msgid "Shoppers paying with %s will be charged an extra fee."
+msgstr "A los compradores que paguen con %s se les cobrará una tarifa adicional."
+
+msgid "Shopping Cart"
+msgstr "Carro de la compra"
+
+msgid "Shopping cart"
+msgstr "Carro de la compra"
+
+msgid "Show Amazon Pay in the checkout window"
+msgstr "Mostrar Amazon Pay en la ventana de pago"
+
+msgid "Show a shadow around buttons inside the checkout window."
+msgstr "Muestre una sombra alrededor de los botones dentro de la ventana de pago."
+
+msgid "Show customers a custom message on the checkout payment page."
+msgstr "Muestre a los clientes un mensaje personalizado en la página de pago de pago."
+
+msgid "Show itemized order details in the PayPal window"
+msgstr "Mostrar detalles detallados del pedido en la ventana de PayPal"
+
+msgid "Show itemized order information in the Transaction Detail page"
+msgstr "Mostrar información detallada del pedido en la página Detalles de la transacción"
+
+msgid "Show line items in the PayPal window. This setting is not compatible with the WooCommerce tax setting \"Prices entered with tax: Yes, I will enter prices inclusive of tax\"."
+msgstr "Mostrar elementos de línea en la ventana de PayPal. Esta configuración no es compatible con la configuración de impuestos de WooCommerce \"Precios ingresados con impuestos: Sí, ingresaré precios con impuestos incluidos\"."
+
+msgid "Show shoppers related products while shopping"
+msgstr "Mostrar a los compradores productos relacionados mientras compran"
+
+msgid "Side gap"
+msgstr "Espacio lateral"
+
+msgid "Sierra Leonean 🇸🇱"
+msgstr "Sierra Leona 🇸🇱"
+
+msgid "Sign up"
+msgstr "Inscribirse"
+
+msgid "Sign up (sandbox)"
+msgstr "Registrarse (caja de arena)"
+
+msgid "Sign up for reCAPTCHA v3 key credentials"
+msgstr "Regístrese para obtener las credenciales clave de reCAPTCHA v3"
+
+msgid "Silver"
+msgstr "Plata"
+
+msgid "Since the beginning, PeachPay has been devoted to simplifying payments for merchants and shoppers, establishing itself as one of the most reliable payment services on WooCommerce. We’ve introduced many features and added compatibility for countless plugins to make checkout as effortless as possible."
+msgstr "Desde el principio, PeachPay se ha dedicado a simplificar los pagos para comerciantes y compradores, estableciéndose como uno de los servicios de pago más confiables en WooCommerce. Hemos introducido muchas funciones y hemos agregado compatibilidad para innumerables complementos para que el proceso de pago sea lo más fácil posible."
+
+msgid "Singapore dollar 🇸🇬"
+msgstr "Dólar de Singapur 🇸🇬"
+
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+msgid "Skip & deactivate"
+msgstr "Saltar y desactivar"
+
+msgid "Sol 🇵🇪"
+msgstr "Sol 🇵🇪"
+
+msgid "Solomon Islands Dollar 🇸🇧"
+msgstr "Dólar de las Islas Salomón 🇸🇧"
+
+msgid "Somali Shilling 🇸🇴"
+msgstr "Chelín somalí 🇸🇴"
+
+msgid "Some services such as Cloudflare will block access to this route and an exception will need to be made manually on those services."
+msgstr "Algunos servicios como Cloudflare bloquearán el acceso a esta ruta y será necesario hacer una excepción manualmente en esos servicios."
+
+msgid "South African Rand 🇿🇦"
+msgstr "Rand sudafricano 🇿🇦"
+
+msgid "Specific Product"
+msgstr "Producto específico"
+
+msgid "Specify reason (optional)"
+msgstr "Especifique el motivo (opcional)"
+
+msgid "Square"
+msgstr "Cuadrado"
+
+msgid "Square %1$s payment failed: %2$s"
+msgstr "El pago cuadrado de %1$s falló: %2$s"
+
+msgid "Square Account"
+msgstr "Cuenta cuadrada"
+
+msgid "Square Sandbox Documentation"
+msgstr "Documentación de la caja de arena cuadrada"
+
+msgid "Square is good for merchants who sell online and in a physical store. It’s also good if you sell items that are usually risky for other payment processors."
+msgstr "Square es bueno para comerciantes que venden en línea y en una tienda física. También es bueno si vende artículos que suelen ser riesgosos para otros procesadores de pagos."
+
+msgid "Square is not connected."
+msgstr "El cuadrado no está conectado."
+
+msgid "Square reusable payment method details missing from subscription order."
+msgstr "Faltan detalles del método de pago reutilizable Square en el pedido de suscripción."
+
+msgid "Square was not connected."
+msgstr "Square no estaba conectado."
+
+msgid "Sri Lankan Rupee 🇱🇰"
+msgstr "Rupia de Sri Lanka 🇱🇰"
+
+msgid "Standard"
+msgstr "Estándar"
+
+msgid "Start your trial of PeachPay"
+msgstr "Comience su prueba de PeachPay"
+
+msgid "Statement descriptor"
+msgstr "Descriptor de declaración"
+
+msgid "Statement descriptor suffix"
+msgstr "Sufijo del descriptor de declaración"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Store name"
+msgstr "Nombre de la tienda"
+
+msgid "Stripe"
+msgstr "Raya"
+
+msgid "Stripe %1$s could not be voided or refunded. (Transaction Id: %2$s)"
+msgstr "La raya %1$s no se pudo anular ni reembolsar. (Id. de transacción: %2$s)"
+
+msgid "Stripe %1$s payment authorized for %2$s (Charge Id: %3$s)"
+msgstr "Stripe %1$s pago autorizado para %2$s (ID de cargo: %3$s)"
+
+msgid "Stripe %1$s payment captured. Payment is now complete (Charge Id: %2$s)"
+msgstr "Stripe %1$s pago capturado. El pago ahora está completo (Id. de cargo: %2$s)"
+
+msgid "Stripe %1$s payment complete (Charge Id: %2$s)"
+msgstr "Stripe %1$s pago completo (ID de cargo: %2$s)"
+
+msgid "Stripe %1$s payment failed. Reason: %2$s"
+msgstr "El pago de Stripe %1$s falló. Motivo: %2$s"
+
+msgid "Stripe %1$s payment failed: %2$s"
+msgstr "El pago de Stripe %1$s falló: %2$s"
+
+msgid "Stripe %1$s payment is processing (Charge Id: %2$s)"
+msgstr "Se está procesando el pago de Stripe %1$s (Id. de cargo: %2$s)"
+
+msgid "Stripe %1$s payment partially refunded %2$s (Refund Id: %3$s)"
+msgstr "Stripe %1$s pago parcialmente reembolsado %2$s (Id. de reembolso: %3$s)"
+
+msgid "Stripe %1$s payment refunded %2$s (Refund Id: %3$s)"
+msgstr "Stripe %1$s pago reembolsado %2$s (Id. de reembolso: %3$s)"
+
+msgid "Stripe %1$s payment refunded %2$s (Transaction Id: %3$s)"
+msgstr "Stripe %1$s pago reembolsado %2$s (Id. de transacción: %3$s)"
+
+msgid "Stripe %1$s payment refunded %2$s because order was cancelled. (Transaction Id: %3$s)"
+msgstr "El pago de %1$s de Stripe se reembolsó a %2$s porque se canceló el pedido. (Id. de transacción: %3$s)"
+
+msgid "Stripe %1$s payment setup for future use (Payment Method Id: %2$s)"
+msgstr "Configuración de pago de Stripe %1$s para uso futuro (Id. de método de pago: %2$s)"
+
+msgid "Stripe %1$s payment was canceled. %2$s"
+msgstr "Se canceló el pago de Stripe %1$s. %2$s"
+
+msgid "Stripe Fee:"
+msgstr "Tarifa de raya:"
+
+msgid "Stripe Net Payout:"
+msgstr "Pago neto de la raya:"
+
+msgid "Stripe advanced settings"
+msgstr "Configuración avanzada de bandas"
+
+msgid "Stripe is not connected."
+msgstr "Stripe no está conectado."
+
+msgid "Stripe normally determines when 3D Secure should be shown automatically. If \"Force 3D Secure\" is enabled, 3D Secure will be shown for all card transactions. In test mode, 3D Secure is only shown for 3DS test cards regardless of the setting."
+msgstr "Stripe normalmente determina cuándo se debe mostrar 3D Secure automáticamente. Si está habilitado \"Forzar 3D Secure\", se mostrará 3D Secure para todas las transacciones con tarjeta. En el modo de prueba, 3D Secure solo se muestra para las tarjetas de prueba 3DS, independientemente de la configuración."
+
+msgid "Stripe setup intent session data is missing or not defined."
+msgstr "Faltan datos de la sesión de intento de configuración de franjas o no están definidos."
+
+msgid "Stripe will give you the largest selection of global payment methods along with Apple Pay and Google Pay."
+msgstr "Stripe le brindará la mayor selección de métodos de pago globales junto con Apple Pay y Google Pay."
+
+msgid "Submit & deactivate"
+msgstr "Enviar y desactivar"
+
+msgid "Subtotal"
+msgstr "Total parcial"
+
+msgid "Support"
+msgstr "Apoyo"
+
+msgid "Support message"
+msgstr "Mensaje de soporte"
+
+msgid "Surinamese Dollar 🇸🇷"
+msgstr "Dólar surinamés 🇸🇷"
+
+msgid "Swazi Lilangeni 🇸🇿"
+msgstr "Swazi Lilangeni 🇸🇿"
+
+msgid "Swedish krona 🇸🇪"
+msgstr "corona sueca 🇸🇪"
+
+msgid "Swiss franc 🇨🇭"
+msgstr "franco suizo 🇨🇭"
+
+msgid "Switcher widget"
+msgstr "Widget de conmutador"
+
+msgid "TEST MODE"
+msgstr "MODO DE PRUEBA"
+
+msgid "Tajikistani Somoni 🇹🇯"
+msgstr "Tayikistán Somoni 🇹🇯"
+
+msgid "Tanzanian Shilling 🇹🇿"
+msgstr "Chelín tanzano 🇹🇿"
+
+msgid "Tax"
+msgstr "Impuesto"
+
+msgid "Taxonomy IDs to exclude (comma separated)"
+msgstr "ID de taxonomía para excluir (separados por comas)"
+
+msgid "Temporary deactivation"
+msgstr "Desactivación temporal"
+
+msgid "Test mode enabled."
+msgstr "Modo de prueba habilitado."
+
+msgid "Text Color"
+msgstr "Color de texto"
+
+msgid "Thai Baht 🇹🇭"
+msgstr "Baht tailandés 🇹🇭"
+
+msgid "Thank you for your understanding and continued support. We look forward to serving you to take your ecommerce sales to the moon! 🚀"
+msgstr "Gracias por su comprensión y apoyo continuo. ¡Esperamos poder servirle para llevar sus ventas de comercio electrónico a la luna! 🚀"
+
+msgid "The amount you would like to charge"
+msgstr "La cantidad que desea cobrar"
+
+msgid "The extra fee will only be applied if the cart total is above this amount."
+msgstr "La tarifa adicional solo se aplicará si el total del carrito es superior a esta cantidad."
+
+msgid "The extra fee will only be applied if the cart total is below this amount. This must be less than or equal to this payment gateway\'s maximum charge."
+msgstr "La tarifa adicional solo se aplicará si el total del carrito es inferior a esta cantidad. Este debe ser menor o igual al cargo máximo de esta pasarela de pago."
+
+msgid "The name of the store displayed in the PayPal window."
+msgstr "El nombre de la tienda que se muestra en la ventana de PayPal."
+
+msgid "The payment method titles in the legends can be toggled to specify which to show in the graph."
+msgstr "Los títulos de los métodos de pago en las leyendas se pueden alternar para especificar cuál mostrar en el gráfico."
+
+msgid "The product will be added to the cart before the checkout window opens. If this option is enabled outside a Single Product Template, the button may not work correctly. The Single Product Template must have an Add To Cart widget."
+msgstr "El producto se agregará al carrito antes de que se abra la ventana de pago. Si esta opción está habilitada fuera de una plantilla de producto único, es posible que el botón no funcione correctamente. La plantilla de un solo producto debe tener un widget Agregar al carrito."
+
+msgid "The status assigned to an order when a dispute is created."
+msgstr "El estado asignado a un pedido cuando se crea una disputa."
+
+msgid "The toggle view buttons change the graphs between side by side and stacked modes."
+msgstr "Los botones de vista alterna cambian los gráficos entre los modos uno al lado del otro y apilados."
+
+msgid "These related products appear near the bottom of the product page, not inside the PeachPay checkout window"
+msgstr "Estos productos relacionados aparecen cerca de la parte inferior de la página del producto, no dentro de la ventana de pago de PeachPay."
+
+msgid "These settings are provided for advanced customization by developers or merchants. Support is not guaranteed and it is expected that you know what you are doing by editing the below settings."
+msgstr "Estos ajustes se proporcionan para la personalización avanzada por parte de desarrolladores o comerciantes. El soporte no está garantizado y se espera que sepa lo que está haciendo al editar la configuración a continuación."
+
+msgid "This additional messaging will be shown on the checkout payment page. Only a, br, h1, h2, h3, h4, h5, p, div, li, ul, ol, span, and img HTML tags are permitted."
+msgstr "Este mensaje adicional se mostrará en la página de pago de pago. Solo se permiten las etiquetas HTML a, br, h1, h2, h3, h4, h5, p, div, li, ul, ol, span e img."
+
+msgid "This determines how to round when there are more decimals than the currency supports"
+msgstr "Esto determina cómo redondear cuando hay más decimales de los que admite la moneda"
+
+msgid "This fee will apply to the shopper's cart subtotal and will be paid by the shopper."
+msgstr "Esta tarifa se aplicará al subtotal del carrito del comprador y será pagada por el comprador."
+
+msgid "This is a Premium feature. Upgrade to unlock it!"
+msgstr "Esta es una característica Premium. ¡Actualiza para desbloquearlo!"
+
+msgid "This is the rate at which the currency will be converted"
+msgstr "Esta es la tasa a la que se convertirá la moneda"
+
+msgid "This option determines if the customers funds are captured immediately or only authorized for capture at a later time."
+msgstr "Esta opción determina si los fondos de los clientes se capturan inmediatamente o solo se autorizan para la captura en un momento posterior."
+
+msgid "This option determines if the customers funds are captured immediately or only authorized for capture at a later time. Authorized payments expire and cannot be captured after 30 days."
+msgstr "Esta opción determina si los fondos de los clientes se capturan inmediatamente o solo se autorizan para la captura en un momento posterior. Los pagos autorizados vencen y no se pueden capturar después de 30 días."
+
+msgid "This option determines if the customers funds are captured immediately or only authorized for capture at a later time. Authorized payments expire and cannot be captured after 7 days."
+msgstr "Esta opción determina si los fondos de los clientes se capturan inmediatamente o solo se autorizan para la captura en un momento posterior. Los pagos autorizados vencen y no se pueden capturar después de 7 días."
+
+msgid "This payment method must be activated in your %1\$s Stripe dashboard %2\$s settings to be used in the PeachPay checkout"
+msgstr "Este método de pago debe estar activado en la configuración de %2\$s del panel de Stripe de %1\$s para poder usarlo en el pago de PeachPay"
+
+msgid "This setting allows styling of the PeachPay button through additional CSS."
+msgstr "Esta configuración permite diseñar el botón PeachPay a través de CSS adicional."
+
+msgid "This setting will add additional CSS classes to the PeachPay button."
+msgstr "Esta configuración agregará clases CSS adicionales al botón PeachPay."
+
+msgid "This setting will append any provided elements to the PeachPay checkout window."
+msgstr "Esta configuración agregará los elementos proporcionados a la ventana de pago de PeachPay."
+
+msgid "This transaction cannot be partially refunded until it has been captured and settled. Please capture the order or use the full order total to void the transaction."
+msgstr "Esta transacción no se puede reembolsar parcialmente hasta que se haya capturado y liquidado. Capture el pedido o use el total del pedido completo para anular la transacción."
+
+msgid "This transaction cannot be partially refunded until it has settled. You can either wait for settlement to process or use the full order total to void the transaction."
+msgstr "Esta transacción no se puede reembolsar parcialmente hasta que se haya liquidado. Puede esperar a que se procese la liquidación o utilizar el total total del pedido para anular la transacción."
+
+msgid "This will change the language on the button and in the checkout flow. Use the option"
+msgstr "Esto cambiará el idioma en el botón y en el flujo de pago. Usa la opción"
+
+msgid "This will disable the PeachPay button font style rules (font-family, font-size, font-weight, and transform-text) and use the styles from the website theme."
+msgstr "Esto deshabilitará las reglas de estilo de fuente del botón PeachPay (familia de fuente, tamaño de fuente, peso de fuente y texto de transformación) y usará los estilos del tema del sitio web."
+
+msgid "This will set the colors in the checkout window and for the checkout buttons."
+msgstr "Esto establecerá los colores en la ventana de pago y para los botones de pago."
+
+msgid "This will set the text color on buttons for the checkout window."
+msgstr "Esto establecerá el color del texto en los botones de la ventana de pago."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Title or reason for the extra fee"
+msgstr "Título o motivo de la tarifa adicional"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "To continue making your checkout better, we’re introducing a"
+msgstr "Para continuar mejorando su proceso de pago, estamos introduciendo un"
+
+msgid "To continue setting up PeachPay, please"
+msgstr "Para continuar configurando PeachPay, por favor"
+
+msgid "Toggle view"
+msgstr "Cambiar vista"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total carts"
+msgstr "carros totales"
+
+msgid "Transaction"
+msgstr "Transacción"
+
+msgid "Transaction details"
+msgstr "Detalles de la transacción"
+
+msgid "Transaction volume"
+msgstr "Volumen de transacciones"
+
+msgid "Transaction volume | Last 12 months"
+msgstr "Volumen de transacciones | últimos 12 meses"
+
+msgid "Trinidad & Tobago Dollar 🇹🇹"
+msgstr "Dólar de Trinidad y Tobago 🇹🇹"
+
+msgid "Try Premium"
+msgstr "Prueba Premium"
+
+msgid "Tugrik 🇲🇳"
+msgstr "Tugrik 🇲🇳"
+
+msgid "Turkish lira 🇹🇷"
+msgstr "lira turca 🇹🇷"
+
+msgid "Twitter"
+msgstr "Gorjeo"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Ugandan Shilling 🇺🇬"
+msgstr "Chelín ugandés 🇺🇬"
+
+msgid "Ukrainian hryvnia 🇺🇦"
+msgstr "Grivna ucraniana 🇺🇦"
+
+msgid "Unable to unlink PayPal account. Please try again or contact us if you need help."
+msgstr "No se puede desvincular la cuenta de PayPal. Vuelva a intentarlo o póngase en contacto con nosotros si necesita ayuda."
+
+msgid "Unable to unlink Poynt account. Please try again or contact us if you need help."
+msgstr "No se puede desvincular la cuenta de Poynt. Vuelva a intentarlo o póngase en contacto con nosotros si necesita ayuda."
+
+msgid "Unable to unlink Stripe account. Please try again or contact us if you need help."
+msgstr "No se puede desvincular la cuenta de Stripe. Vuelva a intentarlo o póngase en contacto con nosotros si necesita ayuda."
+
+msgid "Understand payment method usage and track abandoned carts"
+msgstr "Comprenda el uso del método de pago y realice un seguimiento de los carritos abandonados"
+
+msgid "United Arab Emirates Dirham 🇦🇪"
+msgstr "Dírham de los Emiratos Árabes Unidos 🇦🇪"
+
+msgid "United States dollar 🇺🇸"
+msgstr "Dólar estadounidense 🇺🇸"
+
+msgid "Unknown skipped currency volumes"
+msgstr "Volúmenes desconocidos de divisas omitidas"
+
+msgid "Unlink Amazon Pay"
+msgstr "Desvincular Amazon Pay"
+
+msgid "Unlink Authorize.net"
+msgstr "Desvincular Authorize.net"
+
+msgid "Unlink Authorize.net (sandbox)"
+msgstr "Desvincular Authorize.net (sandbox)"
+
+msgid "Unlink GoDaddy Poynt"
+msgstr "Desvincular Poynt de GoDaddy"
+
+msgid "Unlink PayPal"
+msgstr "Desvincular PayPal"
+
+msgid "Unlink Square"
+msgstr "Desvincular cuadrado"
+
+msgid "Unlink Square (sandbox)"
+msgstr "Desvincular Square (sandbox)"
+
+msgid "Unlink Stripe"
+msgstr "Desvincular banda"
+
+msgid "Unsupported Currency"
+msgstr "Moneda no admitida"
+
+msgid "Update every 12 hours"
+msgstr "Actualizar cada 12 horas"
+
+msgid "Update every 15 minutes"
+msgstr "Actualizar cada 15 minutos"
+
+msgid "Update every 2 days"
+msgstr "Actualizar cada 2 días"
+
+msgid "Update every 2 weeks"
+msgstr "Actualizar cada 2 semanas"
+
+msgid "Update every 30 minutes"
+msgstr "Actualizar cada 30 minutos"
+
+msgid "Update every 6 hours"
+msgstr "Actualizar cada 6 horas"
+
+msgid "Update every day"
+msgstr "Actualizar todos los días"
+
+msgid "Update every hour"
+msgstr "Actualizar cada hora"
+
+msgid "Update every month"
+msgstr "Actualizar cada mes"
+
+msgid "Update once a week"
+msgstr "Actualizar una vez por semana"
+
+msgid "Update permissions"
+msgstr "Actualizar permisos"
+
+msgid "Update the currency exchange rate based on the frequency you set."
+msgstr "Actualiza el tipo de cambio de moneda según la frecuencia que establezcas."
+
+msgid "Update to %s"
+msgstr "Actualizar a %s"
+
+msgid "Upgrade"
+msgstr "Mejora"
+
+msgid "Upon clicking the PeachPay button"
+msgstr "Al hacer clic en el botón PeachPay"
+
+msgid "Upsell a product during the checkout flow (in a separate pop-up)"
+msgstr "Vender un producto durante el flujo de pago (en una ventana emergente separada)"
+
+msgid "Uruguayan Peso 🇺🇾"
+msgstr "Peso uruguayo 🇺🇾"
+
+msgid "Uzbekistani Som 🇺🇿"
+msgstr "Som uzbeko 🇺🇿"
+
+msgid "Vietnamese dong 🇻🇳"
+msgstr "Dong vietnamita 🇻🇳"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "View Amazon fees"
+msgstr "Ver tarifas de Amazon"
+
+msgid "View checkout analytics"
+msgstr "Ver análisis de pago"
+
+msgid "Void"
+msgstr "Vacío"
+
+msgid "Watch tutorial"
+msgstr "Ver el tutorial"
+
+msgid "We detected the best currency for you would be "
+msgstr "Detectamos que la mejor moneda para usted sería"
+
+msgid "Webhook Status:"
+msgstr "Estado del webhook:"
+
+msgid "Welcome to PeachPay"
+msgstr "Bienvenido a PeachPay"
+
+msgid "Welcome to payment method analytics!"
+msgstr "¡Bienvenido a la analítica de métodos de pago!"
+
+msgid "West African CFA franc"
+msgstr "Franco CFA de África Occidental"
+
+msgid "What didn\'t work?"
+msgstr "¿Qué no funcionó?"
+
+msgid "When"
+msgstr "Cuando"
+
+msgid "When a shopper starts typing the street address, they will get autocomplete suggestions."
+msgstr "Cuando un comprador comienza a escribir la dirección de la calle, recibirá sugerencias de autocompletar."
+
+msgid "When checked, the rate will update automatically on the schedule set in “Frequency of auto-update” in the settings above"
+msgstr "Cuando está marcada, la tarifa se actualizará automáticamente en el horario establecido en \"Frecuencia de actualización automática\" en la configuración anterior"
+
+msgid "When enabled, the PeachPay currency switcher will provide a currency selection on the payment page of the checkout window. The default currency will be set according to the table below, but shoppers can also select a currency when checking out. This currency switcher affects all prices on your store, not just the ones shown in the checkout window."
+msgstr "Cuando está habilitado, el conmutador de moneda de PeachPay proporcionará una selección de moneda en la página de pago de la ventana de pago. La moneda predeterminada se establecerá de acuerdo con la tabla a continuación, pero los compradores también pueden seleccionar una moneda al pagar. Este cambio de moneda afecta a todos los precios en su tienda, no solo a los que se muestran en la ventana de pago."
+
+msgid "When other services charge fees, it directly affects your profits. With the rise of processing costs, we don’t want you to pay for this, so we are passing the cost down to the shopper."
+msgstr "Cuando otros servicios cobran tarifas, afecta directamente sus ganancias. Con el aumento de los costos de procesamiento, no queremos que pague por esto, por lo que le estamos pasando el costo al comprador."
+
+msgid "When the billing country matches one of these values, the payment method will be shown on the checkout page."
+msgstr "Cuando el país de facturación coincida con uno de estos valores, el método de pago se mostrará en la página de pago."
+
+msgid "When the billing country matches one of these values, the payment method will not be shown on the checkout page."
+msgstr "Cuando el país de facturación coincida con uno de estos valores, el método de pago no se mostrará en la página de pago."
+
+msgid "When the currency matches one of these values, the payment method will be shown on the checkout page."
+msgstr "Cuando la moneda coincida con uno de estos valores, el método de pago se mostrará en la página de pago."
+
+msgid "When the currency matches one of these values, the payment method will not be shown on the checkout page."
+msgstr "Cuando la moneda coincida con uno de estos valores, el método de pago no se mostrará en la página de pago."
+
+msgid "When you add a new currency, it will appear below the base currency listed on the first line"
+msgstr "Cuando agregue una nueva moneda, aparecerá debajo de la moneda base que figura en la primera línea"
+
+msgid "White"
+msgstr "Blanco"
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid "With PayPal you will be able to connect the following payment methods:"
+msgstr "Con PayPal podrá conectar los siguientes métodos de pago:"
+
+msgid "With Square you will be able to connect the following payment methods:"
+msgstr "Con Square podrá conectar los siguientes métodos de pago:"
+
+msgid "With Stripe you will be able to connect the following payment methods:"
+msgstr "Con Stripe podrás conectar los siguientes métodos de pago:"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "WooCommerce methods"
+msgstr "Métodos WooCommerce"
+
+msgid "WooCommerce upsell and cross-sell"
+msgstr "Venta adicional y venta cruzada de WooCommerce"
+
+msgid "Yemeni Rial 🇾🇪"
+msgstr "Rial yemení 🇾🇪"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Puede ponerse en contacto con support@peachpay.app o utilizar el"
+
+msgid "You can enable test mode below and can finish setting up payment methods for PeachPay from the \"Payment methods\" tab."
+msgstr "Puede habilitar el modo de prueba a continuación y puede terminar de configurar los métodos de pago para PeachPay desde la pestaña \"Métodos de pago\"."
+
+msgid "You can remove this fee by upgrading to PeachPay Premium using the Upgrade button below."
+msgstr "Puede eliminar esta tarifa actualizando a PeachPay Premium usando el botón Actualizar a continuación."
+
+msgid "You have disabled all PeachPay payment methods. The PeachPay checkout window will appear, but customers will have no way to pay. Please "
+msgstr "Has deshabilitado todos los métodos de pago de PeachPay. Aparecerá la ventana de pago de PeachPay, pero los clientes no tendrán forma de pagar. Por favor"
+
+msgid "You have initiated an Apple Pay domain registration attempt. Please allow 5-10 seconds before refreshing to see if it succeeds."
+msgstr "Ha iniciado un intento de registro de dominio de Apple Pay. Espere de 5 a 10 segundos antes de actualizar para ver si tiene éxito."
+
+msgid "You have successfully connected your Authorize.net account. You may set up other payment methods in the \"Payments\" tab."
+msgstr "Ha conectado con éxito su cuenta de Authorize.net. Puede configurar otros métodos de pago en la pestaña \"Pagos\"."
+
+msgid "You have successfully connected your GoDaddy Poynt account. You may set up other payment methods in the \"Payments\" tab."
+msgstr "Ha conectado con éxito su cuenta GoDaddy Poynt. Puede configurar otros métodos de pago en la pestaña \"Pagos\"."
+
+msgid "You have successfully connected your PayPal account. You may set up other payment methods in the \"Payment methods\" tab."
+msgstr "Has conectado correctamente tu cuenta de PayPal. Puede configurar otros métodos de pago en la pestaña \"Métodos de pago\"."
+
+msgid "You have successfully connected your Square account. You may set up other payment methods in the \"Payment methods\" tab."
+msgstr "Ha conectado correctamente su cuenta de Square. Puede configurar otros métodos de pago en la pestaña \"Métodos de pago\"."
+
+msgid "You have successfully connected your Stripe account. You may set up other payment methods in the \"Payment methods\" tab."
+msgstr "Has conectado correctamente tu cuenta de Stripe. Puede configurar otros métodos de pago en la pestaña \"Métodos de pago\"."
+
+msgid "You have successfully made PeachPay the only checkout method. You can undo this in the \"Payment\" tab."
+msgstr "Ha hecho con éxito que PeachPay sea el único método de pago. Puede deshacer esto en la pestaña \"Pago\"."
+
+msgid "You have successfully unlinked your Amazon Pay account."
+msgstr "Has desvinculado con éxito tu cuenta de Amazon Pay."
+
+msgid "You have successfully unlinked your GoDaddy Poynt account."
+msgstr "Has desvinculado con éxito tu cuenta de GoDaddy Poynt."
+
+msgid "You have successfully unlinked your PayPal account. Please revoke the API permissions in your PayPal account settings as well."
+msgstr "Has desvinculado con éxito tu cuenta de PayPal. Revoque también los permisos de la API en la configuración de su cuenta de PayPal."
+
+msgid "You have successfully unlinked your Square account."
+msgstr "Ha desvinculado con éxito su cuenta de Square."
+
+msgid "You have successfully unlinked your Stripe account."
+msgstr "Has desvinculado con éxito tu cuenta de Stripe."
+
+msgid "You've successfully connected your Amazon Pay account with Merchant ID"
+msgstr "Has conectado correctamente tu cuenta de Amazon Pay con Merchant ID"
+
+msgid "You\'re all set with PeachPay"
+msgstr "Ya está todo listo con PeachPay"
+
+msgid "Your Authorize.net account is connected!"
+msgstr "¡Su cuenta de Authorize.net está conectada!"
+
+msgid "Your Authorize.net sandbox account is connected!"
+msgstr "¡Su cuenta de espacio aislado de Authorize.net está conectada!"
+
+msgid "Your GoDaddy Poynt account is connected!"
+msgstr "¡Tu cuenta GoDaddy Poynt está conectada!"
+
+msgid "Your PayPal account is connected!"
+msgstr "¡Tu cuenta de PayPal está conectada!"
+
+msgid "Your Square account is connected!"
+msgstr "¡Su cuenta de Square está conectada!"
+
+msgid "Your Square sandbox account is connected!"
+msgstr "¡Su cuenta de la zona de pruebas de Square está conectada!"
+
+msgid "Your Stripe account is connected!"
+msgstr "¡Tu cuenta de Stripe está conectada!"
+
+msgid "Your free trial ends in %1$d day(s) on %2$s. Add a payment method to keep using PeachPay\'s premium features uninterrupted."
+msgstr "Su prueba gratuita finaliza en %1$d día(s) el %2$s. Agregue un método de pago para seguir usando las funciones premium de PeachPay sin interrupciones."
+
+msgid "Zambian Kwacha 🇿🇲"
+msgstr "Kwacha zambiano 🇿🇲"
+
+msgid "and CVC "
+msgstr "y CVC"
+
+msgid "browsers"
+msgstr "navegadores"
+
+msgid "button in the PeachPay checkout."
+msgstr "botón en el pago de PeachPay."
+
+msgid "card"
+msgstr "tarjeta"
+
+msgid "choose \"Approve\" on the permission screen"
+msgstr "elija \"Aprobar\" en la pantalla de permiso"
+
+msgid "eCheck Type"
+msgstr "Tipo de cheque electrónico"
+
+msgid "echeck"
+msgstr "cheque electronico"
+
+msgid "enable at least one payment method"
+msgstr "habilitar al menos un método de pago"
+
+msgid "fees"
+msgstr "honorarios"
+
+msgid "here."
+msgstr "aquí."
+
+msgid "hover/tap"
+msgstr "desplazar/tocar"
+
+msgid "iDEAL Bank"
+msgstr "Banco iDEAL"
+
+msgid "ie 12,45,32"
+msgstr "es decir, 12,45,32"
+
+msgid "ie 99"
+msgstr "es decir, 99"
+
+msgid "if you are using a language switcher plugin."
+msgstr "si está utilizando un complemento de cambio de idioma."
+
+msgid "inline"
+msgstr "en línea"
+
+msgid "operating systems"
+msgstr "sistemas operativos"
+
+msgid "or as a"
+msgstr "o como un"
+
+msgid "orders"
+msgstr "pedidos"
+
+msgid "payment methods"
+msgstr "Métodos de pago"
+
+msgid "powered by GoDaddy and any associated"
+msgstr "impulsado por GoDaddy y cualquier asociado"
+
+msgid "powered by PayPal and any associated"
+msgstr "impulsado por PayPal y cualquier asociado"
+
+msgid "powered by Square and any associated"
+msgstr "con tecnología de Square y cualquier asociado"
+
+msgid "powered by Stripe and any associated"
+msgstr "impulsado por Stripe y cualquier asociado"
+
+msgid "support chat"
+msgstr "chat de soporte"
+
+msgid "these instructions"
+msgstr "estas instrucciones"
+
+msgid "to the customer. As a merchant, you don’t pay anything extra."
+msgstr "al cliente. Como comerciante, no paga nada extra."
+
+msgid "total volume"
+msgstr "volumen total"
+
+msgid "weekly"
+msgstr "semanalmente"
+
+msgid "with expiration "
+msgstr "con vencimiento"

@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+
+msgid "+ Add new option"
+msgstr "+ เพิ่มตัวเลือกใหม่"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการเพิ่มสกุลเงินที่รองรับทั้งหมด สิ่งนี้จะแทนที่ตารางปัจจุบัน"
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการล้างสกุลเงินทั้งหมด?"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "เลือกประเภทของฟิลด์ที่จะเพิ่ม \"เลือก\" คือเมนูแบบเลื่อนลง และ \"วิทยุ\" คือชุดของฟองอากาศที่คุณสามารถเลือกได้หนึ่งตัวเลือก"
+
+msgid "Default value:"
+msgstr "ค่าเริ่มต้น:"
+
+msgid "Display in Order Detail"
+msgstr "แสดงในรายละเอียดการสั่งซื้อ"
+
+msgid "Display in email"
+msgstr "แสดงในอีเมล"
+
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+msgid "Feedback"
+msgstr "ข้อเสนอแนะ"
+
+msgid "Field details"
+msgstr "รายละเอียดสนาม"
+
+msgid "I couldn't get the plugin to work"
+msgstr "ฉันใช้งานปลั๊กอินไม่ได้"
+
+msgid "I found a better plugin"
+msgstr "ฉันพบปลั๊กอินที่ดีกว่า"
+
+msgid "I no longer need the plugin"
+msgstr "ฉันไม่ต้องการปลั๊กอินอีกต่อไป"
+
+msgid "Label:"
+msgstr "ฉลาก:"
+
+msgid "Name:"
+msgstr "ชื่อ:"
+
+msgid "Other"
+msgstr "อื่น"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "โปรดช่วยให้เราเข้าใจว่า PeachPay ไม่ได้ผลสำหรับคุณ"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "โปรดเลือกตัวเลือกสินค้าที่เหลือก่อนที่จะเพิ่มชุดสินค้านี้ลงในรถเข็นของคุณ"
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "โปรดเลือกตัวเลือกสินค้าที่เหลือก่อนที่จะเพิ่มสินค้านี้ลงในรถเข็นของคุณ"
+
+msgid "Please share which plugin"
+msgstr "โปรดแชร์ว่าปลั๊กอินตัวใด"
+
+msgid "Please share your reason"
+msgstr "กรุณาแบ่งปันเหตุผลของคุณ"
+
+msgid "Required"
+msgstr "ที่จำเป็น"
+
+msgid "Skip & deactivate"
+msgstr "ข้ามและปิดใช้งาน"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "ขอโทษมีบางอย่างผิดพลาด. โปรดรีเฟรชหน้าแล้วลองอีกครั้ง"
+
+msgid "Sorry, this product is out of stock."
+msgstr "ขออภัย สินค้าหมด"
+
+msgid "Submit"
+msgstr "ส่ง"
+
+msgid "Submit & deactivate"
+msgstr "ส่งและปิดการใช้งาน"
+
+msgid "Temporary deactivation"
+msgstr "ปิดใช้งานชั่วคราว"
+
+msgid "Text"
+msgstr "ข้อความ"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "ความกว้างจะพิจารณาฟิลด์ที่อยู่ถัดจากฟิลด์ในตัวแก้ไขฟิลด์ ตัวอย่างเช่น หากฟิลด์สองฟิลด์อยู่ติดกันในเครื่องมือแก้ไขฟิลด์ และฟิลด์ทั้งสองถูกตั้งค่าเป็น 50% ในขั้นตอนการชำระเงิน ฟิลด์ทั้งสองจะแสดงเคียงข้างกัน"
+
+msgid "This gift card has no money left."
+msgstr "บัตรของขวัญนี้ไม่มีเงินเหลือ"
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "นี่คือสิ่งที่จะแสดงในหน้าต่างชำระเงินและหน้าชำระเงิน"
+
+msgid "Type:"
+msgstr "พิมพ์:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "คุณสามารถติดต่อ support@peachpay.app หรือใช้"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "คุณสามารถตั้งค่าสำหรับฟิลด์นี้ที่ควรกรอกไว้ล่วงหน้าแล้วเมื่อผู้ซื้อเปิดขั้นตอนการชำระเงิน"
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "คุณสามารถใช้อะไรก็ได้ แต่ต้องแตกต่างจากฟิลด์อื่น หากคุณไม่ได้พยายามที่จะเข้ากันได้กับปลั๊กอินอื่น คุณเพียงแค่พิมพ์ป้ายกำกับ"
+
+msgid "support chat"
+msgstr "สนับสนุนการแชท"

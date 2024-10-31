@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+
+msgid "+ Add new option"
+msgstr "+ 새 옵션 추가"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "지원되는 모든 통화를 추가하시겠습니까? 이것은 현재 테이블을 대체합니다."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "모든 통화를 지우시겠습니까?"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "추가할 필드 유형을 선택합니다. \"선택\"은 드롭다운 메뉴이고 \"라디오\"는 하나의 옵션을 선택할 수 있는 풍선 세트입니다."
+
+msgid "Default value:"
+msgstr "기본값:"
+
+msgid "Display in Order Detail"
+msgstr "주문 세부 정보에 표시"
+
+msgid "Display in email"
+msgstr "이메일에 표시"
+
+msgid "Enable"
+msgstr "할 수 있게 하다"
+
+msgid "Feedback"
+msgstr "피드백"
+
+msgid "Field details"
+msgstr "필드 세부정보"
+
+msgid "I couldn't get the plugin to work"
+msgstr "플러그인을 작동시키지 못했습니다"
+
+msgid "I found a better plugin"
+msgstr "더 나은 플러그인을 찾았습니다"
+
+msgid "I no longer need the plugin"
+msgstr "더 이상 플러그인이 필요하지 않습니다"
+
+msgid "Label:"
+msgstr "상표:"
+
+msgid "Name:"
+msgstr "이름:"
+
+msgid "Other"
+msgstr "다른"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "PeachPay가 작동하지 않는다는 점을 이해하도록 도와주세요."
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "이 번들을 장바구니에 추가하기 전에 나머지 제품 옵션을 선택하십시오."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "이 제품을 장바구니에 추가하기 전에 나머지 제품 옵션을 선택하십시오."
+
+msgid "Please share which plugin"
+msgstr "어떤 플러그인인지 공유해주세요"
+
+msgid "Please share your reason"
+msgstr "이유를 공유해주세요"
+
+msgid "Required"
+msgstr "필수의"
+
+msgid "Skip & deactivate"
+msgstr "건너뛰기 및 비활성화"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "죄송합니다. 문제가 발생했습니다. 페이지를 새로고침하고 다시 시도하십시오."
+
+msgid "Sorry, this product is out of stock."
+msgstr "죄송합니다. 이 제품은 품절입니다."
+
+msgid "Submit"
+msgstr "제출하다"
+
+msgid "Submit & deactivate"
+msgstr "제출 및 비활성화"
+
+msgid "Temporary deactivation"
+msgstr "임시 비활성화"
+
+msgid "Text"
+msgstr "텍스트"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "너비는 필드 편집기에서 옆에 있는 필드를 고려합니다. 예를 들어 필드 편집기에서 두 필드가 서로 옆에 있고 둘 다 50%로 설정되어 있으면 결제 시 나란히 표시됩니다."
+
+msgid "This gift card has no money left."
+msgstr "이 기프트 카드에 남은 금액이 없습니다."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "체크아웃 창과 체크아웃 페이지에 표시되는 내용입니다."
+
+msgid "Type:"
+msgstr "유형:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "support@peachpay.app에 문의하거나 다음을 사용할 수 있습니다."
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "구매자가 체크아웃을 열 때 이미 채워져 있어야 하는 이 필드의 값을 설정할 수 있습니다."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "무엇이든 사용할 수 있지만 다른 필드와 달라야 합니다. 다른 플러그인과 호환되지 않으려면 레이블을 입력하면 됩니다."
+
+msgid "support chat"
+msgstr "지원 채팅"

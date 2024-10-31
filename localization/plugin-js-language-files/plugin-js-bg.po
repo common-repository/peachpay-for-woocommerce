@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+
+msgid "+ Add new option"
+msgstr "+ Добавяне на нова опция"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Сигурни ли сте, че искате да добавите всички поддържани валути? Това ще замени текущата таблица."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Сигурни ли сте, че искате да изчистите всички валути?"
+
+msgid "Cancel"
+msgstr "Отказ"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Изберете типа поле за добавяне. „Избор“ е падащо меню, а „Радио“ е набор от балончета, от които можете да изберете една опция."
+
+msgid "Default value:"
+msgstr "Стойност по подразбиране:"
+
+msgid "Display in Order Detail"
+msgstr "Показване в подробности за поръчката"
+
+msgid "Display in email"
+msgstr "Показване в имейл"
+
+msgid "Enable"
+msgstr "Активирайте"
+
+msgid "Feedback"
+msgstr "Обратна връзка"
+
+msgid "Field details"
+msgstr "Подробности за полето"
+
+msgid "I couldn't get the plugin to work"
+msgstr "Не можах да накарам приставката да работи"
+
+msgid "I found a better plugin"
+msgstr "Намерих по-добър плъгин"
+
+msgid "I no longer need the plugin"
+msgstr "Вече не ми трябва плъгинът"
+
+msgid "Label:"
+msgstr "етикет:"
+
+msgid "Name:"
+msgstr "име:"
+
+msgid "Other"
+msgstr "Друго"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Моля, помогнете ни да разберем, че PeachPay не работи за вас"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Моля, изберете останалите опции за продукти, преди да добавите този пакет към количката си."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Моля, изберете останалите опции за продукти, преди да добавите този продукт към количката си."
+
+msgid "Please share which plugin"
+msgstr "Моля, споделете кой плъгин"
+
+msgid "Please share your reason"
+msgstr "Моля, споделете вашата причина"
+
+msgid "Required"
+msgstr "Задължително"
+
+msgid "Skip & deactivate"
+msgstr "Пропускане и деактивиране"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Съжалявам нещо се обърка. Моля, опреснете страницата и опитайте отново."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Съжаляваме, този продукт е изчерпан."
+
+msgid "Submit"
+msgstr "Изпращане"
+
+msgid "Submit & deactivate"
+msgstr "Изпратете и деактивирайте"
+
+msgid "Temporary deactivation"
+msgstr "Временно деактивиране"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "Ширината отчита полетата до нея в редактора на полета. Например, ако двете полета са едно до друго в редактора на полета и и двете са зададени на 50%, в касата те ще бъдат показани едно до друго."
+
+msgid "This gift card has no money left."
+msgstr "В тази карта за подарък не са останали пари."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Това ще се покаже в прозореца за плащане и на страницата за плащане."
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Можете да се свържете с support@peachpay.app или да използвате"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Можете да зададете стойност за това поле, която вече трябва да е предварително попълнена, когато купувачът отвори касата."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Можете да използвате всичко, но трябва да е различно от другите полета. Ако не се опитвате да бъдете съвместими с друг плъгин, можете просто да въведете етикета."
+
+msgid "support chat"
+msgstr "чат за поддръжка"

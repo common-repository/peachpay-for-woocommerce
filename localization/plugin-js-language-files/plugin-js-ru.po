@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+
+msgid "+ Add new option"
+msgstr "+ Добавить новую опцию"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Вы уверены, что хотите добавить все поддерживаемые валюты? Это заменит текущую таблицу."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Вы уверены, что хотите очистить все валюты?"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Выберите тип поля для добавления. «Выбрать» — это раскрывающееся меню, а «Радио» — это набор пузырьков, из которых вы можете выбрать один вариант."
+
+msgid "Default value:"
+msgstr "Значение по умолчанию:"
+
+msgid "Display in Order Detail"
+msgstr "Показать в деталях заказа"
+
+msgid "Display in email"
+msgstr "Отображать в электронной почте"
+
+msgid "Enable"
+msgstr "включить"
+
+msgid "Feedback"
+msgstr "Обратная связь"
+
+msgid "Field details"
+msgstr "Детали поля"
+
+msgid "I couldn't get the plugin to work"
+msgstr "не смог заставить плагин работать"
+
+msgid "I found a better plugin"
+msgstr "Я нашел лучший плагин"
+
+msgid "I no longer need the plugin"
+msgstr "Мне больше не нужен плагин"
+
+msgid "Label:"
+msgstr "Этикетка:"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "Other"
+msgstr "Другой"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Пожалуйста, помогите нам понять, что PeachPay не работает для вас"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Пожалуйста, выберите остальные параметры продукта, прежде чем добавить этот набор в корзину."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Пожалуйста, выберите остальные параметры продукта, прежде чем добавить этот продукт в корзину."
+
+msgid "Please share which plugin"
+msgstr "Поделитесь, какой плагин"
+
+msgid "Please share your reason"
+msgstr "Пожалуйста, поделитесь своей причиной"
+
+msgid "Required"
+msgstr "Необходимый"
+
+msgid "Skip & deactivate"
+msgstr "Пропустить и деактивировать"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Извините, что-то пошло не так. Пожалуйста, обновите страницу и повторите попытку."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Извините, этого товара нет в наличии."
+
+msgid "Submit"
+msgstr "Представлять на рассмотрение"
+
+msgid "Submit & deactivate"
+msgstr "Отправить и деактивировать"
+
+msgid "Temporary deactivation"
+msgstr "Временная деактивация"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "Ширина учитывает поля рядом с ним в редакторе полей. Например, если два поля находятся рядом друг с другом в редакторе полей и для них обоих установлено значение 50%, при оформлении заказа они будут отображаться рядом."
+
+msgid "This gift card has no money left."
+msgstr "На этой подарочной карте не осталось денег."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Это то, что будет отображаться в окне оформления заказа и на странице оформления заказа."
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Вы можете связаться с support@peachpay.app или использовать"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Вы можете установить значение для этого поля, которое должно быть предварительно заполнено, когда покупатель открывает кассу."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Вы можете использовать что угодно, но оно должно отличаться от других полей. Если вы не пытаетесь быть совместимым с другим плагином, вы можете просто ввести метку."
+
+msgid "support chat"
+msgstr "чат поддержки"

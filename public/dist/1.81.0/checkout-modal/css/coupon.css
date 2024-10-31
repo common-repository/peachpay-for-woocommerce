@@ -1,0 +1,143 @@
+form.coupon-code {
+	display: flex;
+	position: relative;
+}
+
+.pp-top-section form.coupon-code {
+	margin-right: -12px;
+}
+
+.coupon-code-input {
+	-webkit-appearance: none !important;
+	border: 2px solid #bdbdbd;
+	-webkit-appearance: none;
+	width: 80%;
+	border-radius: 0.5rem;
+}
+
+.coupon-code-input:focus-visible {
+	outline: none;
+}
+
+.coupon-code-apply {
+	-webkit-appearance: none !important;
+	border: 0;
+	font-size: 20px;
+	color: white;
+	border-radius: 0.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-left: 10px;
+	background-color: var(--peachpay-theme-color);
+}
+
+.coupon-code-apply-text {
+	margin: 0px 0px 0px -1px;
+	-webkit-appearance: none !important;
+	padding: 8px;
+	height: 100%;
+	line-height: 24px;
+	border: none;
+	display: flex;
+	align-self: center;
+	cursor: grab;
+	color: white;
+	font-size: 14px;
+	text-transform: uppercase;
+	border-radius: 0px 4px 4px 0px;
+	background-color: var(--peachpay-theme-color);
+}
+
+.coupon-code-apply:hover {
+	cursor: pointer;
+}
+
+.invalid-coupon {
+	color: var(--peachpay-theme-color);
+	font-size: 12px;
+	margin-left: 7%;
+}
+
+.coupon-spinner {
+	-webkit-appearance: none !important;
+	background-color: transparent;
+	position: absolute;
+	top: 0px;
+	right: 3.5rem;
+	height: 100%;
+	box-sizing: border-box;
+	padding: 12px;
+}
+
+.pp-apply-code-sm {
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 700;
+	color: #212121;
+	cursor: pointer;
+	display: flex;
+	align-self: center;
+}
+
+.pp-apply-code {
+	margin-top: -1px;
+	font-size: 11px;
+	color: #828282;
+	border-bottom: 1px solid #c5c5c5;
+	border-top: 1px solid #c5c5c5;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	cursor: pointer;
+	border-collapse: collapse;
+}
+
+.pp-apply-code.mobile {
+	display: none;
+}
+
+.exit-button {
+	padding: 0;
+	border: 0;
+	font-size: 20px;
+	background-color: transparent;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.remove-right-border {
+	border-right: 0;
+	border-top-left-radius: 0.5rem;
+	border-bottom-left-radius: 0.5rem;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+@media only screen and (max-width: 900px) {
+
+	.invalid-coupon {
+		margin-left: 9%;
+		margin-bottom: 0 !important;
+	}
+	.coupon-code-input {
+		width: 66%;
+	}
+	.pp-apply-code {
+		display: none;
+	}
+	.pp-apply-code.mobile {
+		display: initial;
+	}
+	.option-mobile {
+		background-color: #f3f3f3;
+		padding: 0.5rem;
+		border-radius: 0.5rem;
+	}
+	.options-mobile-new {
+		text-align: center;
+		border: 0;
+		padding: 0;
+	}
+	.pw-wc-gift-card {
+		padding-top: .5rem;
+	}
+}

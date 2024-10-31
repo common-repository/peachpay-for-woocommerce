@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: peachpay-for-woocommerce\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr ""
+
+msgid "+ COUPON"
+msgstr ""
+
+msgid "+ NEW CARD"
+msgstr ""
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr ""
+
+msgid "ADD"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Account login"
+msgstr ""
+
+msgid "Account name"
+msgstr ""
+
+msgid "Account registration"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Additional information"
+msgstr ""
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr ""
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr ""
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr ""
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr ""
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr ""
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr ""
+
+msgid "Apartment"
+msgstr ""
+
+msgid "Apple Pay"
+msgstr ""
+
+msgid "Apple Pay selected for checkout."
+msgstr ""
+
+msgid "BILLING"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Bill to"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Billing method"
+msgstr ""
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr ""
+
+msgid "By clicking the button above, you agree to"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Card"
+msgstr ""
+
+msgid "Cart is empty"
+msgstr ""
+
+msgid "Cheque"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "County"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "Coupon code"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Delivery date"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email or Username"
+msgstr ""
+
+msgid "Exit checkout"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "First renewal"
+msgstr ""
+
+msgid "Gift card number"
+msgstr ""
+
+msgid "Google Pay"
+msgstr ""
+
+msgid "Google Pay selected for checkout."
+msgstr ""
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr ""
+
+msgid "Initial Shipment"
+msgstr ""
+
+msgid "Keep my information saved for a faster checkout"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "My cart"
+msgstr ""
+
+msgid "No thanks"
+msgstr ""
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr ""
+
+msgid "Order notes"
+msgstr ""
+
+msgid "Order summary"
+msgstr ""
+
+msgid "PAYMENT"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Pay"
+msgstr ""
+
+msgid "Pay with a cheque"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Payment method"
+msgstr ""
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Phone number"
+msgstr ""
+
+msgid "Place order"
+msgstr ""
+
+msgid "Please go back and try again. Missing required field"
+msgstr ""
+
+msgid "Postal code"
+msgstr ""
+
+msgid "Powered by"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Province"
+msgstr ""
+
+msgid "Purchase order"
+msgstr ""
+
+msgid "Recommended for you"
+msgstr ""
+
+msgid "Recurring total"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Return"
+msgstr ""
+
+msgid "Review your information"
+msgstr ""
+
+msgid "SHIPPING"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Select a country"
+msgstr ""
+
+msgid "Select a province"
+msgstr ""
+
+msgid "Select a state"
+msgstr ""
+
+msgid "Ship to"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Shipping method"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Street address"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "Tax"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr ""
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr ""
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr ""
+
+msgid "There are no payment methods available"
+msgstr ""
+
+msgid "There are no shipping methods available"
+msgstr ""
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr ""
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr ""
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "US bank account"
+msgstr ""
+
+msgid "Unknown order error occurred"
+msgstr ""
+
+msgid "Use different shipping address"
+msgstr ""
+
+msgid "VIEW SAVED CARDS"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "View options"
+msgstr ""
+
+msgid "Wire/Bank Transfer"
+msgstr ""
+
+msgid "You entered an invalid coupon code"
+msgstr ""
+
+msgid "You entered an invalid gift card"
+msgstr ""
+
+msgid "additional"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "apply"
+msgstr ""
+
+msgid "each"
+msgstr ""
+
+msgid "iDEAL Bank"
+msgstr ""
+
+msgid "privacy policy"
+msgstr ""
+
+msgid "pursuant to"
+msgstr ""
+
+msgid "services and/or purchase of products from "
+msgstr ""
+
+msgid "terms"
+msgstr ""
+
+msgid "terms and conditions"
+msgstr ""
+
+msgid "the"
+msgstr ""
+
+msgid "the store's"
+msgstr ""
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr ""
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr ""
+
+msgid "with 30 (thirty) days notice."
+msgstr ""

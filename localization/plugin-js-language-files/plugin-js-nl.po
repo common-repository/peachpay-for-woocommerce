@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+
+msgid "+ Add new option"
+msgstr "+ Nieuwe optie toevoegen"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Weet u zeker dat u alle ondersteunde valuta's wilt toevoegen? Dit vervangt de huidige tabel."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Weet u zeker dat u alle valuta's wilt wissen?"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Kies het type veld dat u wilt toevoegen. Een \"Selecteren\" is een vervolgkeuzemenu en \"Radio\" is een reeks bubbels waaruit u een optie kunt kiezen."
+
+msgid "Default value:"
+msgstr "Standaardwaarde:"
+
+msgid "Display in Order Detail"
+msgstr "Weergeven in besteldetail"
+
+msgid "Display in email"
+msgstr "Weergeven in e-mail"
+
+msgid "Enable"
+msgstr "Inschakelen"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "Field details"
+msgstr "Velddetails"
+
+msgid "I couldn't get the plugin to work"
+msgstr "Ik kreeg de plug-in niet werkend"
+
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plug-in gevonden"
+
+msgid "I no longer need the plugin"
+msgstr "Ik heb de plug-in niet meer nodig"
+
+msgid "Label:"
+msgstr "Label:"
+
+msgid "Name:"
+msgstr "Naam:"
+
+msgid "Other"
+msgstr "Ander"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Help ons alstublieft te begrijpen dat PeachPay niet voor u werkte"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Selecteer de resterende productopties voordat u deze bundel aan uw winkelwagentje toevoegt."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Selecteer de resterende productopties voordat u dit product aan uw winkelwagentje toevoegt."
+
+msgid "Please share which plugin"
+msgstr "Deel a.u.b. welke plug-in"
+
+msgid "Please share your reason"
+msgstr "Deel alstublieft uw reden"
+
+msgid "Required"
+msgstr "Verplicht"
+
+msgid "Skip & deactivate"
+msgstr "Overslaan & deactiveren"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Sorry, er ging iets mis. Ververs de pagina en probeer het opnieuw."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Sorry, dit product is niet op voorraad."
+
+msgid "Submit"
+msgstr "Indienen"
+
+msgid "Submit & deactivate"
+msgstr "Verzenden & deactiveren"
+
+msgid "Temporary deactivation"
+msgstr "Tijdelijke deactivering"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "De breedte houdt rekening met de velden ernaast in de veldeditor. Als de twee velden bijvoorbeeld naast elkaar staan in de veldeditor en beide zijn ingesteld op 50%, worden ze bij het afrekenen naast elkaar weergegeven."
+
+msgid "This gift card has no money left."
+msgstr "Deze cadeaukaart heeft geen geld meer."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Dit wordt weergegeven in het afrekenvenster en op de afrekenpagina."
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "U kunt contact opnemen met support@peachpay.app of gebruik de"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "U kunt voor dit veld een waarde instellen die al vooraf moet zijn ingevuld wanneer de klant de kassa opent."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "U kunt alles gebruiken, maar het moet anders zijn dan de andere velden. Als u niet probeert compatibel te zijn met een andere plug-in, kunt u eenvoudig het label typen."
+
+msgid "support chat"
+msgstr "ondersteuning chatten"

@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ 쿠폰 코드 추가"
+
+msgid "+ COUPON"
+msgstr "+ 쿠폰"
+
+msgid "+ NEW CARD"
+msgstr "+ 새 카드"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ 기프트 카드/매장 크레딧 사용"
+
+msgid "ADD"
+msgstr "추가하다"
+
+msgid "Accept"
+msgstr "수용하다"
+
+msgid "Account"
+msgstr "계정"
+
+msgid "Account login"
+msgstr "계정 로그인"
+
+msgid "Account name"
+msgstr "계정 이름"
+
+msgid "Account registration"
+msgstr "계정 등록"
+
+msgid "Add"
+msgstr "추가하다"
+
+msgid "Additional information"
+msgstr "추가 정보"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "<b>결제</b>를 클릭하면 카드 정보를 입력할 수 있는 창이 나타납니다."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "<b>지불</b>을 선택하면 은행 계좌를 선택하라는 메시지가 나타납니다."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "<b>지불</b>을 선택하면 지불을 완료하도록 리디렉션됩니다."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "지불을 선택하면 지불을 완료하기 위해 리디렉션됩니다."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "결제를 선택하면 결제를 완료할 수 있는 창이 나타납니다."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "주문을 제출하면 구매 세부 정보를 완료하는 또 다른 단계가 나타납니다."
+
+msgid "Apartment"
+msgstr "아파트"
+
+msgid "Apple Pay"
+msgstr "애플 페이"
+
+msgid "Apple Pay selected for checkout."
+msgstr "결제를 위해 Apple Pay가 선택되었습니다."
+
+msgid "BILLING"
+msgstr "청구"
+
+msgid "Back"
+msgstr "뒤"
+
+msgid "Bill to"
+msgstr "청구 대상"
+
+msgid "Billing"
+msgstr "청구"
+
+msgid "Billing method"
+msgstr "청구 방법"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "<b>수락</b>을 클릭하면"
+
+msgid "By clicking the button above, you agree to"
+msgstr "위 버튼을 클릭하면 동의하는 것으로 간주됩니다."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Card"
+msgstr "카드"
+
+msgid "Cart is empty"
+msgstr "장바구니가 비어 있습니다."
+
+msgid "Cheque"
+msgstr "확인하다"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Close"
+msgstr "닫다"
+
+msgid "Continue"
+msgstr "계속하다"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "County"
+msgstr "군"
+
+msgid "Coupon"
+msgstr "쿠폰"
+
+msgid "Coupon code"
+msgstr "쿠폰 코드"
+
+msgid "Currency"
+msgstr "통화"
+
+msgid "Customize"
+msgstr "사용자 정의"
+
+msgid "Delivery date"
+msgstr "배송 날짜"
+
+msgid "Done"
+msgstr "완료"
+
+msgid "Edit"
+msgstr "편집하다"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Email or Username"
+msgstr "이메일 또는 사용자 이름"
+
+msgid "Exit checkout"
+msgstr "결제 종료"
+
+msgid "First name"
+msgstr "이름"
+
+msgid "First renewal"
+msgstr "첫 번째 갱신"
+
+msgid "Gift card number"
+msgstr "기프트 카드 번호"
+
+msgid "Google Pay"
+msgstr "구글 페이"
+
+msgid "Google Pay selected for checkout."
+msgstr "결제를 위해 Google Pay가 선택되었습니다."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "내가 입력한 국가가 내가 거주하는 국가인지 확인합니다."
+
+msgid "Initial Shipment"
+msgstr "초기 선적"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "더 빠른 체크아웃을 위해 내 정보를 저장해 두세요"
+
+msgid "Last name"
+msgstr "성"
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "My cart"
+msgstr "내 카트"
+
+msgid "No thanks"
+msgstr "고맙지 만 사양 할게"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "참고: 결제가 완료되는 데 최대 5일이 소요될 수 있습니다."
+
+msgid "Order notes"
+msgstr "주문 메모"
+
+msgid "Order summary"
+msgstr "주문 요약"
+
+msgid "PAYMENT"
+msgstr "지불"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Pay"
+msgstr "지불"
+
+msgid "Pay with a cheque"
+msgstr "수표로 지불"
+
+msgid "Payment"
+msgstr "지불"
+
+msgid "Payment method"
+msgstr "지불 방법"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "전신환/은행 송금을 통한 지불"
+
+msgid "Personal"
+msgstr "개인적인"
+
+msgid "Phone number"
+msgstr "전화 번호"
+
+msgid "Place order"
+msgstr "주문하기"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "돌아가서 다시 시도하십시오. 필수 항목 누락"
+
+msgid "Postal code"
+msgstr "우편 번호"
+
+msgid "Powered by"
+msgstr "에 의해 구동"
+
+msgid "Privacy Policy"
+msgstr "개인 정보 정책"
+
+msgid "Processing"
+msgstr "처리"
+
+msgid "Province"
+msgstr "주"
+
+msgid "Purchase order"
+msgstr "구매 주문"
+
+msgid "Recommended for you"
+msgstr "당신을 위해 추천 된"
+
+msgid "Recurring total"
+msgstr "반복 합계"
+
+msgid "Register"
+msgstr "등록하다"
+
+msgid "Remove"
+msgstr "제거하다"
+
+msgid "Return"
+msgstr "반품"
+
+msgid "Review your information"
+msgstr "정보 검토"
+
+msgid "SHIPPING"
+msgstr "배송"
+
+msgid "Save changes"
+msgstr "변경 사항을 저장하다"
+
+msgid "Select a country"
+msgstr "국가를 고르시 오"
+
+msgid "Select a province"
+msgstr "지방을 선택하십시오"
+
+msgid "Select a state"
+msgstr "상태 선택"
+
+msgid "Ship to"
+msgstr "배송지"
+
+msgid "Shipping"
+msgstr "배송"
+
+msgid "Shipping method"
+msgstr "배송 방법"
+
+msgid "State"
+msgstr "상태"
+
+msgid "Street address"
+msgstr "주소"
+
+msgid "Subtotal"
+msgstr "소계"
+
+msgid "Tax"
+msgstr "세"
+
+msgid "Terms of Service"
+msgstr "서비스 약관"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "테스트 모드: 고객이 PeachPay를 볼 수 없습니다."
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "필요한 위임이 수락되지 않았습니다. 결제가 취소되었습니다."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "이 주문에 사용할 수 있는 적격 또는 활성 결제 방법이 없습니다."
+
+msgid "There are no payment methods available"
+msgstr "사용 가능한 결제 수단이 없습니다."
+
+msgid "There are no shipping methods available"
+msgstr "사용 가능한 배송 방법이 없습니다."
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "이 결제 방법은 선택한 통화를 지원하지 않습니다. 이 메시지를 클릭하면 통화가 다음으로 전환됩니다."
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "이 결제 수단은 선택한 통화를 지원하지 않습니다. 이것을 선택하면 통화가 다음으로 전환됩니다."
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "이 결제 수단은 선택한 통화를 지원하지 않습니다. 통화를 전환하십시오."
+
+msgid "Total"
+msgstr "총"
+
+msgid "US bank account"
+msgstr "미국 은행 계좌"
+
+msgid "Unknown order error occurred"
+msgstr "알 수 없는 주문 오류가 발생했습니다"
+
+msgid "Use different shipping address"
+msgstr "다른 배송 주소 사용"
+
+msgid "VIEW SAVED CARDS"
+msgstr "저장된 카드 보기"
+
+msgid "Verified"
+msgstr "확인됨"
+
+msgid "View options"
+msgstr "보기 옵션"
+
+msgid "Wire/Bank Transfer"
+msgstr "전신환/은행 송금"
+
+msgid "You entered an invalid coupon code"
+msgstr "잘못된 쿠폰 코드를 입력했습니다."
+
+msgid "You entered an invalid gift card"
+msgstr "잘못된 기프트 카드를 입력했습니다."
+
+msgid "additional"
+msgstr "추가의"
+
+msgid "and"
+msgstr "그리고"
+
+msgid "apply"
+msgstr "적용하다"
+
+msgid "each"
+msgstr "각"
+
+msgid "iDEAL Bank"
+msgstr "아이딜 은행"
+
+msgid "privacy policy"
+msgstr "개인 정보 정책"
+
+msgid "pursuant to"
+msgstr "에 따라"
+
+msgid "services and/or purchase of products from "
+msgstr "서비스 및/또는 제품 구매"
+
+msgid "terms"
+msgstr "자귀"
+
+msgid "terms and conditions"
+msgstr "이용약관"
+
+msgid "the"
+msgstr "그만큼"
+
+msgid "the store's"
+msgstr "상점들"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "귀하의 사용으로 인해 발생하는 비용에 대해 위에 명시된 은행 계좌에서 인출"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "이 승인이 취소될 때까지 웹사이트 및 약관. 귀하는 에 통지하여 언제든지 이 승인을 수정하거나 취소할 수 있습니다."
+
+msgid "with 30 (thirty) days notice."
+msgstr "30일(30일)의 통지와 함께."

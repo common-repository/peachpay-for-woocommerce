@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+
+msgid "+ Add new option"
+msgstr "+ Añadir nueva opción"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "¿Está seguro de que desea agregar todas las monedas admitidas? Esto reemplazará la tabla actual."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "¿Está seguro de que desea borrar todas las monedas?"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Elija el tipo de campo a agregar. Un \"Seleccionar\" es un menú desplegable, y \"Radio\" es un conjunto de burbujas entre las que puede elegir una opción."
+
+msgid "Default value:"
+msgstr "Valor por defecto:"
+
+msgid "Display in Order Detail"
+msgstr "Mostrar en detalle de pedido"
+
+msgid "Display in email"
+msgstr "Mostrar en correo electrónico"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Feedback"
+msgstr "Retroalimentación"
+
+msgid "Field details"
+msgstr "Detalles del campo"
+
+msgid "I couldn't get the plugin to work"
+msgstr "No pude hacer funcionar el complemento."
+
+msgid "I found a better plugin"
+msgstr "Encontré un complemento mejor."
+
+msgid "I no longer need the plugin"
+msgstr "ya no necesito el plugin"
+
+msgid "Label:"
+msgstr "Etiqueta:"
+
+msgid "Name:"
+msgstr "Nombre:"
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Ayúdenos a entender que PeachPay no funcionó para usted"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Seleccione las opciones de productos restantes antes de agregar este paquete a su carrito."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Seleccione las opciones de productos restantes antes de agregar este producto a su carrito."
+
+msgid "Please share which plugin"
+msgstr "Por favor, comparte qué complemento"
+
+msgid "Please share your reason"
+msgstr "Por favor comparte tu razón"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Skip & deactivate"
+msgstr "Saltar y desactivar"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Perdón, algo salió mal. Actualice la página y vuelva a intentarlo."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Lo sentimos, este producto está fuera de stock."
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Submit & deactivate"
+msgstr "Enviar y desactivar"
+
+msgid "Temporary deactivation"
+msgstr "Desactivación temporal"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "El ancho tiene en cuenta los campos a su lado en el editor de campos. Por ejemplo, si los dos campos están uno al lado del otro en el editor de campos y ambos están configurados al 50%, en el proceso de pago se mostrarán uno al lado del otro."
+
+msgid "This gift card has no money left."
+msgstr "A esta tarjeta de regalo no le queda dinero."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Esto es lo que se mostrará en la ventana de pago y en la página de pago."
+
+msgid "Type:"
+msgstr "Escribe:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Puede ponerse en contacto con support@peachpay.app o utilizar el"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Puede establecer un valor para este campo que ya debería estar prellenado cuando el comprador abra la caja."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Puede usar cualquier cosa, pero debe ser diferente de los otros campos. Si no está tratando de ser compatible con otro complemento, simplemente puede escribir la etiqueta."
+
+msgid "support chat"
+msgstr "chat de soporte"

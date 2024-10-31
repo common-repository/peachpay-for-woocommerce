@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ ДОБАВИТЬ КОД КУПОНА"
+
+msgid "+ COUPON"
+msgstr "+ КУПОН"
+
+msgid "+ NEW CARD"
+msgstr "+ НОВАЯ КАРТА"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ ПОКУПАТЬ ПОДАРОЧНУЮ КАРТУ/КРЕДИТ В МАГАЗИНЕ"
+
+msgid "ADD"
+msgstr "ДОБАВЛЯТЬ"
+
+msgid "Accept"
+msgstr "Принимать"
+
+msgid "Account"
+msgstr "Счет"
+
+msgid "Account login"
+msgstr "Логин аккаунта"
+
+msgid "Account name"
+msgstr "Название аккаунта"
+
+msgid "Account registration"
+msgstr "Регистрация аккаунта"
+
+msgid "Add"
+msgstr "Добавлять"
+
+msgid "Additional information"
+msgstr "Дополнительная информация"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "После нажатия <b>Оплатить</b> появится окно, в котором вы можете ввести данные своей карты."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "После выбора <b>Оплатить</b> появится запрос на выбор банковского счета."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "После выбора <b>Оплатить</b> вы будете перенаправлены для завершения платежа."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "После выбора оплаты вы будете перенаправлены для завершения платежа."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "После выбора оплаты появится окно, в котором вы можете завершить платеж."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Еще один шаг появится после отправки вашего заказа, чтобы заполнить информацию о покупке."
+
+msgid "Apartment"
+msgstr "Квартира"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay выбран для оплаты."
+
+msgid "BILLING"
+msgstr "БИЛЛИНГ"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Bill to"
+msgstr "Плательщик"
+
+msgid "Billing"
+msgstr "Выставление счетов"
+
+msgid "Billing method"
+msgstr "Способ выставления счетов"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Нажимая <b>Принять</b>, вы разрешаете"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Нажимая кнопку выше, вы соглашаетесь"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Card"
+msgstr "Карта"
+
+msgid "Cart is empty"
+msgstr "Корзина пуста"
+
+msgid "Cheque"
+msgstr "Проверьте"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Close"
+msgstr "Закрывать"
+
+msgid "Continue"
+msgstr "Продолжать"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "County"
+msgstr "округ"
+
+msgid "Coupon"
+msgstr "Купон"
+
+msgid "Coupon code"
+msgstr "Код купона"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Customize"
+msgstr "Настроить"
+
+msgid "Delivery date"
+msgstr "Дата доставки"
+
+msgid "Done"
+msgstr "Сделанный"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Email"
+msgstr "Эл. адрес"
+
+msgid "Email or Username"
+msgstr "Электронная почта или имя пользователя"
+
+msgid "Exit checkout"
+msgstr "Выйти из кассы"
+
+msgid "First name"
+msgstr "Имя"
+
+msgid "First renewal"
+msgstr "Первое обновление"
+
+msgid "Gift card number"
+msgstr "Номер подарочной карты"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Для оплаты выбран Google Pay."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Я подтверждаю, что страна, в которую я въехал, является той, в которой я проживаю"
+
+msgid "Initial Shipment"
+msgstr "Первоначальная отгрузка"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Сохранить мою информацию для более быстрого оформления заказа"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "Login"
+msgstr "Авторизоваться"
+
+msgid "My cart"
+msgstr "Моя тележка"
+
+msgid "No thanks"
+msgstr "Спасибо, не надо"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Примечание. Платежи могут занять до 5 дней."
+
+msgid "Order notes"
+msgstr "Примечания к заказу"
+
+msgid "Order summary"
+msgstr "Итог заказа"
+
+msgid "PAYMENT"
+msgstr "ОПЛАТА"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Pay"
+msgstr "Платить"
+
+msgid "Pay with a cheque"
+msgstr "Оплатить чеком"
+
+msgid "Payment"
+msgstr "Оплата"
+
+msgid "Payment method"
+msgstr "Метод оплаты"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Оплата банковским переводом/банковским переводом"
+
+msgid "Personal"
+msgstr "Личный"
+
+msgid "Phone number"
+msgstr "Телефонный номер"
+
+msgid "Place order"
+msgstr "Разместить заказ"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Пожалуйста вернитесь и попробуйте снова. Отсутсвует необходимое поле"
+
+msgid "Postal code"
+msgstr "Почтовый Код"
+
+msgid "Powered by"
+msgstr "Питаться от"
+
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+msgid "Processing"
+msgstr "Обработка"
+
+msgid "Province"
+msgstr "Провинция"
+
+msgid "Purchase order"
+msgstr "Заказ на покупку"
+
+msgid "Recommended for you"
+msgstr "Рекомендуется для вас"
+
+msgid "Recurring total"
+msgstr "Общая сумма"
+
+msgid "Register"
+msgstr "регистр"
+
+msgid "Remove"
+msgstr "Удалять"
+
+msgid "Return"
+msgstr "Возвращаться"
+
+msgid "Review your information"
+msgstr "Проверьте свою информацию"
+
+msgid "SHIPPING"
+msgstr "ПЕРЕВОЗКИ"
+
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+msgid "Select a country"
+msgstr "Выберите страну"
+
+msgid "Select a province"
+msgstr "Выберите провинцию"
+
+msgid "Select a state"
+msgstr "Выберите штат"
+
+msgid "Ship to"
+msgstr "Доставить"
+
+msgid "Shipping"
+msgstr "Перевозки"
+
+msgid "Shipping method"
+msgstr "Способ доставки"
+
+msgid "State"
+msgstr "Состояние"
+
+msgid "Street address"
+msgstr "адрес улицы"
+
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+msgid "Tax"
+msgstr "налог"
+
+msgid "Terms of Service"
+msgstr "условия обслуживания"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Тестовый режим: клиенты не видят PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Требуемый мандат не был принят. Платеж отменен."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Для этого заказа нет подходящих или активных способов оплаты."
+
+msgid "There are no payment methods available"
+msgstr "Нет доступных способов оплаты"
+
+msgid "There are no shipping methods available"
+msgstr "Нет доступных способов доставки"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Этот способ оплаты не поддерживает выбранную валюту, при нажатии на это сообщение валюта изменится на"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Этот способ оплаты не поддерживает выбранную валюту. При выборе этого валюта переключится на"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Этот способ оплаты не поддерживает выбранную валюту. Пожалуйста, переключите валюту."
+
+msgid "Total"
+msgstr "Общее"
+
+msgid "US bank account"
+msgstr "банковский счет в США"
+
+msgid "Unknown order error occurred"
+msgstr "Произошла неизвестная ошибка заказа"
+
+msgid "Use different shipping address"
+msgstr "Использовать другой адрес доставки"
+
+msgid "VIEW SAVED CARDS"
+msgstr "ПОСМОТРЕТЬ СОХРАНЕННЫЕ КАРТЫ"
+
+msgid "Verified"
+msgstr "проверено"
+
+msgid "View options"
+msgstr "Параметры просмотра"
+
+msgid "Wire/Bank Transfer"
+msgstr "Банковский перевод/банковский перевод"
+
+msgid "You entered an invalid coupon code"
+msgstr "Вы ввели неверный код купона"
+
+msgid "You entered an invalid gift card"
+msgstr "Вы ввели недействительную подарочную карту"
+
+msgid "additional"
+msgstr "дополнительный"
+
+msgid "and"
+msgstr "и"
+
+msgid "apply"
+msgstr "подать заявление"
+
+msgid "each"
+msgstr "каждый"
+
+msgid "iDEAL Bank"
+msgstr "ИДЕАЛ Банк"
+
+msgid "privacy policy"
+msgstr "политика конфиденциальности"
+
+msgid "pursuant to"
+msgstr "в соответствии с"
+
+msgid "services and/or purchase of products from "
+msgstr "услуги и/или покупка товаров у"
+
+msgid "terms"
+msgstr "условия"
+
+msgid "terms and conditions"
+msgstr "условия и положения"
+
+msgid "the"
+msgstr "в"
+
+msgid "the store's"
+msgstr "магазины"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "дебетовать банковский счет, указанный выше, на любую сумму, причитающуюся за сборы, возникающие в результате использования вами"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "веб-сайт и условия, пока это разрешение не будет отозвано. Вы можете изменить или отменить это разрешение в любое время, уведомив"
+
+msgid "with 30 (thirty) days notice."
+msgstr "с уведомлением за 30 (тридцать) дней."

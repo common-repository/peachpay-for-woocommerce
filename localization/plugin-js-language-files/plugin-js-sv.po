@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+
+msgid "+ Add new option"
+msgstr "+ Lägg till nytt alternativ"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Är du säker på att du vill lägga till alla valutor som stöds? Detta kommer att ersätta den nuvarande tabellen."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Är du säker på att du vill rensa alla valutor?"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Välj vilken typ av fält som ska läggas till. En \"Välj\" är en rullgardinsmeny och \"Radio\" är en uppsättning bubblor som du kan välja ett alternativ från."
+
+msgid "Default value:"
+msgstr "Standardvärde:"
+
+msgid "Display in Order Detail"
+msgstr "Visa i beställningsdetalj"
+
+msgid "Display in email"
+msgstr "Visas i e-post"
+
+msgid "Enable"
+msgstr "Gör det möjligt"
+
+msgid "Feedback"
+msgstr "Respons"
+
+msgid "Field details"
+msgstr "Fältdetaljer"
+
+msgid "I couldn't get the plugin to work"
+msgstr "Jag kunde inte få pluginet att fungera"
+
+msgid "I found a better plugin"
+msgstr "Jag hittade ett bättre plugin"
+
+msgid "I no longer need the plugin"
+msgstr "Jag behöver inte längre plugin"
+
+msgid "Label:"
+msgstr "Märka:"
+
+msgid "Name:"
+msgstr "Namn:"
+
+msgid "Other"
+msgstr "Övrig"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Hjälp oss förstå att PeachPay inte fungerade för dig"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Välj de återstående produktalternativen innan du lägger till detta paket i din varukorg."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Välj de återstående produktalternativen innan du lägger till denna produkt i din varukorg."
+
+msgid "Please share which plugin"
+msgstr "Dela gärna vilket plugin"
+
+msgid "Please share your reason"
+msgstr "Dela gärna din anledning"
+
+msgid "Required"
+msgstr "Nödvändig"
+
+msgid "Skip & deactivate"
+msgstr "Hoppa över och avaktivera"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Förlåt, något gick fel. Uppdatera sidan och försök igen."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Tyvärr är denna produkt slut i lager."
+
+msgid "Submit"
+msgstr "Skicka in"
+
+msgid "Submit & deactivate"
+msgstr "Skicka & avaktivera"
+
+msgid "Temporary deactivation"
+msgstr "Tillfällig avaktivering"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "Bredden tar hänsyn till fälten bredvid i fältredigeraren. Till exempel, om de två fälten ligger bredvid varandra i fältredigeraren, och de båda är inställda på 50 %, kommer de att visas sida vid sida i kassan."
+
+msgid "This gift card has no money left."
+msgstr "Detta presentkort har inga pengar kvar."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Detta är vad som kommer att visas i kassafönstret och på kassasidan."
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Du kan kontakta support@peachpay.app eller använda"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Du kan ange ett värde för detta fält som redan ska vara ifyllt när kunden öppnar kassan."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Du kan använda vad som helst, men det måste skilja sig från de andra fälten. Om du inte försöker vara kompatibel med ett annat plugin kan du helt enkelt skriva in etiketten."
+
+msgid "support chat"
+msgstr "supportchatt"

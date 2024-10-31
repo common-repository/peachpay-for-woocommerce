@@ -1,0 +1,3 @@
+frontend/@shared/component-scss/*
+frontend/@shared/tokens/*
+frontend/@shared/scss/variants.scss

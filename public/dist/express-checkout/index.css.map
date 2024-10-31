@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":"AACA,oCACC,aACA,mBACA,2BAEA,Q","sources":["webpack://peachpay-for-woocommerce/./core/modules/express-checkout/blocks/src/editor.scss"],"sourcesContent":["\n.wp-block-peachpay-express-checkout {\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: flex-start;\n\n\tgap: 8px;\n}\n"],"names":[],"sourceRoot":""}

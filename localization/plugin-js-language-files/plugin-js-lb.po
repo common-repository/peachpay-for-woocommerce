@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lb\n"
+
+msgid "+ Add new option"
+msgstr "+ Füügt nei Optioun"
+
+msgid "Are you sure you want to add all supported currencies? This will replace the current table."
+msgstr "Sidd Dir sécher, datt Dir all ënnerstëtzt Währungen derbäi wëllt? Dëst ersetzt den aktuellen Dësch."
+
+msgid "Are you sure you want to clear all currencies?"
+msgstr "Sidd Dir sécher datt Dir all Währungen läschen wëllt?"
+
+msgid "Cancel"
+msgstr "Ofbriechen"
+
+msgid "Choose the type of field to add. A “Select” is a drop down menu, and “Radio” is a set of bubbles that you can choose one option from."
+msgstr "Wielt d'Zort vum Feld fir ze addéieren. E \"Auswielen\" ass en Dropdown-Menü, a \"Radio\" ass eng Rei vu Bubbles, aus deenen Dir eng Optioun auswielen kënnt."
+
+msgid "Default value:"
+msgstr "Standardwäert:"
+
+msgid "Display in Order Detail"
+msgstr "Affichéieren am Bestellung Detail"
+
+msgid "Display in email"
+msgstr "Display an der E-Mail"
+
+msgid "Enable"
+msgstr "Aktivéieren"
+
+msgid "Feedback"
+msgstr "Feedback"
+
+msgid "Field details"
+msgstr "Feld Detailer"
+
+msgid "I couldn't get the plugin to work"
+msgstr "Ech konnt de Plugin net schaffen"
+
+msgid "I found a better plugin"
+msgstr "Ech hunn e bessere Plugin fonnt"
+
+msgid "I no longer need the plugin"
+msgstr "Ech brauch de Plugin net méi"
+
+msgid "Label:"
+msgstr "Label:"
+
+msgid "Name:"
+msgstr "Numm:"
+
+msgid "Other"
+msgstr "Aner"
+
+msgid "Please help us understand PeachPay didn't work for you"
+msgstr "Hëlleft eis w.e.g. ze verstoen datt PeachPay net fir Iech geschafft huet"
+
+msgid "Please select the remaining product options before adding this bundle to your cart."
+msgstr "Wielt w.e.g. déi verbleiwen Produktoptiounen ier Dir dëse Bündel an Äre Wuerekuerf bäidréit."
+
+msgid "Please select the remaining product options before adding this product to your cart."
+msgstr "Wielt w.e.g. déi verbleiwen Produktoptiounen ier Dir dëst Produkt an Äre Weenchen bäidréit."
+
+msgid "Please share which plugin"
+msgstr "Deelt w.e.g. wéi ee Plugin"
+
+msgid "Please share your reason"
+msgstr "Deelt w.e.g. Äre Grond"
+
+msgid "Required"
+msgstr "Néideg"
+
+msgid "Skip & deactivate"
+msgstr "Sprangen & deaktivéieren"
+
+msgid "Sorry, something went wrong. Please refresh the page and try again."
+msgstr "Entschëllegt, eppes ass falsch gaang. Erfrëscht w.e.g. d'Säit a probéiert nach eng Kéier."
+
+msgid "Sorry, this product is out of stock."
+msgstr "Entschëllegt, dëst Produkt ass net op Lager."
+
+msgid "Submit"
+msgstr "Ofginn"
+
+msgid "Submit & deactivate"
+msgstr "Ofschécken & deaktivéieren"
+
+msgid "Temporary deactivation"
+msgstr "Temporär Deaktivéierung"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "The width takes into account the fields next to it in the field editor. For example, if the two fields are next to each other in the field editor, and they are both set to 50%, in the checkout they will be displayed side-by-side."
+msgstr "D'Breet berücksichtegt d'Felder niewendrun am Feldeditor. Zum Beispill, wann déi zwee Felder niefteneen am Feldeditor sinn, a si sinn allebéid op 50% gesat, an der Kees ginn se niewentenee ugewisen."
+
+msgid "This gift card has no money left."
+msgstr "Dës Kaddokaart huet keng Sue méi."
+
+msgid "This is what will show in the checkout window and on the checkout page."
+msgstr "Dëst ass wat an der Kassefenster an op der Kassesäit wäert weisen."
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "You can contact support@peachpay.app or use the"
+msgstr "Dir kënnt kontaktéieren support@peachpay.app oder benotzen"
+
+msgid "You can set a value for this field that should be already prefilled when the shopper opens the checkout."
+msgstr "Dir kënnt e Wäert fir dëst Feld astellen, dee scho virausgefëllt sollt sinn wann de Shopper d'Kasse opmaacht."
+
+msgid "You can use anything, but it must be different from the other fields. If you are not trying to be compatible with another plugin, you can simply type the label."
+msgstr "Dir kënnt alles benotzen, awer et muss anescht sinn wéi déi aner Felder. Wann Dir net probéiert mat engem anere Plugin kompatibel ze sinn, kënnt Dir einfach de Label tippen."
+
+msgid "support chat"
+msgstr "Ënnerstëtzung Chat"

@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ AJOUTER UN CODE PROMO"
+
+msgid "+ COUPON"
+msgstr "+ COUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ NOUVELLE CARTE"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ ÉCHANGER UNE CARTE-CADEAU OU UN CRÉDIT D’ACHAT"
+
+msgid "ADD"
+msgstr "AJOUTER"
+
+msgid "Accept"
+msgstr "Accepter"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Account login"
+msgstr "Connexion au compte"
+
+msgid "Account name"
+msgstr "Nom du compte"
+
+msgid "Account registration"
+msgstr "Enregistrement du Compte"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Additional information"
+msgstr "Informations Complémentaires"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Après avoir cliqué sur <b>Payer</b>, une fenêtre apparaîtra dans laquelle vous pourrez saisir les informations de votre carte."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Après avoir sélectionné <b>Payer</b>, une invite apparaîtra pour sélectionner un compte bancaire."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Après avoir sélectionné <b>Payer</b>, vous serez redirigé pour effectuer votre paiement."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Après avoir sélectionné “payer”, vous serez redirigé pour terminer votre paiement."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Après avoir sélectionné payer, une fenêtre apparaîtra où vous pourrez effectuer votre paiement."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Une autre étape apparaîtra après avoir soumis votre commande pour compléter les détails de votre achat."
+
+msgid "Apartment"
+msgstr "L’appartement"
+
+msgid "Apple Pay"
+msgstr "Payer Apple"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay sélectionné pour le paiement."
+
+msgid "BILLING"
+msgstr "FACTURATION"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Bill to"
+msgstr "facturer"
+
+msgid "Billing"
+msgstr "La facturation"
+
+msgid "Billing method"
+msgstr "Méthode de facturation"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "En cliquant sur <b>Accepter</b>, vous autorisez"
+
+msgid "By clicking the button above, you agree to"
+msgstr "En cliquant sur le bouton ci-dessus, vous acceptez"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Card"
+msgstr "La carte"
+
+msgid "Cart is empty"
+msgstr "Le panier est vide"
+
+msgid "Cheque"
+msgstr "Chèque"
+
+msgid "City"
+msgstr "La ville"
+
+msgid "Close"
+msgstr "proche"
+
+msgid "Continue"
+msgstr "Continuer"
+
+msgid "Country"
+msgstr "Les Pays"
+
+msgid "County"
+msgstr "Comté"
+
+msgid "Coupon"
+msgstr "Coupon"
+
+msgid "Coupon code"
+msgstr "Code promo"
+
+msgid "Currency"
+msgstr "Devise"
+
+msgid "Customize"
+msgstr "Personnaliser"
+
+msgid "Delivery date"
+msgstr "La date de livraison"
+
+msgid "Done"
+msgstr "Fait"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email or Username"
+msgstr "E-mail ou nom d'utilisateur"
+
+msgid "Exit checkout"
+msgstr "Quitter la caisse"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "First renewal"
+msgstr "Premier renouvellement"
+
+msgid "Gift card number"
+msgstr "Numéro de la carte-cadeau"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay sélectionné pour le paiement."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Je vérifie que le pays que j'ai entré est celui dans lequel je réside"
+
+msgid "Initial Shipment"
+msgstr "Expédition initiale"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Conserver mes informations enregistrées pour un paiement plus rapide"
+
+msgid "Last name"
+msgstr "Nom de famille"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "My cart"
+msgstr "Mon panier"
+
+msgid "No thanks"
+msgstr "Non merci"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Remarque : Les paiements peuvent prendre jusqu'à 5 jours pour être effectués."
+
+msgid "Order notes"
+msgstr "Notes d'ordre"
+
+msgid "Order summary"
+msgstr "Récapitulatif de la commande"
+
+msgid "PAYMENT"
+msgstr "PAIEMENT"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Pay"
+msgstr "Payer"
+
+msgid "Pay with a cheque"
+msgstr "Payer par chèque"
+
+msgid "Payment"
+msgstr "Paiement"
+
+msgid "Payment method"
+msgstr "Mode de paiement"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Paiement par fil/virement bancaire"
+
+msgid "Personal"
+msgstr "Personnel"
+
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+msgid "Place order"
+msgstr "Passer la commande"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Réessayer. Champ obligatoire manquant"
+
+msgid "Postal code"
+msgstr "Code Postal"
+
+msgid "Powered by"
+msgstr "Alimenté par"
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "Processing"
+msgstr "Traitement"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Purchase order"
+msgstr "Bon de commande"
+
+msgid "Recommended for you"
+msgstr "Recommandé pour vous"
+
+msgid "Recurring total"
+msgstr "Coût récurrent"
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Remove"
+msgstr "Effacer"
+
+msgid "Return"
+msgstr "Revenir"
+
+msgid "Review your information"
+msgstr "Vérifiez vos informations"
+
+msgid "SHIPPING"
+msgstr "EXPÉDITION"
+
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+msgid "Select a country"
+msgstr "Choisissez un pays"
+
+msgid "Select a province"
+msgstr "Sélectionnez une province"
+
+msgid "Select a state"
+msgstr "Sélectionner un état"
+
+msgid "Ship to"
+msgstr "Envoyez à"
+
+msgid "Shipping"
+msgstr "Expédition"
+
+msgid "Shipping method"
+msgstr "Mode de livraison"
+
+msgid "State"
+msgstr "L’état"
+
+msgid "Street address"
+msgstr "Adresse de la rue"
+
+msgid "Subtotal"
+msgstr "Sous-total"
+
+msgid "Tax"
+msgstr "L’impôt"
+
+msgid "Terms of Service"
+msgstr "Conditions d'utilisation"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Mode test : les clients ne peuvent pas voir PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Le mandat requis n'a pas été accepté. Paiement annulé."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Aucun mode de paiement éligible ou actif n'est disponible pour cette commande."
+
+msgid "There are no payment methods available"
+msgstr "Il n'y a pas de méthodes de paiement disponibles"
+
+msgid "There are no shipping methods available"
+msgstr "Il n'y a pas de méthodes d'expédition disponibles"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Ce mode de paiement ne prend pas en charge la devise sélectionnée, en cliquant sur ce message, la devise passera à"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Ce mode de paiement ne prend pas en charge la devise sélectionnée. En sélectionnant ceci, la devise passera à"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Ce mode de paiement ne prend pas en charge la devise sélectionnée. Veuillez changer de devise."
+
+msgid "Total"
+msgstr "Coûte"
+
+msgid "US bank account"
+msgstr "compte bancaire américain"
+
+msgid "Unknown order error occurred"
+msgstr "Une erreur de commande inconnue s'est produite"
+
+msgid "Use different shipping address"
+msgstr "Utiliser une adresse de livraison différente"
+
+msgid "VIEW SAVED CARDS"
+msgstr "VOIR LES CARTES SAUVEGARDÉES"
+
+msgid "Verified"
+msgstr "Vérifié"
+
+msgid "View options"
+msgstr "Options d'affichage"
+
+msgid "Wire/Bank Transfer"
+msgstr "Virement bancaire/virement bancaire"
+
+msgid "You entered an invalid coupon code"
+msgstr "Vous avez saisi un code de coupon invalide"
+
+msgid "You entered an invalid gift card"
+msgstr "Vous avez entré une carte-cadeau invalide"
+
+msgid "additional"
+msgstr "Additionnel"
+
+msgid "and"
+msgstr "et"
+
+msgid "apply"
+msgstr "appliquer"
+
+msgid "each"
+msgstr "chaque"
+
+msgid "iDEAL Bank"
+msgstr "Banque idéale"
+
+msgid "privacy policy"
+msgstr "La politique de confidentialité"
+
+msgid "pursuant to"
+msgstr "conformément à"
+
+msgid "services and/or purchase of products from "
+msgstr "services et/ou achat de produits auprès de"
+
+msgid "terms"
+msgstr "Les termes"
+
+msgid "terms and conditions"
+msgstr "Les termes et conditions"
+
+msgid "the"
+msgstr "la"
+
+msgid "the store's"
+msgstr "les magasins"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "de débiter le compte bancaire spécifié ci-dessus de tout montant dû pour les frais découlant de votre utilisation de"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "le site Web et les conditions, jusqu'à ce que cette autorisation soit révoquée. Vous pouvez modifier ou annuler cette autorisation à tout moment en avisant"
+
+msgid "with 30 (thirty) days notice."
+msgstr "avec un préavis de 30 (trente) jours."

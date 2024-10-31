@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ LÄGG TILL EN KUPONGKOD"
+
+msgid "+ COUPON"
+msgstr "+ KUPONG"
+
+msgid "+ NEW CARD"
+msgstr "+ NYTT KORT"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ LÖS IN PRESENTKORT/BUTIKKREDIT"
+
+msgid "ADD"
+msgstr "LÄGG TILL"
+
+msgid "Accept"
+msgstr "Acceptera"
+
+msgid "Account"
+msgstr "konto"
+
+msgid "Account login"
+msgstr "Kontoinloggning"
+
+msgid "Account name"
+msgstr "Kontonamn"
+
+msgid "Account registration"
+msgstr "Kontoregistrering"
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "Additional information"
+msgstr "Ytterligare information"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Efter att ha klickat på <b>Betala</b> visas ett fönster där du kan ange din kortinformation."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "När du har valt <b>Betala</b> visas en uppmaning om att välja ett bankkonto."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "När du har valt <b>Betala</b> kommer du att omdirigeras för att slutföra din betalning."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "När du har valt betala kommer du att omdirigeras för att slutföra din betalning."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Efter att ha valt betalning kommer ett fönster upp där du kan slutföra din betalning."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Ett annat steg visas efter att du har skickat din beställning för att slutföra dina köpuppgifter."
+
+msgid "Apartment"
+msgstr "Lägenhet"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay har valts för kassan."
+
+msgid "BILLING"
+msgstr "FAKTURERING"
+
+msgid "Back"
+msgstr "Tillbaka"
+
+msgid "Bill to"
+msgstr "Bill till"
+
+msgid "Billing"
+msgstr "Fakturering"
+
+msgid "Billing method"
+msgstr "Faktureringsmetod"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Genom att klicka på <b>Acceptera</b> godkänner du"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Genom att klicka på knappen ovan godkänner du"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Card"
+msgstr "Kort"
+
+msgid "Cart is empty"
+msgstr "Varukorgen är tom"
+
+msgid "Cheque"
+msgstr "Kolla upp"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Close"
+msgstr "Stänga"
+
+msgid "Continue"
+msgstr "Fortsätta"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "County"
+msgstr "Grevskap"
+
+msgid "Coupon"
+msgstr "Kupong"
+
+msgid "Coupon code"
+msgstr "Kupongskod"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Customize"
+msgstr "Anpassa"
+
+msgid "Delivery date"
+msgstr "Leveransdatum"
+
+msgid "Done"
+msgstr "Gjort"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Email or Username"
+msgstr "Email eller användarnamn"
+
+msgid "Exit checkout"
+msgstr "Gå ur kassan"
+
+msgid "First name"
+msgstr "Förnamn"
+
+msgid "First renewal"
+msgstr "Första förnyelsen"
+
+msgid "Gift card number"
+msgstr "Presentkortsnummer"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay har valts för kassan."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Jag verifierar att det land jag har angett är det jag bor i"
+
+msgid "Initial Shipment"
+msgstr "Första leverans"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Håll min information sparad för en snabbare utcheckning"
+
+msgid "Last name"
+msgstr "Efternamn"
+
+msgid "Login"
+msgstr "Logga in"
+
+msgid "My cart"
+msgstr "Min vagn"
+
+msgid "No thanks"
+msgstr "Nej tack"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Obs! Det kan ta upp till 5 dagar att slutföra betalningar."
+
+msgid "Order notes"
+msgstr "Beställ anteckningar"
+
+msgid "Order summary"
+msgstr "Ordersammanfattning"
+
+msgid "PAYMENT"
+msgstr "BETALNING"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Pay"
+msgstr "Betala"
+
+msgid "Pay with a cheque"
+msgstr "Betala med check"
+
+msgid "Payment"
+msgstr "Betalning"
+
+msgid "Payment method"
+msgstr "Betalningsmetod"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Betalning via banköverföring"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Place order"
+msgstr "Beställa"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Gå tillbaka och försök igen. Ett nödvändigt fält saknas"
+
+msgid "Postal code"
+msgstr "Postnummer"
+
+msgid "Powered by"
+msgstr "Drivs av"
+
+msgid "Privacy Policy"
+msgstr "Integritetspolicy"
+
+msgid "Processing"
+msgstr "Bearbetning"
+
+msgid "Province"
+msgstr "Provins"
+
+msgid "Purchase order"
+msgstr "Inköpsorder"
+
+msgid "Recommended for you"
+msgstr "Rekommenderat för dig"
+
+msgid "Recurring total"
+msgstr "Återkommande totalt"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Return"
+msgstr "Lämna tillbaka"
+
+msgid "Review your information"
+msgstr "Se över din information"
+
+msgid "SHIPPING"
+msgstr "FRAKT"
+
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+msgid "Select a country"
+msgstr "Välj ett land"
+
+msgid "Select a province"
+msgstr "Välj en provins"
+
+msgid "Select a state"
+msgstr "Välj en stat"
+
+msgid "Ship to"
+msgstr "Frakta till"
+
+msgid "Shipping"
+msgstr "Frakt"
+
+msgid "Shipping method"
+msgstr "Frakt metod"
+
+msgid "State"
+msgstr "stat"
+
+msgid "Street address"
+msgstr "Gatuadress"
+
+msgid "Subtotal"
+msgstr "Delsumma"
+
+msgid "Tax"
+msgstr "Beskatta"
+
+msgid "Terms of Service"
+msgstr "Användarvillkor"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Testläge: kunder kan inte se PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Det erforderliga mandatet accepterades inte. Betalning avbruten."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Det finns inga kvalificerade eller aktiva betalningsmetoder tillgängliga för denna beställning."
+
+msgid "There are no payment methods available"
+msgstr "Det finns inga tillgängliga betalningsmetoder"
+
+msgid "There are no shipping methods available"
+msgstr "Det finns inga tillgängliga leveransmetoder"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Den här betalningsmetoden stöder inte den valda valutan, när du klickar på detta meddelande kommer valutan att växla till"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Denna betalningsmetod stöder inte den valda valutan. När du väljer detta kommer valutan att växla till"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Denna betalningsmetod stöder inte den valda valutan. Vänligen byt valuta."
+
+msgid "Total"
+msgstr "Total"
+
+msgid "US bank account"
+msgstr "amerikanskt bankkonto"
+
+msgid "Unknown order error occurred"
+msgstr "Okänt beställningsfel uppstod"
+
+msgid "Use different shipping address"
+msgstr "Använd annan leveransadress"
+
+msgid "VIEW SAVED CARDS"
+msgstr "VISA SPARADE KORT"
+
+msgid "Verified"
+msgstr "Verifierad"
+
+msgid "View options"
+msgstr "Visa alternativ"
+
+msgid "Wire/Bank Transfer"
+msgstr "Banköverföring"
+
+msgid "You entered an invalid coupon code"
+msgstr "Du angav en ogiltig kupongkod"
+
+msgid "You entered an invalid gift card"
+msgstr "Du angav ett ogiltigt presentkort"
+
+msgid "additional"
+msgstr "ytterligare"
+
+msgid "and"
+msgstr "och"
+
+msgid "apply"
+msgstr "tillämpa"
+
+msgid "each"
+msgstr "varje"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "integritetspolicy"
+
+msgid "pursuant to"
+msgstr "enligt"
+
+msgid "services and/or purchase of products from "
+msgstr "tjänster och/eller köp av produkter från"
+
+msgid "terms"
+msgstr "villkor"
+
+msgid "terms and conditions"
+msgstr "Villkor"
+
+msgid "the"
+msgstr "de"
+
+msgid "the store's"
+msgstr "affärerna"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "att debitera bankkontot som anges ovan för eventuellt belopp som är skyldigt för avgifter som härrör från din användning av"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "webbplats och villkor, tills detta tillstånd återkallas. Du kan när som helst ändra eller avbryta denna auktorisation genom att meddela"
+
+msgid "with 30 (thirty) days notice."
+msgstr "med 30 (trettio) dagars varsel."

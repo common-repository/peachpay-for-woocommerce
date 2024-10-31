@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+
+msgid "+ ADD A COUPON CODE"
+msgstr "+ TILFØJ EN KUPONKODE"
+
+msgid "+ COUPON"
+msgstr "+ KUPON"
+
+msgid "+ NEW CARD"
+msgstr "+ NYT KORT"
+
+msgid "+ REDEEM GIFT CARD/STORE CREDIT"
+msgstr "+ INDLØS GAVEKORT/BUTIKSKREDIT"
+
+msgid "ADD"
+msgstr "TILFØJE"
+
+msgid "Accept"
+msgstr "Acceptere"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account login"
+msgstr "Konto login"
+
+msgid "Account name"
+msgstr "Kontonavn"
+
+msgid "Account registration"
+msgstr "Kontoregistrering"
+
+msgid "Add"
+msgstr "Tilføje"
+
+msgid "Additional information"
+msgstr "Yderligere Information"
+
+msgid "After clicking <b>Pay</b>, a window will appear where you can enter your card information."
+msgstr "Når du har klikket på <b>Betal</b>, vises et vindue, hvor du kan indtaste dine kortoplysninger."
+
+msgid "After selecting <b>Pay</b> a prompt will appear to select a bank account."
+msgstr "Når du har valgt <b>Betal</b>, vises en prompt for at vælge en bankkonto."
+
+msgid "After selecting <b>Pay</b> you will be redirected to complete your payment."
+msgstr "Når du har valgt <b>Betal</b>, bliver du omdirigeret til at gennemføre din betaling."
+
+msgid "After selecting pay you will be redirected to complete your payment."
+msgstr "Når du har valgt betaling, bliver du omdirigeret til at gennemføre din betaling."
+
+msgid "After selecting pay, a window will appear where you can complete your payment."
+msgstr "Når du har valgt betal, kommer der et vindue frem, hvor du kan gennemføre din betaling."
+
+msgid "Another step will appear after submitting your order to complete your purchase details."
+msgstr "Et andet trin vises efter indsendelse af din ordre for at fuldføre dine købsoplysninger."
+
+msgid "Apartment"
+msgstr "Lejlighed"
+
+msgid "Apple Pay"
+msgstr "Apple Pay"
+
+msgid "Apple Pay selected for checkout."
+msgstr "Apple Pay valgt til kassen."
+
+msgid "BILLING"
+msgstr "FAKTURERING"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "Bill to"
+msgstr "Regning til"
+
+msgid "Billing"
+msgstr "Fakturering"
+
+msgid "Billing method"
+msgstr "Faktureringsmetode"
+
+msgid "By clicking <b>Accept</b>, you authorize"
+msgstr "Ved at klikke på <b>Acceptér</b> godkender du"
+
+msgid "By clicking the button above, you agree to"
+msgstr "Ved at klikke på knappen ovenfor accepterer du"
+
+msgid "Cancel"
+msgstr "Afbestille"
+
+msgid "Card"
+msgstr "Kort"
+
+msgid "Cart is empty"
+msgstr "Kurven er tom"
+
+msgid "Cheque"
+msgstr "Kontrollere"
+
+msgid "City"
+msgstr "By"
+
+msgid "Close"
+msgstr "Tæt"
+
+msgid "Continue"
+msgstr "Blive ved"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "County"
+msgstr "Amt"
+
+msgid "Coupon"
+msgstr "Kupon"
+
+msgid "Coupon code"
+msgstr "Kuponkode"
+
+msgid "Currency"
+msgstr "betalingsmiddel"
+
+msgid "Customize"
+msgstr "Tilpas"
+
+msgid "Delivery date"
+msgstr "Leveringsdato"
+
+msgid "Done"
+msgstr "Færdig"
+
+msgid "Edit"
+msgstr "Redigere"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email or Username"
+msgstr "E-mail eller brugernavn"
+
+msgid "Exit checkout"
+msgstr "Afslut kassen"
+
+msgid "First name"
+msgstr "Fornavn"
+
+msgid "First renewal"
+msgstr "Første fornyelse"
+
+msgid "Gift card number"
+msgstr "Gavekort nummer"
+
+msgid "Google Pay"
+msgstr "Google Pay"
+
+msgid "Google Pay selected for checkout."
+msgstr "Google Pay er valgt til kassen."
+
+msgid "I verify that the country I have entered is the one I reside in"
+msgstr "Jeg bekræfter, at det land, jeg har indtastet, er det, jeg bor i"
+
+msgid "Initial Shipment"
+msgstr "Indledende forsendelse"
+
+msgid "Keep my information saved for a faster checkout"
+msgstr "Gem mine oplysninger for hurtigere betaling"
+
+msgid "Last name"
+msgstr "Efternavn"
+
+msgid "Login"
+msgstr "Log på"
+
+msgid "My cart"
+msgstr "Min vogn"
+
+msgid "No thanks"
+msgstr "Nej tak"
+
+msgid "Note: Payments may take up to 5 days to complete."
+msgstr "Bemærk: Det kan tage op til 5 dage at gennemføre betalinger."
+
+msgid "Order notes"
+msgstr "Bestillingssedler"
+
+msgid "Order summary"
+msgstr "Ordreoversigt"
+
+msgid "PAYMENT"
+msgstr "BETALING"
+
+msgid "Password"
+msgstr "Adgangskode"
+
+msgid "Pay"
+msgstr "Betale"
+
+msgid "Pay with a cheque"
+msgstr "Betal med en check"
+
+msgid "Payment"
+msgstr "Betaling"
+
+msgid "Payment method"
+msgstr "Betalingsmetode"
+
+msgid "Payment via Wire/Bank Transfer"
+msgstr "Betaling via bankoverførsel"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Place order"
+msgstr "Angiv bestilling"
+
+msgid "Please go back and try again. Missing required field"
+msgstr "Gå venligst tilbage og prøv igen. Mangler obligatorisk felt"
+
+msgid "Postal code"
+msgstr "Postnummer"
+
+msgid "Powered by"
+msgstr "Drevet af"
+
+msgid "Privacy Policy"
+msgstr "Fortrolighedspolitik"
+
+msgid "Processing"
+msgstr "Forarbejdning"
+
+msgid "Province"
+msgstr "Provins"
+
+msgid "Purchase order"
+msgstr "Indkøbsordre"
+
+msgid "Recommended for you"
+msgstr "anbefalet til dig"
+
+msgid "Recurring total"
+msgstr "Tilbagevendende total"
+
+msgid "Register"
+msgstr "Tilmeld"
+
+msgid "Remove"
+msgstr "Fjerne"
+
+msgid "Return"
+msgstr "Vend tilbage"
+
+msgid "Review your information"
+msgstr "Gennemgå dine oplysninger"
+
+msgid "SHIPPING"
+msgstr "FORSENDELSE"
+
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+msgid "Select a country"
+msgstr "Vælg et land"
+
+msgid "Select a province"
+msgstr "Vælg en provins"
+
+msgid "Select a state"
+msgstr "Vælg en stat"
+
+msgid "Ship to"
+msgstr "Send til"
+
+msgid "Shipping"
+msgstr "Forsendelse"
+
+msgid "Shipping method"
+msgstr "Fragtmetode"
+
+msgid "State"
+msgstr "Stat"
+
+msgid "Street address"
+msgstr "Vejnavn"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax"
+msgstr "Skat"
+
+msgid "Terms of Service"
+msgstr "Servicevilkår"
+
+msgid "Test mode: customers cannot see PeachPay"
+msgstr "Testtilstand: kunder kan ikke se PeachPay"
+
+msgid "The required mandate was not accepted. Payment canceled."
+msgstr "Det nødvendige mandat blev ikke accepteret. Betaling annulleret."
+
+msgid "There are no eligible or active payment methods available for this order."
+msgstr "Der er ingen kvalificerede eller aktive betalingsmetoder tilgængelige for denne ordre."
+
+msgid "There are no payment methods available"
+msgstr "Der er ingen tilgængelige betalingsmetoder"
+
+msgid "There are no shipping methods available"
+msgstr "Der er ingen tilgængelige forsendelsesmetoder"
+
+msgid "This payment method does not support the selected currency, on clicking this message the currency will switch to"
+msgstr "Denne betalingsmetode understøtter ikke den valgte valuta, ved at klikke på denne meddelelse skifter valutaen til"
+
+msgid "This payment method does not support the selected currency. On selecting this, the currency will switch to"
+msgstr "Denne betalingsmetode understøtter ikke den valgte valuta. Når du vælger dette, skifter valutaen til"
+
+msgid "This payment method does not support the selected currency. Please switch currencies."
+msgstr "Denne betalingsmetode understøtter ikke den valgte valuta. Skift venligst valuta."
+
+msgid "Total"
+msgstr "i alt"
+
+msgid "US bank account"
+msgstr "amerikansk bankkonto"
+
+msgid "Unknown order error occurred"
+msgstr "Ukendt ordrefejl opstod"
+
+msgid "Use different shipping address"
+msgstr "Brug en anden leveringsadresse"
+
+msgid "VIEW SAVED CARDS"
+msgstr "SE GEMTE KORT"
+
+msgid "Verified"
+msgstr "Verificeret"
+
+msgid "View options"
+msgstr "Se muligheder"
+
+msgid "Wire/Bank Transfer"
+msgstr "Bankoverførsel"
+
+msgid "You entered an invalid coupon code"
+msgstr "Du har indtastet en ugyldig kuponkode"
+
+msgid "You entered an invalid gift card"
+msgstr "Du har indtastet et ugyldigt gavekort"
+
+msgid "additional"
+msgstr "ekstra"
+
+msgid "and"
+msgstr "og"
+
+msgid "apply"
+msgstr "ansøge"
+
+msgid "each"
+msgstr "hver"
+
+msgid "iDEAL Bank"
+msgstr "iDEAL Bank"
+
+msgid "privacy policy"
+msgstr "Fortrolighedspolitik"
+
+msgid "pursuant to"
+msgstr "i henhold til"
+
+msgid "services and/or purchase of products from "
+msgstr "tjenester og/eller køb af produkter fra"
+
+msgid "terms"
+msgstr "vilkår"
+
+msgid "terms and conditions"
+msgstr "vilkår og betingelser"
+
+msgid "the"
+msgstr "det"
+
+msgid "the store's"
+msgstr "butikkens"
+
+msgid "to debit the bank account specified above for any amount owed for charges arising from your use of"
+msgstr "at debitere den ovenfor angivne bankkonto for ethvert skyldigt beløb for gebyrer, der opstår som følge af din brug af"
+
+msgid "website and terms, until this authorization is revoked. You may amend or cancel this authorization at any time by providing notice to "
+msgstr "hjemmeside og vilkår, indtil denne tilladelse tilbagekaldes. Du kan til enhver tid ændre eller annullere denne tilladelse ved at give besked til"
+
+msgid "with 30 (thirty) days notice."
+msgstr "med 30 (tredive) dages varsel."

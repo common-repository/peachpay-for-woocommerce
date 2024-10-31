@@ -1,0 +1,233 @@
+#additional-fields-new, #additional-fields-existing {
+	display: flex;
+	flex-direction: column;
+}
+
+#additional-fields-existing {
+	gap: 24px;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+}
+
+h2.pp-additional-label {
+	margin: 0rem 0rem 0rem;
+}
+
+.pp-form-label-text {
+	font-size: 1em;
+	color: #828282;
+	display: block;
+	transform: translate3d(1rem, 1.5rem, 0rem);
+	transform-origin: 0 0;
+	transition: all 0.3s;
+	height: 0rem;
+	position: absolute;
+	font-size: 90%;
+}
+
+.pp-w30-label-additional {
+	width: 100px;
+	height: 23.3px;
+	overflow: hidden;
+}
+
+.pp-form-label-select {
+	font-size: 90%;
+	color: #828282;
+	display: block;
+	transform: translate3d(0.9rem, 0.8rem, 0rem) scale(0.8);
+	transform-origin: 0 0;
+	height: 0rem;
+	position: absolute;
+}
+
+.pp-input-box-text {
+	transition: all 0.5s;
+	border-radius: 5px;
+	border: 0;
+	padding: 1.6rem 1rem 0.4rem;
+	font-size: 1em;
+	font-family: avenir;
+	margin: 8px 0px 0px;
+}
+
+.pp-select-container {
+	position: relative;
+	width: 100%;
+	height: 32px;
+	box-sizing: border-box;
+}
+
+.pp-select-chevron {
+	position: absolute;
+	top: 0px;
+	right: 16px;
+	width: 12px;
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.pp-select-chevron span {
+	width: 100%;
+	height: 10px;
+	background-color: #828282;
+	mask-image: url('../img/chevron-down-solid.svg');
+	-webkit-mask-image: url('../img/chevron-down-solid.svg');
+	mask-size: cover;
+	-webkit-mask-size: cover;
+	margin-top: -2px;
+}
+
+.pp-select-box {
+	padding: 8px 16px;
+	height: 100%;
+	color: #828282;
+	border: 1px solid #9e9e9e;
+	-webkit-appearance: none;
+	box-sizing: border-box;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 14px;
+	box-shadow: none;
+	border-radius: 4px;
+	position: relative;
+}
+
+.pp-select-box:focus {
+	border-color: var(--peachpay-theme-color);
+}
+
+.pp-accordion-header:not(.initial)+.accordion-inner .pp-select-box {
+	color: #424242;
+}
+
+.pp-input-box-text::placeholder {
+	color: transparent;
+}
+
+.pp-input-box-text:focus + .pp-form-label-text {
+	transform: translate3d(0.9rem, 1rem, 0rem) scale(0.8);
+}
+
+.pp-input-box-text:focus + .pp-form-label-text,
+.pp-input-box-text:not(:placeholder-shown) + .pp-form-label-text {
+	transform: translate3d(0.9rem, 1rem, 0rem) scale(0.8);
+}
+
+.pp-input-box-text:focus + .pp-w30-label{
+	transform: translate3d(0.9rem, 1rem, 0rem) scale(0.8);
+	width: 100px;
+	height: 23.3px;
+}
+
+.pp-input-box-text:focus + .pp-w30-label,
+.pp-input-box-text:not(:placeholder-shown) + .pp-w30-label {
+	transform: translate3d(0.9rem, 1rem, 0rem) scale(0.8);
+	width: 100px;
+	height: 23.3px;
+}
+
+.pp-additional-preview {
+	display: flex;
+	position: relative;
+	justify-content: space-between;
+	padding: 2px 0px;
+	border-bottom: 1px solid rgba(158,158,158,.24);
+}
+
+.pp-additional-preview:last-child {
+	border-bottom: none;
+}
+
+.pp-additional-preview-label {
+	display: flex;
+	min-width: fit-content;
+	flex-grow: 1;
+}
+
+.pp-additional-preview-value {
+	display: flex;
+	color: #757575;
+	overflow: hidden;
+	white-space: nowrap;
+	margin-left: 12px;
+}
+
+.pp-additional-preview-value.initial {
+	opacity: 0.8;
+}
+
+.pp-additional-preview-value.required.initial {
+	color: var(--peachpay-theme-color);
+	opacity: 1;
+}
+
+.faded+.pp-fade-right {
+	opacity: 1;
+	pointer-events: none;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 14%;
+	height: 100%;
+	background-image: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+	transition: all .2s;
+}
+
+.pp-fade-right {
+	opacity: 0;
+	transition: all .2s;
+}
+
+@media only screen and (max-width: 900px) {
+	.input-box-text {
+		background-color: white;
+	}
+
+	.new-text {
+		background-color: #f2f2f2;
+		color: #43454b;
+	}
+
+	.pp-input-box-text {
+		margin: unset;
+	}
+
+	.pp-input-box-text::placeholder {
+		color: transparent;
+	}
+
+	.pp-form-label-text {
+		transform: translate3d(1.1rem, 1rem, 0rem);
+	}
+
+	.pp-input-box-text:focus + .pp-form-label-text {
+		transform: translate3d(1rem, 0.5rem, 0rem) scale(0.8);
+	}
+	
+	.pp-input-box-text:focus + .pp-form-label-text,
+	.pp-input-box-text:not(:placeholder-shown) + .pp-form-label-text {
+		transform: translate3d(1rem, 0.5rem, 0rem) scale(0.8);
+	}
+	
+	.pp-input-box-text:focus + .pp-w30-label{
+		transform: translate3d(1rem, 0.5rem, 0rem) scale(0.8);
+		width: 100px;
+		height: 23.3px;
+	}
+	
+	.pp-input-box-text:focus + .pp-w30-label,
+	.pp-input-box-text:not(:placeholder-shown) + .aprt-label {
+		transform: translate3d(1rem, 0.5rem, 0rem) scale(0.8);
+		width: 100px;
+		height: 23.3px;
+	}
+}
